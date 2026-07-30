@@ -15,6 +15,7 @@ the most beautiful places you can be to.
 
 And to make sure the devils do not get their victims souls they tell the lie about the devils being bad and the hell to be a firy place of pain and evil.
 Therefore they refer to the possitioning of the realms having the hell in the earth far from sunlight and the mount celestial as closest place to the sun and the sky.
+They nearly never do contracts about the soul of a human (or at least not this naming) as this is a big part of their anti-devil-campaign. 
 
 > This is heavily influenced by the structure of Dante's "Inferno", "Purgatorio" and "Paradiso". Counts on the real nature of Hell are found in overview and will be made in a hell's cult-idea.
 
