@@ -1,0 +1,1 @@
+As in most settings dwarfs are organized in different clans directly emerging from their family.
