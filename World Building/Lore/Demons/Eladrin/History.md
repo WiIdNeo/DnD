@@ -4,11 +4,11 @@
 
 In the First Age, before the kingdoms of mortals and before the rivers carved their ancient paths through the world, the gods were beings of pure magic. Their strength flowed directly from the sun above and the endless cosmos beyond. They neither hungered nor thirsted, for no earthly need could touch them.
 
-In those distant days, mankind lived beneath the protection of the heavenly hosts. The angels provided for them, and through the grace of the gods, no mortal knew famine or despair.
+In those distant days, mankind lived beneath the protection of the celestial hosts. The angels provided for them, and through the grace of the gods, no mortal knew famine or despair.
 
 Yet an age of darkness came.
 
-Angels, devils, and demons alike sought to claim the souls of mortals, for every soul was a source of immeasurable power. More and more souls were bound, until the great cycle of life began to falter. Crops withered, beasts disappeared, and the gifts once granted freely by the heavens became scarce. Hunger spread across the lands, and countless people perished.
+The celestials sought to claim the souls of mortals, for every soul was a source of immeasurable power. More and more souls were bound, until the great cycle of life began to falter. Crops withered, beasts disappeared, and the gifts once granted freely by the heavens became scarce. Hunger spread across the lands, and countless people perished.
 
 In their desperation, a handful of wise men sought the god of wisdom, whose true name has long since been forgotten. Unlike the other gods, he revealed to them the hidden order of creation.
 
@@ -34,7 +34,7 @@ The god of wisdom departed into the endless desert together with the few deities
 
 Years passed.
 
-The fertile lands shrank with every season. Forests became dust, rivers dried into cracked stone, and no child was born into the world. Every pregnancy ended only in grief and death. Humanity stood upon the edge of extinction, preserved only because the gods still fed fragments of their own strength to those who continued to worship them.
+The fertile lands shrank with every season. Forests became dust, and no child was born into the world. Every pregnancy ended only in grief and death. Humanity stood upon the edge of extinction, preserved only because the gods still fed fragments of their own strength to those who continued to worship them.
 
 At last, the god of wisdom accepted that words alone could never overcome greed.
 
@@ -50,9 +50,9 @@ Empowered by the strength of countless souls, the god of wisdom became mightier 
 
 Then began the War of Judgment.
 
-For many weeks heaven itself trembled. One by one the old gods fell before him. With every victory he absorbed their power, growing ever stronger until none remained who could oppose him.
+For many weeks the world itself trembled. One by one the old gods fell before him. With every victory he absorbed their power, growing ever stronger until none remained who could oppose him.
 
-When the final battle had ended, silence covered the world.
+When the final battle had ended, silence covered the world, as all humans died with their patrons ended powering them up.
 
 The victor looked upon the lands he had saved—and found only ruin.
 
@@ -88,7 +88,7 @@ Then he released every soul he had gathered during the great war.
 
 The burden of countless lives passed through him in a single moment, shattering even his divine strength.
 
-Exhausted beyond recovery, he walked alone into the Land Without Return, from which no soul has ever returned.
+Exhausted beyond recovery, he walked alone into the Land Without Return.
 
 ---
 
