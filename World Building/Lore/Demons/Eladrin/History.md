@@ -1,42 +1,181 @@
 # Early time
 
-# Formation of eladrin alliance 
+# The Formation of the Eladrin Alliance
 
-In the beginning the gods where magical beings gaining their power from sun and cosmos. They did not need any food or water to stay alive.
+In the First Age, before the kingdoms of mortals and before the rivers carved their ancient paths through the world, the gods were beings of pure magic. Their strength flowed directly from the sun above and the endless cosmos beyond. They neither hungered nor thirsted, for no earthly need could touch them.
 
-It was many millennia ago when angels, devils and demons nearly bound all the souls. The food become rare and the humans - to that point fed by the angels masters - started to die. It was this point when some wise humans prayed to xxx, the god of wisdom. xxx explained them how souls flow naturally and how demons and gods gathered them. Also xxx told the humans about their role in the system and he told them to do not pray to their other gods to reduce their power. But humans are feared of anger the gods and loose their last source of food, so they continued praying to them. 
+In those distant days, mankind lived beneath the protection of the heavenly hosts. The angels provided for them, and through the grace of the gods, no mortal knew famine or despair.
 
-This way the problem became even wore and when xxx saw this he organized the first convention of all demons and gods. Three days xxx tried to convince the others to release their souls to renew the circle. 
-But there only were little low numbers of gods did so. And the greedy one just consumed those souls immediately powering up even further. As xxx and the other gods saw so they resolved the conference and went out in the desert searching another way of saving the world. So years went by reducing the living space further and further. Also there were no more children or births, all the births resulting in death and pain. Humanity was just about to end and only keept alive by their gods sacrefising enrgy to keep their prayers alive. At this point xxx and his followers went for the last attempt. They invented a ritual using the same mechanism like praying to gather all their power to xxx to overcome the other gods and kill them. But the ritual was exhausting and many of the followers died, resulting in only a handful of them being alive. 
+Yet an age of darkness came.
 
-But with all this power combined, xxx became strong as hundreds of gods together, and he could fullfill his task. In an epic battle taking many weeks he killed one of the gods after the other consuming his power to become even stronger. 
+Angels, devils, and demons alike sought to claim the souls of mortals, for every soul was a source of immeasurable power. More and more souls were bound, until the great cycle of life began to falter. Crops withered, beasts disappeared, and the gifts once granted freely by the heavens became scarce. Hunger spread across the lands, and countless people perished.
 
-But after he killed all the gods and their demons he found the world desert and empty. Only a really small place was still some green. So he went there meeting the other 6 Gods, survived the ritual. 
+In their desperation, a handful of wise men sought the god of wisdom, whose true name has long since been forgotten. Unlike the other gods, he revealed to them the hidden order of creation.
 
-xxx called them all together and he talked to his people. 
+He taught them that every soul was meant to flow endlessly through the world—that life, death, and rebirth formed a sacred circle. Gods and demons alike drew strength from this current, yet by hoarding souls instead of releasing them, they had begun to strangle the very source of their own existence.
 
-He talked to them about the incompassion of the other gods with the humans and he brought hunger and thirst over the gods.
-He talked about the need for division of power and he made a limit of powers. And lastly he talked about the need to restore the world.
-And so he assigned different roles to the god an gave them their power back.
+The god instructed the wise to cease their prayers to the other deities, for every prayer granted them greater power to continue their greed.
 
-He stepped in front of the first one and called him Ea and assigned him the power of sweet water.
-He stepped in front of the second one and called him prometheus, god of fire.
-He stepped in front of the third one and called him Frey and assigned him the realm of growth and harvest.
-He stepped in front of the fourth one and called her Ischtar and assigned her the realm of Knowledge.
-He stepped in front of the fifth one and called him Aiolos and assigned him the realm of Air and Wind.
-And as he stepped in front of the sixth one and Xochiquetzal and assigned her the realm of Love.
+But the people were afraid.
 
-After talking to all of them he stepped back and explained how to revive all humanity. Then he released all the souls bound to him and then exhausted by the pain this process causes he stepped into land without return.
+They feared that abandoning their gods would bring divine wrath upon them. Though famine consumed them, they continued their prayers, believing the gods to be their final hope.
 
-The other gods gollowed the wisdom of xxx and started to restore the world, beginning with sacred ground they are standing on. To horner xxx they called it Eden. Ea created two rivers to water the land and Frey make the desert grow and spring. Prometheus than created two humans Adam and Lilith and Eva. 
+Thus the suffering only deepened.
 
+When the god of wisdom saw that mortals alone could not change the course of fate, he summoned the First Great Convocation. Gods, angels, devils, and demons gathered beneath the open heavens, and for three days and three nights he pleaded with them.
 
+He warned them that unless the imprisoned souls were released, all life would perish.
 
-Weiter:
+A few among the lesser gods listened. They opened their grasp and returned their souls to the great cycle. Yet before those souls could restore the world, the mightier gods seized them again, devouring them to increase their own strength.
 
-- Adam schläft mit Lilith und Eva
-- Eva wird neidisch und verflucht Lilith
-- Adam und Eva werfen Lilith aus dem Paradis 
-- Lilith geht in die Wüste und sucht Rache
-    - Sie kommt zurück und wie Eva mit ihrem Fluch stiehlt sie Eva ihr Kind
+The council ended in failure.
+
+The god of wisdom departed into the endless desert together with the few deities who still believed in his cause. There they searched for another path while the world continued to die.
+
+Years passed.
+
+The fertile lands shrank with every season. Forests became dust, rivers dried into cracked stone, and no child was born into the world. Every pregnancy ended only in grief and death. Humanity stood upon the edge of extinction, preserved only because the gods still fed fragments of their own strength to those who continued to worship them.
+
+At last, the god of wisdom accepted that words alone could never overcome greed.
+
+Together with his faithful followers he devised a final ritual. It used the very principle of prayer itself, allowing many souls to unite their strength and bestow it upon a single being.
+
+The price was terrible.
+
+The ritual consumed nearly every participant. One after another the faithful gave their lives until only six gods remained beside their leader.
+
+Yet the sacrifice was not in vain.
+
+Empowered by the strength of countless souls, the god of wisdom became mightier than hundreds of gods united.
+
+Then began the War of Judgment.
+
+For many weeks heaven itself trembled. One by one the old gods fell before him. With every victory he absorbed their power, growing ever stronger until none remained who could oppose him.
+
+When the final battle had ended, silence covered the world.
+
+The victor looked upon the lands he had saved—and found only ruin.
+
+The earth had become an endless desert. Only a single sanctuary of green life remained untouched by the devastation.
+
+There, the god of wisdom gathered the six survivors.
+
+He spoke not as a conqueror, but as a teacher.
+
+He declared that no god should ever again stand above the needs of mortals. Therefore he laid hunger and thirst upon every divine being, so that even the gods would forever remember dependence and restraint.
+
+He proclaimed that no single god should possess limitless power, for absolute power had brought the world to ruin.
+
+Finally, he charged them with restoring creation itself.
+
+Then he returned to each of them a portion of divine authority.
+
+To the first he gave the name **Ea**, Lord of Sweet Waters, that rivers and springs might once more flow across the earth.
+
+To the second he gave the name **Prometheus**, Keeper of Fire, whose flames would warm the world and kindle civilization.
+
+To the third he gave the name **Frey**, Guardian of Growth and Harvest, who would awaken forests, fields, and every living seed.
+
+To the fourth he gave the name **Ishtar**, Lady of Knowledge, that wisdom should never again be forgotten.
+
+To the fifth he gave the name **Aiolos**, Master of Wind and Sky, whose breath would carry clouds across the heavens.
+
+To the sixth he gave the name **Xochiquetzal**, Lady of Love, whose gift would bind together families and nations alike.
+
+Having restored the balance among the gods, the god of wisdom revealed to them how mankind could be reborn.
+
+Then he released every soul he had gathered during the great war.
+
+The burden of countless lives passed through him in a single moment, shattering even his divine strength.
+
+Exhausted beyond recovery, he walked alone into the Land Without Return, from which no soul has ever returned.
+
+---
+
+# The Humans in Eden
+
+The six gods remained faithful to the teachings of their fallen guide.
+
+Upon the last fertile place in the world they began the work of renewal.
+
+To honor the sacrifice of the First God, they named that sacred land **Eden**.
+
+Ea caused two mighty rivers to spring forth from the earth.
+
+Frey clothed the barren ground in forests, meadows, and orchards until life flourished once more.
+
+Prometheus shaped three humans from the clay of the renewed world: **Adam**, **Eve**, and **Lilith**.
+
+The gods walked openly among them, and together they cultivated Eden in peace.
+
+As the years passed, mankind once again lifted prayers to the heavens.
+
+The gods accepted their worship, yet unlike the old gods they granted gifts in return. They taught humanity to master magic, to work the land, and to raise a great city whose beauty was said to rival the heavens themselves.
+
+In time Eve conceived a child.
+
+But Adam had also lain with Lilith, and she too carried life within her.
+
+When Eve learned of this, jealousy entered the hearts of mankind for the first time. In her fury she cursed Lilith, declaring that her unborn child should never know life.
+
+The curse was fulfilled.
+
+Lilith's child died within her womb, and Adam, fearing Eve's wrath more than justice itself, cast Lilith from Eden.
+
+Alone she wandered into the desert.
+
+Grief became bitterness.
+
+Bitterness became hatred.
+
+And hatred gave her strength.
+
+On the night Eve entered labor, Lilith returned.
+
+She seized Eve's newborn child.
+
+Neither Adam nor Eve could stand against the fury born from loss, and Lilith brought the great city of Eden crashing into ruin before vanishing once more into the wilderness with the stolen infant.
+
+When dawn came, the gods beheld what had happened.
+
+They judged that mankind had failed because there was no balance between desire and responsibility.
+
+Therefore they cast Adam and Eve from Eden.
+
+Yet they did not abandon them.
+
+The gods granted them the strength to tame the wild lands beyond paradise and bestowed the same gift upon Lilith and the child she had taken.
+
+Then they revealed to mankind the Virtues by which peace might be preserved, and the Sins through which it would forever be threatened.
+
+---
+
+# The Founding of a People
+
+Generations passed.
+
+Adam and Eve filled the world with descendants, and their children spread across the lands they had reclaimed from the wilderness.
+
+Yet the memory of the First Child never faded.
+
+Neither did the hatred for Lilith.
+
+Parents taught their children that Lilith dwelt beyond the borders of civilization.
+
+They warned that she and her descendants lured men into ruin, slew women without mercy, and devoured the children of mankind.
+
+The stories passed from one generation to the next until every child knew her name.
+
+But names carry power.
+
+Fear is a form of devotion.
+
+As mortals spoke of Lilith with terror in their hearts, they unknowingly nourished her and those who followed her.
+
+So the children of Lilith grew in strength.
+
+They multiplied in the forgotten places of the world, becoming the beings that mankind would forever know as **Demons**.
+
+And from that day onward, humanity has feared not only the darkness beyond the firelight, but also the darkness born within its own heart.
+
 
