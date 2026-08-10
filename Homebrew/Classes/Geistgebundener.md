@@ -1,3 +1,7 @@
+> # Attention!
+>
+> This is just the result of some brainstorming. It is in no way tested or even carefully overthought yet, so do not use this as a real class!
+
 # 🧬 Geistergebundene
 
 *A D&D 5e Homebrew Class*
