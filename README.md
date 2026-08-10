@@ -10,3 +10,17 @@ As this project is a home-brew free-time project it will expand non-regular and 
 
 Please keep close to my own structure of monsters etc., and call that in an issue if you add any new mechanic or stats.
 
+## Base idea
+
+To get you a basic idea of what happens in this home-brew:
+
+- I will reduce abstrtaction massivly.
+  - Fights:
+    - Remove AC and other abstract stats
+    - Implement an Energy-Action-System
+    - Implement a more detailed called shot system
+  - World and Travel:
+    - Implement weather / temperature and make them really matter
+  - Lore:
+    - I do not like the idea of the tematic worlds like the outer planes are. Therefore the outer planes collaps to biomes on material plane
+    - Also I am not sure if I keep Fey and Fell like they are now or if I collapse them to one mirror of the world.
