@@ -2,6 +2,8 @@
 >
 > As may mechanics are written down multiple times like function of Spell slots they will be cleansed most of the time. If you don't understand something search web or raise a discussion after checking existing ones.
 
+> ## THIS IS LEGACY! I GOT ANOTHER IDEA OF HOW CLASSES WORK. SO MAY VISIT THE "CLASSES AND RACES" FOLDER TO FIND THE NEW IDEA!
+
 ## BARBARIAN
 
 ### Klassentabelle
