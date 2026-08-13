@@ -137,5 +137,7 @@ You start on choosing a main path in tree. You unlock it by reaching certain att
 
 After it you can enter specific classes. If you go for DEX you could become a Ranger or a Fighter or a Thief of course.
 
-I imagine you getting X Points during Leveling and you can spend each point free to any class's traits you match the requirements.
+I imagine you getting X Points during Leveling and you can spend each point free to any class's traits you match the requirements. So you can build up an elementalist as you wish combining all types of elements or you go the classic way of just punping up your fire bold's damage.
+
+So the classes mainly contain a list of what features they got and the requirements to level it. 
 
