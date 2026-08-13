@@ -81,16 +81,15 @@ This is meant as an overview on classes and races and some discussions on those 
 
 > Even if there are a lot of class bound spells, but I am a fan of many free usable spells to differ a little more.
 
-## Class Tree
+## Class 
 
 ```mermaid
 flowchart TD
-Z[Base Character]
-GA{{WIS-Gate}}
-GB{{INT-Gate}}
-GC{{CHA-Gate}}
-GD{{DEX-Gate}}
-GE{{STR-Gate}}
+GA{{WIS}}
+GB{{INT}}
+GC{{CHA}}
+GD{{DEX}}
+GE{{STR}}
 
 T[Thief]
 W[Warlock]
@@ -108,25 +107,28 @@ E[Elementar Magican]
 G[Sourcerer]
 I[Cleric]
 J[Monk]
-R[Rune Magican]
 
-Z --> GA --> D
+GA --> D
 GA --> L
-GA --> R
 GA --> I
 GA --> W
-Z --> GB --> H
+
+GB --> H
 GB --> E
 GB --> S
 GB --> C
 GB --> N
 GB --> M
-Z --> GC --> B
+
+GC --> B
 GC --> G
-Z --> GD --> T
+
+GD --> T
 GD --> J
+GD --> R
 GD --> F
-Z --> GE --> F
+
+GE --> F
 ```
 
 The idea is to have some more variance in classing by opening to only lose a very tiny bit of progress.
@@ -134,3 +136,6 @@ The idea is to have some more variance in classing by opening to only lose a ver
 You start on choosing a main path in tree. You unlock it by reaching certain attribute levels.
 
 After it you can enter specific classes. If you go for DEX you could become a Ranger or a Fighter or a Thief of course.
+
+I imagine you getting X Points during Leveling and you can spend each point free to any class's traits you match the requirements.
+
