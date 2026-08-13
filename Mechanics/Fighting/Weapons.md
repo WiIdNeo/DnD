@@ -182,4 +182,6 @@ A shield does not deal any damage on Attack! Therefore your Target needs to do a
 
 As your movement is not blocked or slowed in any way all checks whatfore figners or arms are useful the DC becomes 1 lower. This also applies to dodges.
 
-The weapons themself you find in Classes and Races markdowns
+The weapons themself you find in Classes and Races markdowns. 
+
+If you or your dm want you can't wield a weapon with your paws like a tabaxi normally couldn't, your natural weapons may get a little stronger, scaling and/or counting as magic, as you and your dm decide.
