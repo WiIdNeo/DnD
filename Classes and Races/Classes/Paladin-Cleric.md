@@ -1,0 +1,1 @@
+For this I am interpreting Paladin and Cleric the same as source of power is quite irrelevant and can just be mapped to two different sources you define in your background. As I do about Fighter and Barbarian as well.

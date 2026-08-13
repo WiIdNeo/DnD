@@ -1,0 +1,1 @@
+As sourcerer your Magic is really about intention and instinct. After casting a skall also a random effect occurs. So you can buff you controll about Magic.

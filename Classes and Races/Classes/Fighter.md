@@ -1,0 +1,1 @@
+A fighter is a really far class. Beginning on barbarian ending on a knight. As this may takes tho most time and spreat I will go later on it.
