@@ -24,3 +24,5 @@ To get you a basic idea of what happens in this home-brew:
   - Lore:
     - I do not like the idea of the tematic worlds like the outer planes are. Therefore the outer planes collaps to biomes on material plane
     - Also I am not sure if I keep Fey and Fell like they are now or if I collapse them to one mirror of the world.
+
+Really important for this idea is to remove strict spells and make the players more describe what they really want to do and the dm is just saying yes or no, but this description makes the game much more open and you can really do what you want to. Also you don't need any big spell list to carry.
