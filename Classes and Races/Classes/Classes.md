@@ -1,5 +1,11 @@
 # Skill Paths — Unified Reference
 
+**Revision 2 note:** Part 1 below is unchanged from the first pass (structure + translation only). Part 2, added in this revision, goes deeper: for each path it defines *how the tracks actually work* — constraints, costs, failure states, and GM-adjudicated situations — as the groundwork for the eventual 20-level-per-track breakdown. Three corrections from review are already folded in: the Summoner's Exorcist/Binder track has been cut, the Tamer's trust-discount is now an optional GM rule rather than baseline, and the Death-Necromancer's "bond snaps" behavior is now a GM situational table instead of one fixed rule.
+
+---
+
+# Part 1 — Base Definitions (Concept / Inspiration / Tracks)
+
 **Editorial note on this pass:** This document only unifies formatting and translates the content to English — no new mechanics, attribute requirements, or tier content were invented. Two structural inconsistencies from the original draft are preserved as-is and flagged here for the next step (defining attribute requirements and mechanics):
 
 1. Some paths use a **5-stage scale (Tier 0–4)**, others use a **3-stage scale (Early / Mid / Late)**. Deciding whether every path should converge on one shared scale (e.g. stretching Early/Mid/Late into 5 tiers) is a mechanical design decision, not a translation one — flagged for step two.
@@ -217,7 +223,8 @@ This gives the class the same risk/control identity the other classes have: you'
 | **Summoner** (Quantity) | Bind two weak demons at once | Demons follow simple command chains (e.g. "hold this line") | Mass binding: a temporary legion of weak servants for a short time |
 | **Tamer** (Quality) | One mid-strength demon, CHA save on risky commands | Trust builds over time: repeated successful control lowers future save DCs for that demon | Demon gains quasi-independent initiative, acting almost like an NPC ally |
 | **Diplomat** (Contracts) | Lower binding costs, but the demon can make small "demands" (downtime consequences) | Negotiable clauses: "borrow" combat advantages against future concessions | Permanent pacts with powerful demons without ongoing save risk, at a large fixed cost |
-| **Exorcist / Binder** (Anti-Magic) | Can weaken enemy summons/undead instead of summoning your own | Banishing becomes an active combat option (ejecting enemy summons) | Can briefly "re-bind" foreign demons and use them yourself |
+
+*(An earlier draft included a fourth path, Exorcist/Binder, focused on banishing enemy summons instead of binding your own. Cut in review: there's no clear answer for what a 100%-specialized Exorcist actually does in an encounter that has no summons or undead in it — e.g. a fight against a plain bandit. The banishing concept may return later as a combat option available to all three paths above, rather than a standalone specialization.)*
 
 ---
 
@@ -256,3 +263,252 @@ This gives the Witch a well-rounded identity: **Curse** (offense), **Brew** (pre
 | **2** | Transformation into small animals (frog, rat) | Rare/powerful potions, group brewing | Familiar fights/casts alongside you independently | Genuine glimpses of the future (short visions) |
 | **3** | Powerful, hard-to-break curses | Legendary potions, permanent effects | Role-swap with the familiar becomes possible | Actively rewrite fate (prevent/force an event) |
 | **4** | Transformation into almost anything, permanent | Reality-altering potions | Familiar becomes a quasi-independent power | Pull on major threads of fate (the future of multiple people) |
+
+---
+
+# Part 2 — Deepened Track Definitions (Constraints, Costs, Failure States)
+
+This section exists to define *how* each track actually behaves before we lock in a 20-level-per-track structure — what it needs to function, what it can't do, and what happens when it fails or gets pushed too far. Where a "loss of control" moment needs GM adjudication rather than a fixed rule, that's called out as a GM table or GM-ruling note rather than baseline mechanics.
+
+## Alchemist
+
+**Core identity:** Nothing is created from nothing — the Alchemist transforms matter that's already present. Chemistry, not sorcery. "What's actually on hand" limits the class as much as character level does.
+
+**State**
+- Requires matter within reach; larger transformations need proportionally more time/prep rather than being instant.
+- Risk: uncontrolled phase transitions — flash-boiling water is also a pressure wave, not a clean combat effect.
+
+**Material Properties**
+- Altering a material requires identifying it first — altering an unknown material blind is possible, but with a higher failure chance/unpredictable outcome.
+- Poisoning/decomposition carries social consequences similar to the Necromancer's Life-Energy track — visibly poisoning something gets judged by NPCs/society, not just resolved mechanically.
+- Full-object transmutation (Tier 3) is rare and expensive in time/material cost — not a gold-farming tool, more of a statement spell.
+
+**Golem-Building**
+- Constructs generally require downtime to build — no instant summons the way the Summoner gets them.
+- Early golems follow commands literally, not by intent — a classic "sorcerer's apprentice" problem: vague orders can backfire until higher tiers grant real autonomy/context understanding.
+
+---
+
+## Bard
+
+**Core identity:** Power comes from your actual repertoire — you can't awaken a story you don't know/haven't learned. Effectiveness depends on narrative quality, not just raw power.
+
+**Awakening Stories**
+- Requires a learned/known story as a base; fully improvised, spontaneously invented stories only work reliably at high tiers.
+- Once a story "happens," it follows its own narrative logic to some degree — similar to the Sorcerer's overshoot, but narrative instead of physical. The GM has deliberate latitude here: an awakened side character can outlast the encounter and pursue a small agenda of its own.
+
+**Battle Music**
+- Requires continuous performance — interruption (a gag, an injury to hand/voice, silence effects) ends the effect immediately; no passive background buff.
+- Range/effect scales with the number of allies inside the rhythm radius — noticeably weaker solo than in a group.
+
+---
+
+## Druid
+
+**Core identity:** Never forced magic, always negotiation/request. Effectiveness depends on your relationship to the counterpart (animal, plant, place, spirit), not just your tier.
+
+**Animals**
+- Requires animals actually present; deeper bonds (commanding a pack) build over time with specific animals/species in a region — no universal "access to every animal in the world."
+
+**Plants**
+- Slow, area-/duration-heavy rather than burst — not a fast combat-utility track in its early tiers.
+- Risk: interfering with a forest's growth can have ecosystem consequences the druid can't fully foresee — a narrative risk more than a mechanical one.
+
+**Earth (Life)**
+- Life-energy transfer works on anything living, including the druid — healing someone else at your own cost is explicitly possible in this system, and cuts both ways.
+- Transformation is tied to **personal experience**: only forms of animals the druid has genuinely bonded with — no generic form catalogue.
+
+**Nature Spirits**
+- Spirits are asked, not commanded — the strength of granted help depends on the "spiritual density" of the location (an old forest is strong, a city or blighted land is weak).
+- Disrespectful or excessive use can permanently sour a druid's standing with a region's spirits — a GM-driven consequence, not a numeric penalty.
+
+---
+
+## Elementalist
+
+**Core identity:** The Elementalist doesn't manipulate "magic" in the abstract — each track works a concrete physical medium. The element itself is the limiting factor, not mana or stamina. That's what makes the four tracks tactically distinct instead of reskins of the same mechanic.
+
+**Fire**
+- Up through Tier 2, generally needs an ignition source or flammable material nearby (oil, wood, dry grass) — conjuring fire from nothing only becomes possible at higher tiers; before that you're kindling, not creating.
+- Cost/risk: fire spreads if you're not actively holding it — a wall of flame in a tavern is a problem for your own team too. That's the track's built-in brake: control costs attention, not resources.
+
+**Water**
+- Requires a water source in range (river, rain, even blood/bodily fluid as a gray area at high tiers). With no water nearby, the track is entirely nonfunctional — the deliberately hardest environmental constraint of the four elements.
+- In exchange: the most versatile applications of any element (weapon, armor, mobility, environmental control, depending on the situation).
+
+**Earth**
+- Manipulates stone, sand, earth — mostly stationary or slow-moving, but structurally powerful (walls, pits, earthquakes).
+- Like Water, needs a material source, but that's present in most environments (except e.g. aboard a ship) — noticeably more reliable to use than Water.
+- Cost/risk: slower reaction time than the other three elements — not a track for quick evasion, more for controlling the battlefield.
+
+**Air**
+- The only element with no material dependency — air is always present. In exchange, mechanically the "thinnest": effects lean utility/control (knock down, blow away, small bolts) rather than pure damage.
+- The bolt sub-aspect (small lightning) enters at Tier 2 — deliberately the only place the Air track touches pure damage, so a pure Air specialist isn't left without any offense.
+
+---
+
+## Fighter
+
+**Core identity:** Three different resource curves rather than three playstyles with different flavor text — each has a built-in weakness that's inseparable from its strength.
+
+**Barbarian**
+- Needs continuous combat input (dealing/taking damage) to fill the pool — runs dry in defensive, cautious fights or against a single opponent who fights carefully.
+
+**Duelist**
+- Needs active back-and-forth (counters, dodges) — weak against sheer attrition by numbers, or against opponents who just turtle/block instead of actively attacking.
+
+**Knight/Formation**
+- Pool only builds evenly over a longer fight — effectively unused in short skirmishes/ambushes, strongest in long battles/sieges.
+
+---
+
+## Light Mage
+
+**Core identity:** Two fundamentally different reliability logics — the sun is constant but loud; the moon is powerful-but-variable, and quiet.
+
+**Sun-Worker**
+- Signature is always visible/audible — incompatible with stealth builds, by design, not by oversight.
+- Reliability is the core deal: power doesn't fluctuate with external circumstances the way the Moon-Worker's does.
+
+**Moon-Worker**
+- Raw power follows the actual in-game moon phase — not freely chosen, forcing planning around the calendar instead of pure encounter-by-encounter decisions.
+- Nearly powerless in raw strength at new moon, but with exclusive access to effects the sun never reaches — the track has a built-in rise-and-fall rhythm instead of a flat power curve.
+
+---
+
+## Mirage
+
+**Core identity:** Two roads to illusion — knowledge of the target vs. believability of the environment.
+
+**Mind Reader**
+- "Reading" can fail/be resisted (high WIS/Insight on the target's side) and takes time — vulnerable while reading.
+- Stored knowledge can go stale if the target changes over the course of the story — GM's call on whether an old "read" weakness still applies.
+
+**Fata Morgana**
+- Heavily environment-dependent — an empty, featureless space (a white room, an open field) significantly weakens the track.
+- The more observers who need to be deceived at once, the harder it is to keep the illusion consistent for all of them.
+
+---
+
+## Monk
+
+**Core identity:** Ki resource vs. physical reliability — two different answers to "what happens when your resource runs out or gets stripped from you."
+
+**Ki Adept**
+- Needs rest/meditation to regenerate — vulnerable in long campaigns without downtime, or against silence/anti-magic effects.
+- Contactless ki effects (pure ranged effects) only arrive at mid tiers — early on, still dependent on landing hits.
+
+**Martial Artist**
+- Forms/styles are generally locked in per encounter/rest — less mid-fight flexibility, but nothing can be "stripped" from it (no resource pool to drain) — more reliable against anti-magic than the Ki Adept.
+
+---
+
+## Necromancer
+
+**Core identity:** Three resource logics that are deliberately mutually exclusive in their *availability* — the Necromancer is strong when they have the right resource at the right time, and weak when they don't.
+
+**Life-Energy (Vampiric)**
+- Needs living targets in range — entirely useless in an empty room or against undead/constructs.
+- Targets can resist (a save) — a successful resist means no backlash damage, but the social/moral consequence remains: visibly draining living beings is something NPCs, allies, and society notice and judge. That's the track's real cost — more narrative/social than mechanical.
+
+**Blood**
+- An internal resource, works always, anywhere — no material, no target needed. In exchange, hard-capped by your own vitality: overdraw it and you risk real consequences up to incapacitation or death, not just a penalty.
+- "Banking" blood (accumulating the resource before a fight) makes the track plannable, but only shifts the risk in time — it doesn't remove it mechanically.
+
+**Death**
+- A pure logistics resource: no material (corpses) means no power, regardless of level. A necromancer in a sterile environment is the weakest of the three sub-builds.
+- Loss of control works differently than a Summoner's demons: raised dead aren't a negotiating consciousness — it's closer to a system failure from holding too many/too powerful undead at once. The bond "snaps" rather than the servant actively rebelling. The GM adjudicates what actually happens using situational judgment rather than one fixed rule:
+
+| Situation when the bond snaps | Likely outcome |
+|---|---|
+| A simple servant (no independent will) | Simply collapses — no brain/will was ever needed to sustain it, poses no threat |
+| A servant mid-way through a clear, simple order | Stubbornly carries out the last order until it's complete or times out |
+| A servant with no clear order, amid chaos/combat | Attacks the nearest moving target indiscriminately, friend or foe |
+| An especially powerful/named dead | Retains a residue of independent will, acts on its own (possibly vengeful) agenda |
+
+---
+
+## Paladin / Cleric
+
+**Core identity:** Power through self-discipline rather than resource management — the Tenet *is* the mechanic; everything else hangs off it.
+
+**Cross-path note:** What counts as "tenet-consistent" is a negotiation between player and GM — this needs clarity at session zero (walk through examples in advance), or every Zeal/Doubt call becomes an argument. Similar to the Death-Necromancer table above, a small reference table of "typical edge cases per tenet archetype" would likely help here — flagged for the next pass.
+
+- **Guardian / Avenger / Unshakeable / Wanderer** stay conceptually as in the original draft — the four differ mainly in *how* they handle Doubt (ignore it, exploit it riskily, resist it, or shift the tenet itself), not in the base mechanic.
+
+---
+
+## Ranger
+
+**Core identity:** Three different ways to generate advantage — through another being (animal), through information (marking), through environment (terrain).
+
+**Companion**
+- The animal is an independent, attackable entity in the world — it can be isolated, hurt, or killed, with real consequences for the ranger (similar to the Witch's Familiar).
+- During Fusion (late tier), the animal itself is "paused" — no simultaneous access to both.
+
+**Hunter**
+- Marking requires clearly identifying the target — works poorly against invisible/disguised/not-clearly-identified enemies.
+- A target aware of being marked may be able to counter it in specific ways (GM's judgment call).
+
+**Wild Fighter**
+- Strongly dependent on readable terrain — noticeably weaker in featureless arenas or completely unfamiliar environments (e.g. underwater, for a forest ranger), until the track starts adapting to enemy type rather than just terrain at mid tier.
+
+---
+
+## Sorcerer
+
+**Core identity:** Raw power traded for predictability — the overshoot table in the base document already functions as this path's "GM table" for loss of control, analogous to the Necromancer's Death table above.
+
+- Risk is highest for unfamiliar/rarely cast spells and only drops through investment in that specific spell/spell type — this deliberately favors a specialized Storm Rider or Channeler over a multi-class character who spreads across many spell types and therefore never fully cashes in the familiarity bonuses.
+
+---
+
+## Summoner
+
+**Core identity:** The Summoner negotiates with something that would rather overpower them than serve them. Every binding is a CHA check against the demon — success means control, failure doesn't mean "nothing happens," it means the demon gains something.
+
+**What happens when a demon overpowers you** (general, cross-path):
+- The demon briefly acts on its own agenda instead of your command — usually destructive or escape-oriented, not necessarily lethal toward you specifically (a demon that kills you generally also loses its anchor into the world, which is rarely in its interest).
+- It leaves a kind of corruption/binding damage on you (a small permanent penalty that only rolls back through downtime or a ritual) — that's the real cost, not the demon itself.
+- How dramatic this gets differs clearly per path (see below) — the main reason to build the paths mechanically distinct rather than just reskinning the same thing.
+
+**Summoner (Quantity)**
+- Many weak demons — a single loss of control is minor (one loose weak demon is a nuisance, not a fight-ender), but with several simultaneous bindings, the chance that *something* slips rises. The risk is statistical, not dramatic.
+
+**Tamer (Quality)**
+- One stronger demon — a high single-point-of-failure track. A Tamer demon that slips its leash is a genuine threat to the party. As an **optional GM rule**, a table can decide that repeated, consistent handling of the same demon lowers its save DC over time — this is explicitly campaign-/tone-dependent, not baseline. By default, the DC stays flat regardless of history.
+
+**Diplomat (Contracts)**
+- No spontaneous loss of control in combat; instead, consequences arrive through contract clauses accepted in advance — the demon doesn't "win" in the moment, it wins later, in the form of concessions called in. The most plannable track, but the most expensive long-term.
+
+---
+
+## Warlock — Draft, Not Yet Final
+
+Unlike the other paths, there's no existing tier structure here yet — just the core idea (raise Conviction = more power, but more of the patron's influence gets through; raise Resistance = more independence, but less power) plus three loose manifestation ideas. Proposed way to bundle this into real tracks — this is a proposal to be checked against the concept, not a derivation from something already established:
+
+- **Conviction Track:** how far you open yourself to the patron — more raw power, but the patron can increasingly push its own impulses/demands through (similar to Doubt for the Paladin, but externally imposed instead of self-set).
+- **Resistance Track:** how much you wall yourself off from the patron — less power, but the patron can't influence you against your will; makes you less subject to the patron's whims.
+- Tome/Pact Weapon, Servant, and Multi-Pacting would then be **manifestation forms** (how the power expresses itself) rather than standalone tracks with their own depth — similar to how, for the Necromancer, the three resources are real tracks, but "what the servant looks like" is just flavor.
+
+---
+
+## Witch
+
+**Core identity:** Four clearly separated playstyles with fundamentally different resource economies — this is the path that scales most sharply from "reactive" (Curse, Familiar) to "prepared" (Brewing, Fate).
+
+**Curses & Witchcraft**
+- Strength scales heavily with knowledge of the target — a total stranger only gets weak, generic curses; a personal item, a true name, or extended observation makes curses more targeted and harder to resist. This creates a natural preparation-vs-spontaneity tension within the track itself.
+- Usable reactively in combat, but the strongest effects (transformation) need time/ritual — no instant-frog-in-a-duel at low tiers.
+
+**Brewing**
+- A pure preparation economy: no potion exists in the moment of combat unless it was brewed beforehand. This makes the track highly plannable and shareable (hand a potion to an ally), but entirely useless against a surprise attack with no lead time.
+- Limited by ingredients/cauldron/time rather than a classic resource pool — a downtime activity that only "pays out" in combat.
+
+**Familiar**
+- The only track with an independent, attackable entity in the world — the familiar can be hurt, captured, or killed, with real consequences for the witch (loss of senses, possibly temporary power loss, depending on bond depth). This clearly separates it from the Ranger's Companion, which is more of a combat tool — the Familiar is more of an extension of the witch herself.
+- Role-swap (late tier) also means: while the witch is acting through the familiar, her own body is more vulnerable/helpless — a deliberate risk trade, not a pure power gain.
+
+**Fate & Foresight**
+- The subtlest track: early tiers are pure information (foresight), no direct combat influence. Only becomes noticeable from Tier 2–3 onward, once actively shifting rolls/events comes into play.
+- Risk lies less in backlash damage and more in reliability: actively rewriting fate is never guaranteed to work and can have unpredictable side effects (a prevented event might still happen, just differently) — deliberately the least "calculable" track in the whole system.
