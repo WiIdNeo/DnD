@@ -1,5 +1,7 @@
 The Monk of DnD is mainly taken over. 
 
-Only thing I could Imagine is to make Spell Casting abillity CHA, as all the energy emerges from the monk itself.
 
-You can invest in ki or martial arts. 
+| Pfad | Früh | Mittel | Spät |
+|---|---|---|---|
+| **Ki-Adept** | Ki-Pool größer, mehr Stances/Techniken gleichzeitig verfügbar | Ki-Techniken wirken auch ohne Treffer (reine Energieeffekte, z. B. Fernwirkung, Elementarschaden) | Kann Ki nahezu verlustfrei einsetzen, sehr hohe Frequenz an Spezialtechniken pro Kampf |
+| **Kampfkünstler** | Grundangriffe treffsicherer/häufiger, weniger Ki-Abhängigkeit | Kampfstile/Formen schaltbar, die passiv gelten (kein Ki-Verbrauch nötig) | Kann in einen "reinen Körper"-Zustand gehen: maximale physische Leistung komplett ohne Ki-Kosten |

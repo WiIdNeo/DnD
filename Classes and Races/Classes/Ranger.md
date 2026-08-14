@@ -1,4 +1,7 @@
-- Pet-Companion
-- Range
-- Melee
+| Pfad | Früh | Mittel | Spät |
+|---|---|---|---|
+| **Gefährte** (Pet-Companion) | Tier kämpft eigenständig neben dir, einfache Befehle | Kannst kurzzeitig die Sinne des Tieres nutzen (durch es sehen/hören) | Verschmelzung: du übernimmst temporär Form/Fähigkeiten des Tieres, Companion "pausiert" |
+| **Jäger** (Range/Präzision) | Markierst ein Ziel, erhältst Bonus gegen markierte Ziele | Markierung liefert Zusatzinfos (Schwächen, nächste Aktion, Fluchtrichtung) | Ein perfekt gelesenes Ziel kann durch einen einzigen Präzisionsschuss stark geschwächt/ausgeschaltet werden |
+| **Wildkämpfer** (Melee/DEX) | Nutzt Umgebung/Gelände als Vorteil (Deckung, Untergrund, Höhe) | Kampfstil passt sich instinktiv an Gegnertyp an (z. B. Bonus gegen bestimmte Kreaturenarten) | Kämpft im "Flow"-Zustand: reflexive Ausweichmanöver, fast tierhafte Reaktionsgeschwindigkeit |
 
+**Kurzer Kommentar zum Kräuterkunde-Punkt:** Ich finde deinen Instinkt richtig, das nicht als eigene Mechanik zu bauen – in D&D ist sowas klassischerweise gut über Skillchecks/Tool Proficiencies abgedeckt, und wenn du es mechanisch aufwertest, konkurriert es unnötig mit den eigentlichen Build-Pfaden. Es sei denn, du willst es als **Reskin/Ergänzung zu einem der drei Pfade** nutzen (z. B. der Jäger kennt sich auch mit Gift/Fallen aus, als Fernkampf-Utility) – aber als eigenständiger vierter Pfad würde ich davon abraten, das wäre vermutlich zu schwach im Vergleich zu den anderen drei.
