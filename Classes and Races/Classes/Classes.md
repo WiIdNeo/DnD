@@ -177,17 +177,6 @@ This gives the class the same risk/control identity the other classes have: you'
 
 ---
 
-## Ranger
-
-| Path | Early | Mid | Late |
-|---|---|---|---|
-| **Companion** (Pet) | Animal fights independently alongside you, follows simple commands | Can briefly borrow the animal's senses (see/hear through it) | Fusion: temporarily take on the animal's form/abilities, companion "pauses" |
-| **Hunter** (Range/Precision) | Mark a target, gain a bonus against marked targets | Marking reveals extra info (weaknesses, next action, escape direction) | A perfectly read target can be severely weakened/taken out by a single precision shot |
-| **Wild Fighter** (Melee/DEX) | Uses environment/terrain as an advantage (cover, ground, elevation) | Fighting style instinctively adapts to enemy type (e.g. bonus vs. certain creature types) | Fights in a "flow" state: reflexive dodges, near-animal reaction speed |
-
-**Note on herbalism:** the instinct to *not* make it a standalone mechanic is a good one — in D&D this is classically well covered by skill checks/tool proficiencies, and mechanically elevating it would compete unnecessarily with the actual build paths. It could work as a reskin/addition to one of the three paths above (e.g. the Hunter also knows poisons/traps as ranged utility), but as a standalone fourth path it would likely be too weak next to the other three.
-
----
 
 ## Sorcerer
 
@@ -421,11 +410,14 @@ This section exists to define *how* each track actually behaves before we lock i
 
 | Situation when the bond snaps | Likely outcome |
 |---|---|
-| A simple servant (no independent will) | Simply collapses — no brain/will was ever needed to sustain it, poses no threat |
-| A servant mid-way through a clear, simple order | Stubbornly carries out the last order until it's complete or times out |
-| A servant with no clear order, amid chaos/combat | Attacks the nearest moving target indiscriminately, friend or foe |
-| An especially powerful/named dead | Retains a residue of independent will, acts on its own (possibly vengeful) agenda |
+| No brain anymore | just breaking down
+| Else | it becomes an undead
 
+| If undead (d20)|Effect |
+|-|-|
+| 10- | becomes hostile |
+| 10 -15 | still breaks down again |
+| 16 - 20 | keeps doing it's job
 ---
 
 ## Paladin / Cleric
@@ -435,23 +427,6 @@ This section exists to define *how* each track actually behaves before we lock i
 **Cross-path note:** What counts as "tenet-consistent" is a negotiation between player and GM — this needs clarity at session zero (walk through examples in advance), or every Zeal/Doubt call becomes an argument. Similar to the Death-Necromancer table above, a small reference table of "typical edge cases per tenet archetype" would likely help here — flagged for the next pass.
 
 - **Guardian / Avenger / Unshakeable / Wanderer** stay conceptually as in the original draft — the four differ mainly in *how* they handle Doubt (ignore it, exploit it riskily, resist it, or shift the tenet itself), not in the base mechanic.
-
----
-
-## Ranger
-
-**Core identity:** Three different ways to generate advantage — through another being (animal), through information (marking), through environment (terrain).
-
-**Companion**
-- The animal is an independent, attackable entity in the world — it can be isolated, hurt, or killed, with real consequences for the ranger (similar to the Witch's Familiar).
-- During Fusion (late tier), the animal itself is "paused" — no simultaneous access to both.
-
-**Hunter**
-- Marking requires clearly identifying the target — works poorly against invisible/disguised/not-clearly-identified enemies.
-- A target aware of being marked may be able to counter it in specific ways (GM's judgment call).
-
-**Wild Fighter**
-- Strongly dependent on readable terrain — noticeably weaker in featureless arenas or completely unfamiliar environments (e.g. underwater, for a forest ranger), until the track starts adapting to enemy type rather than just terrain at mid tier.
 
 ---
 
