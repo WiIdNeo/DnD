@@ -16,8 +16,8 @@ through more HP, but through different decisions made during the fight.
 **Core idea:** Real physical resilience barely increases with level — a human
 dies from an arrow to the eye regardless of experience. What actually
 increases is technique and anticipation. This isn't reflected by more HP, but
-by better active defense — now fueled by a shared, non-regenerating **Token
-pool** instead of a Stamina stat.
+by better active defense — now fueled by a shared, **Token
+pool**.
 
 If not stated differently, the original DnD fighting rules apply. This is a
 theoretical concept, not yet playtested. Raise an issue if you spot a problem!
@@ -46,10 +46,6 @@ theoretical concept, not yet playtested. Raise an issue if you spot a problem!
 > differences between combatants (e.g. a halfling aiming for a giant's eye)
 > may raise the difficulty or require a prior skill check.
 
-Reactions are now gated by the **Token pool**. Attack and defense are
-resolved as an **opposed roll** (Section 6) — both sides can spend tokens to
-buff their own die, alongside speed and attribute bonuses.
-
 ---
 
 ## 2. Attributes
@@ -59,13 +55,12 @@ Harder hits → harder to parry/block, easier to break the opponent's stance.
 Own blocks are more resilient.
 
 ### DEX
-Faster movement → higher initiative, better parries. Arrow shots are harder
+Faster movement → higher initiative, better parries. Arrow shots are easier
 to dodge. Governing stat for finesse weapons and ranged combat.
 
 ### CON
 HP matters less, but CON stays relevant: increases resistance to
-impacts/falls. *(The old Stamina-multiplier role of CON is gone — if you want
-CON to still matter for the Token pool, do it via a Feat, see Section 6.1.)*
+impacts/falls. 
 
 **Governing stat per weapon:** STR for most melee weapons, DEX for finesse
 weapons (dagger, rapier) and ranged combat.
@@ -75,8 +70,7 @@ weapons (dagger, rapier) and ranged combat.
 ## 3. Weapon Table
 
 Weapons grant different buffs/debuffs to checks and properties, making
-weapon choice tactically important. Full table lives in a separate document
-(`Weapons.md`).
+weapon choice tactically important. Full table lives in `Weapons.md`.
 
 ---
 
@@ -88,7 +82,7 @@ attacks: the defender gets a normal Dodge/Block/Parry check against them.
 
 ---
 
-## 5. Tokens (Marken) — replaces Stamina
+## 5. Tokens 
 
 ### 5.1 Pool
 
@@ -106,8 +100,7 @@ $$\text{Tokens}(\text{Round } n) = \max\big(\text{Floor},\ 10 - (n - 1)\big)$$
   decay (e.g. "−1 every 2 rounds instead of every round"). This is your
   primary progression lever going forward — no separate Stamina formula
   needed.
-- Tokens do **not** carry over between rounds and do **not** regenerate
-  mid-round. Unused tokens from Round 2 are simply gone once Round 3 starts.
+- If your Token Pool at the end of the round is higher than your new would be you gain the difference in addition to the new pool's size.
 
 ### 5.2 Spending — both sides bid on their own roll
 
