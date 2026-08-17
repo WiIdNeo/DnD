@@ -215,38 +215,25 @@ Every time you got hit or you get hit you throw 1d6 for your adrenaline gain. Yo
 
 |Tier |Adrenalin | Effect|
 |-|-|-|
-1 | 0 - 9 | 
+1 | 0 - 9 | no effect
+2 | 10 - 19 | you become more precise
+3 | 20 - 29 | your calmety lowers, you become less precise, but your hits gain strength: +x Damage
+... | ...
 
-### Fighter · Knight/Formation (POOL)
+### Fighter · Knight (POOL)
 
 | Lvl | Poolstufe | Idee |
 |---|---|---|
-| 1 | 1 | Großer, aber sehr langsam füllender Pool |
-| 2 | 1 | Fülltempo minimal erhöht |
-| 3 | 1 | Erste Nutzung: defensiver Formationsbonus |
-| 4 | 1 | Bonus wirkt auf mehr Verbündete |
-| 5 | 2 | Zweite Nutzung: offensiver Formationsbonus |
-| 6 | 2 | Poolgröße wächst weiter |
-| 7 | 2 | Fülltempo in langen Kämpfen spürbar besser |
-| 8 | 2 | Formation hält auch bei Bewegung der Gruppe |
-| 9 | 3 | Effekt reicht über größere Distanz |
-| 10 | 3 | Zwei Formationsboni gleichzeitig aktiv |
-| 11 | — | *(DnD-11-Spike-Äquivalent: Anführer-Bonus-Sprung)* |
-| 12 | — | Poolgröße nahe Maximum |
-| 13 | 4 | Reduzierte Mindestdauer bis erste Nutzung möglich ist |
-| 14 | — | Effekt bleibt kurz aktiv, auch wenn Gruppe sich trennt |
-| 15 | — | Dritte gleichzeitige Formationswirkung |
-| 16 | — | Fülltempo maximal (auch für kurze Kämpfe brauchbar) |
-| 17 | 5 | Stärkste Formationsstufe erreichbar |
-| 18 | — | Wirkung auf gesamte größere Gruppe (nicht nur nahe Verbündete) |
-| 19 | — | Wahl: reine Verteidigung vs. reine Offensive der Formation |
-| 20 | — |   1×/Rast eine Formation, die die gesamte Gruppe kurzzeitig auf Elitenniveau hebt |
+| 1 | 1 | For each Tier of Adrenaline you get a +1 on Blocking Roles |
+| 2 | 1 | You gain 1W4 Adrenaline if you are fighting with allies |
+| 3 | 1 | you can use your reaction now block hits for your allies, but your adrnaline drains 1d4 per 1m you need to walk |
+| 4 | 1 | You know gain 1W6 on blocking successfully |
 
 ---
 
 ## Teil G — Light Mage
 
-*(Sun-Worker und Moon-Worker: VC, gemeinsamer Slot-Fortschritt, unterschiedliche Nutzungsphilosophie.)*
+You f   
 
 ### Light Mage · Sun-Worker (VC)
 
