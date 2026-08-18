@@ -1,23 +1,27 @@
-## Zustände (Conditions)
+## Conditions
 
-| Zustand                              | Definition / Effekt                                                                                                                                                                                             |
-| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Blind (Blinded)**                  | Die Kreatur kann nicht sehen. Sie scheitert automatisch bei Würfen, die Sicht erfordern. Angriffe gegen sie haben Vorteil, ihre eigenen Angriffe haben Nachteil. Bei Defensive Aktionen im kampf: Blocken: DC erhöht sich leicht, Blocken hat wenig mit sehen zu tun +2; Parrieren und Dodgen wird unmöglich, sofern der Gegner kein geräusch macht. Hier muss der DM entscheiden.|
-| **Bezaubert (Charmed)**              | Die Kreatur kann den Verursacher nicht angreifen und der Verursacher hat Vorteil bei sozialen Interaktionen mit ihr.                                                                                            |
-| **Betäubt (Stunned)**                | Die Kreatur ist kampfunfähig, kann sich nicht bewegen, spricht nur stockend, scheitert automatisch bei Stärke- und Geschicklichkeitsrettungswürfen. Es können keine Defensive Aktionen im kampf genutzt werden. DM: Lying on the ground? |
-| **Bewegungsunfähig (Incapacitated)** | Die Kreatur kann keine Aktionen oder Reaktionen ausführen.                                                                                                                                                      |
-| **Erschöpft (Exhaustion)**           | Siehe base mechanic Sheet |
-| **Festgehalten (Grappled)**          | Die Bewegungsrate wird auf 0 reduziert. Die Kreatur kann keine Bewegungsboni erhalten. Der Zustand endet meist durch Befreiung oder wenn der Halter außer Reichweite ist. Winkelweise wird die Kreatur verdeckt (schwierigere Treffer Checks, eventuelles treffen des halters - DM Flavor) DM: Lying on the ground?|
-| **Gefesselt (Restrained)**           | Bewegung 0, Defensive Aktionen haben Nachteil oder sind unmöglich, je nach art der Fesselung|
-| **Gelähmt (Paralyzed)**              | Bewegung 0, kampfunfähig, automatische Fehlschläge bei Stärke- und Geschicklichkeitsrettungswürfen. keine Defensiven aktionen möglich. DM: Lying on the ground?|
-| **Unsichtbar (Invisible)**           | Die Kreatur ist nicht sichtbar. Zielen gegen sie haben Nachteil, Defensive Reaktionen auf ihre angriffe haben nachteil |
-| **Verängstigt (Frightened)**         | Nachteil auf Würfe, solange die Ursache sichtbar ist. Die Kreatur kann sich nicht freiwillig näher an die Quelle der Angst bewegen.                                                                             |
-| **Vergiftet (Poisoned)**             | siehe character care sheet |
-| **Versteinert (Petrified)**          | Die Kreatur verwandelt sich in Stein. Sie ist kampfunfähig, altert nicht, ist extrem widerstandsfähig und kann erst durch starke Magie zurückgebracht werden.  |
-| **Bewusstlos (Unconscious)**         | Liegt am Boden, kampfunfähig, lässt Gegenstände fallen, scheitert automatisch bei Stärke- und Geschicklichkeitswürfen. Gilt als "Lying on the ground" |
+| Condition |Effect |
+| ------ | -- |
+| **Blinded** | The creature cannot see. It automatically fails checks that require sight. Its attacks and defensive actions (except Blocking) have disadvantage.   |
+| **Charmed**       | The creature cannot attack the source of the charm, and the source has advantage on social interactions with it. This condition ends if the source or their allies cause harm to the target.     |
+| **Stunned**       | The creature is incapacitated, cannot move, and can only speak haltingly. It automatically fails Strength and Dexterity saving throws. No defensive actions can be used in combat. **DM: Lying on the ground?**    |
+| **Incapacitated** | The creature cannot take actions or reactions.     **Exhaustion**    | See the Base Mechanics Sheet. 
+| **Grappled**      | If the target is 1 size larger than the attacker: movement is limited to a maximum of half its normal movement. If the target is more than 1 size larger: normal movement rate. If the target is smaller than the attacker: no movement. If they are the same size: roll a d20; on 11+, half movement. The condition ends when the creature breaks free or the grappler releases it. Depending on the angle, the creature may provide cover (making hit checks more difficult, with a possibility of hitting the grappler — DM flavor). **DM: Lying on the ground?** |
+| **Restrained**    | Movement is reduced. Defensive actions have disadvantage or are impossible, depending on the type of restraint.   
+| **Paralyzed**     | Movement is 0, the creature is incapacitated, and it automatically fails Strength and Dexterity saving throws. No defensive actions are possible. **DM: Lying on the ground?**    |
+| **Invisible**     | The creature cannot be seen. Attacks targeting it and defensive reactions against it have disadvantage and are usually impossible.     |
+| **Frightened**    | The creature has disadvantage on checks while the source of the fear is visible. The creature cannot willingly move closer to the source of its fear.    |
+| **Poisoned**      | See the Character Care Sheet.   |
+| **Petrified**     | The creature turns to stone. It is incapacitated, does not age, and becomes extremely resilient. 
+| **Unconscious**   | The creature is lying on the ground, incapacitated, and drops its held items. It automatically fails Strength and Dexterity checks. It is considered **"Lying on the Ground."**  |
 
 ---
 
-### Lying on the ground:
+### Lying on the Ground
 
-Dieser neue zustand tritt dann ein, wenn das Ziel auf dem Boden liegt, also wenn es umgestoßen wird oder sich hinlegt. Dadurch gilt er als Halb-verdeckt und Range Angriffe haben Nachteil, der betroffene kann nicht parrieren und andere defensive reaktionen erhalten +2 Schwierigkeit. Um diesen Zustand zu überwinden wird 4.5m der Bewegungsreichweite verbraucht.
+This new condition applies when a target is lying on the ground, either because it has been knocked down or because it lies down voluntarily.
+
+While in this state, the creature is considered **half-covered**. Ranged attacks against it have disadvantage. The affected creature cannot parry, and other defensive reactions have their difficulty increased by **+2**.
+
+To overcome this condition, **4.5 m of movement** must be spent.
+
