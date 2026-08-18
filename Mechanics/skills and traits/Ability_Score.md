@@ -79,7 +79,7 @@ Cost to specific levels are:
 |        24 |          100 |
 |        25 |          108 |
 
-From level 10 are:
+From level 10:
 
 | Level to reach | Cost |
 | ------------: | -----------------: |
@@ -102,94 +102,10 @@ From level 10 are:
 
 You start on 120 Pfunds.
 
-> You can save Pfunds for later, but you can't respqnd them on regular, as this would mean to train your body and mind, so it's a dm decision if and in what time you can respec here.
+> You can save Pfunds for later, but you can't respend them on regular, as this would mean to train your body and mind, so it's a dm decision if and in what time you can respec here.
 
 ## Leveling
 
 You gain per level your Professiency Bonus in Pfunds. So to level 20 you gain 78. Your Background grands you 3 free Level ups, in any way you want, but +2 max. The ASIs grant you additionally 5 to 7 two free level ups of your choice. (for fairness I may fix the number of feasts for each class, I will see during PHB rework and playtesting), which means between 10 and 14 free levels.
 
-```
-Think you are an fighter. Your background is you are a guardian of the forests, so your main attribut may be DEX and you got two off attributes: WIS and CON
-You go for good alrounder having everything to 10. You spend 108 of your 130 into your stats. Than you increase DEX twice and WIS and COn both once. Resulting in 13 in DEX, 12 in WIS and 11 in CON. Than your background grants you two DEX and one WIS. So your stats in the beginning look like:
-STR: 10
-DEX: 15
-CON: 11
-INT: 10
-WIS: 13
-CHA: 10
 
-You gain Feats lvl 4, 8, 12, 16, 19 (base) + 6, 14 (fighter)
-
-Prof Bonus:
-| Lvl | Bonus |
-| 1 - 4| 2
-| 5 - 8| 3
-| 9 - 12 | 4
-| 13 - 16 | 5
-| 17+ | 6
-
-Level 4: 6 Pfunds => +1 DEX, 1 Pfund Keeped
-On such a low level you may also go for ASI instead of Feat and therefore go +2 DEX, as it is the most expensive
-
-DEX: 18
-
-Level 6: 1+6 Pfunds
-You spend 4 for +1 in CON, 3 left
-The ASI you spend for a half feat: +1 in a stat +prof in all Attribut conected Checks
-You gof or DEX
-
-STR: 10
-DEX: 19
-CON: 12
-INT: 10
-WIS: 13
-CHA: 10
-
-Lvl 8: 6+3 Pfunds
-You go for a full Feat this time
-You spend one in each CON and WIS for 9 cost combinded
-STR: 10
-DEX: 19
-CON: 13
-INT: 10
-WIS: 14
-CHA: 10
-
-Level 12: 16 Pfunds
-Also this time you go for a full feat
-May spend 1 Upgrade in DEX go get +5 Bonus and another in Wis (cost: 12)
-
-Level 14: 10+4 Pfunds
-Spend 10 Pfunds for two levels of CON
-ASI: two in CON
-STR: 10
-DEX: 20
-CON: 17
-INT: 10
-WIS: 15
-CHA: 10
-
-Level 16: 10+4 Pfunds
-13: One in Dex one in WIS
-ASI into feat
-
-Level 19: 17+1
-2 in WIS, 1 to CON (18)
-WIS-Half Feat
-STR: 10
-DEX: 20
-CON: 18
-INT: 10
-WIS: 18
-CHA: 10
-
-Level 20: 6 Pfunds
-One to Con:
-STR: 10
-DEX: 20
-CON: 19
-INT: 10
-WIS: 18
-CHA: 10
-
-```
