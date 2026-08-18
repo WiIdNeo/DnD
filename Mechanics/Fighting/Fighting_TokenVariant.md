@@ -197,9 +197,6 @@ $$\text{Stance-Mod (Dodge)} = -\big(\text{DC(Distance out of the AoE)} \times \t
 Dodges backwards are always harder: −1. See the Weapon Table for typical
 attack angle/reach, which determines how small the escape AoE can be.
 
-*Token cost:* whatever you bid in the exchange (Section 5.2) — there is no
-fixed cost anymore. Bidding more tokens directly raises your Defense Roll.
-
 - **Win:** 0 damage.
 - **Lose:** full damage.
 
@@ -278,7 +275,7 @@ Full avoidance remains reserved for active reactions (Block/Parry/Dodge).
 
 ---
 
-## 10. Attack Zones (WIP)
+## 10. Attack Zones
 
 Base idea: specific body parts are more penetrating than others. A hit to
 the arm or foot hampers movement but deals normal-to-low damage; a hit to
@@ -312,22 +309,8 @@ always a clean win/lose per stance (Sections 7.1–7.3).
 
 ---
 
-## 12. Example Combat Sequence
 
-- A sets a bonus-attack trigger: "when the opponent's parry fails" (A
-  exploits the opening).
-- Both sides secretly bid tokens for this exchange (Section 5.2).
-- Both roll and reveal: Attack Roll vs. Defense Roll (Section 6). B has
-  chosen Parry.
-  - **B loses the opposed roll:** A hits B with full damage, and B is left
-    open — A gets an additional guaranteed counter-hit (Section 7.3), and
-    A's bonus trigger also fires.
-  - **B wins the opposed roll:** B hits A with a free counterattack
-    (Section 7.3).
-
----
-
-## 13. Buffs
+## 12. Buffs
 
 Most buffs are covered in the separate `Buffs.md`.
 
@@ -342,7 +325,7 @@ die, or disadvantage on a saving throw.
 
 ---
 
-## 14. Dying
+## 13. Dying
 
 Reducing a creature's HP to 0 doesn't kill it immediately — it goes
 unconscious. Wound severity then determines whether it starts dying and
@@ -351,7 +334,7 @@ attacking an unconscious target allows an undefended finishing blow.
 
 ---
 
-## 15. Opportunity Attacks
+## 14. Opportunity Attacks
 
 Handled as usual, but reactable unless the DM rules otherwise.
 
@@ -370,7 +353,7 @@ Leaving melee range grants a leaving attack:
 
 ---
 
-## 16. Disarming
+## 15. Disarming
 
 **How to disarm:** either the foe critically fails (nat1) their
 parry/block and drops the weapon, or you declare a disarm attempt — on a
