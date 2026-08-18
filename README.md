@@ -20,6 +20,7 @@ To get you a basic idea of what happens in this home-brew:
     - Implement an Energy-Action-System
     - Implement a more detailed called shot system
     - Remove Spells in advantage of more complex and adaptive Spell using.
+      - You still will find a very low amount of spells to show how it could work, but they are no boundaries.
   - World and Travel:
     - Implement weather / temperature and make them really matter
   - Lore:
