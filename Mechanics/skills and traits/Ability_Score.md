@@ -108,7 +108,6 @@ You start on 120 Pfunds.
 
 You gain per level your Professiency Bonus in Pfunds. So to level 20 you gain 78. Your Background grands you 3 free Level ups, in any way you want, but +2 max. The ASIs grant you additionally 5 to 7 two free level ups of your choice. (for fairness I may fix the number of feasts for each class, I will see during PHB rework and playtesting), which means between 10 and 14 free levels.
 
-<<<<<<< Updated upstream
 ```
 Think you are an fighter. Your background is you are a guardian of the forests, so your main attribut may be DEX and you got two off attributes: WIS and CON
 You go for good alrounder having everything to 10. You spend 108 of your 130 into your stats. Than you increase DEX twice and WIS and COn both once. Resulting in 13 in DEX, 12 in WIS and 11 in CON. Than your background grants you two DEX and one WIS. So your stats in the beginning look like:
@@ -194,6 +193,3 @@ WIS: 18
 CHA: 10
 
 ```
-=======
-> Stat cap is no longer 20 but 24!
->>>>>>> Stashed changes
