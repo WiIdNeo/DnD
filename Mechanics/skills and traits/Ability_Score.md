@@ -42,11 +42,6 @@ Following the rounding system of x.5 rounding down you get following values:
 |            18 |  6.5 |                                      6 |
 |            19 |  6.833333 |                                      7 |
 |            20 |  7.166667 |                                      7 |
-|            21 |  7.5 |                                      7 |
-|            22 |  7.833333 |                                      8 |
-|            23 |  8.166667 |                                      8 |
-|            24 |  8.5 |                                      8 |
-|            25 |  8.833333 |                                      9 |
 
 
 Cost to specific levels are:
@@ -73,11 +68,6 @@ Cost to specific levels are:
 |        18 |           57 |
 |        19 |           63 |
 |        20 |           70 |
-|        21 |           77 |
-|        22 |           84 |
-|        23 |           92 |
-|        24 |          100 |
-|        25 |          108 |
 
 From level 10:
 
@@ -93,14 +83,9 @@ From level 10:
 |            18 |                 39 |
 |            19 |                 45 |
 |            20 |                 52 |
-|            21 |                 59 |
-|            22 |                 66 |
-|            23 |                 74 |
-|            24 |                 82 |
-|            25 |                 90 |
 
 
-You start on 120 Pfunds.
+You start on 100 Pfunds.
 
 > You can save Pfunds for later, but you can't respend them on regular, as this would mean to train your body and mind, so it's a dm decision if and in what time you can respec here.
 

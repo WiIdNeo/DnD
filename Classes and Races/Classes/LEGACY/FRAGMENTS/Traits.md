@@ -21,7 +21,7 @@ Every path below is capped at 8 levels, so a character with 20 total points can 
 | 5 | Ranged control up to 3m, on sight. |
 | 6 | Advantage on the time roll; range increases to 6m. |
 | 7 | You can concentrate on two changes at once. |
-| 8 | **Capstone.** Time throw becomes (20−2d10)×(8−INT-Mod). You can reshape worked/composite materials without breaking their crafted properties (e.g., growing armor from raw ore around your body). |
+| 8 |   Time throw becomes (20−2d10)×(8−INT-Mod). |
 
 ### Alchemist · Golem-Building (HW + BIND)
 
@@ -36,7 +36,7 @@ Every path below is capped at 8 levels, so a character with 20 total points can 
 | 5 | Choose a combat specialization for your golems (guardian, brawler, or carrier) granting relevant combat traits. |
 | 6 | Increase the maximum number of golems you can control simultaneously. |
 | 7 | Golems learn to coordinate and execute tasks together as a unit. |
-| 8 | **Capstone.** Advantage on all building throws. Given enough time and no rush, there is no hard cap on the number of golems you can field — with proper preparation you can raise a golem legion. |
+| 8 |   Advantage on all building throws. Given enough time and no rush, there is no hard cap on the number of golems you can field — with proper preparation you can raise a golem legion. |
 
 ---
 
@@ -55,7 +55,7 @@ Every path below is capped at 8 levels, so a character with 20 total points can 
 | 5 | Your stories persist for 1d4 turns after you stop telling them. Roll on letting them go. |
 | 6 | If you personally knew (or believe you knew) the subject of your story, you automatically win the check unless your opponent rolls a nat 20 or reaches 25+. |
 | 7 | You can tell a story while fighting, but lose your advantage on concentration throws if hit the turn after you attack. Telling becomes a bonus action.|
-| 8 | **Capstone.** The cap on simultaneously awakened entities is lifted — a story you can narrate with full precision and truthfulness can awaken as many participants as it truthfully contains. |
+| 8 |   The cap on simultaneously awakened entities is lifted — a story you can narrate with full precision and truthfulness can awaken as many participants as it truthfully contains. |
 
 ### Bard · Battle Music (VC, Spells-Known-Style)
 
@@ -70,7 +70,7 @@ Every path below is capped at 8 levels, so a character with 20 total points can 
 | 5 | You can target your music precisely — include or exclude specific listeners within its range (e.g., harm enemies without harming allies). |
 | 6 | You sink so deep into your song it's hard to break your focus — double advantage on concentration throws while playing. |
 | 7 | Weave two effects into one song at once (e.g., a buff for allies and a debuff for enemies, simultaneously). |
-| 8 | **Capstone.** Your music lingers: it continues to affect those who already heard it for a short time after you stop playing, or can be recalled from memory by listeners who heard it before, without you playing again. |
+| 8 |   Your music lingers: it continues to affect those who already heard it for a short time after you stop playing, or can be recalled from memory by listeners who heard it before, without you playing again. |
 
 ---
 
@@ -89,7 +89,7 @@ Every path below is capped at 8 levels, so a character with 20 total points can 
 | 5 | Advantage on all beast-related persuasion checks. |
 | 6 | Animals you've persuaded can be given tactical instructions and will loosely coordinate in combat. |
 | 7 | Reduced difficulty when asking an animal to accept genuinely risky actions. |
-| 8 | **Capstone.** A single check can persuade even a wholly unfamiliar wild beast, without prior contact, at standard difficulty. |
+| 8 |   A single check can persuade even a wholly unfamiliar wild beast, without prior contact, at standard difficulty. |
 
 ### Druid · Plants (VC)
 
@@ -102,7 +102,7 @@ Every path below is capped at 8 levels, so a character with 20 total points can 
 | 5 | Lend a multiplied amount of energy to speed up the plant's reaction and movement. |
 | 6 | Awaken plants to move, if you lend them enough energy. |
 | 7 | Your bond with a plant lingers briefly even without contact. |
-| 8 | **Capstone.** Raise a permanent, autonomous plant guardian that continues to act on your standing orders without further attention. |
+| 8 |   Raise a permanent, autonomous plant guardian that continues to act on your standing orders without further attention. |
 
 ### Druid · Earth/Life (VC)
 
@@ -117,7 +117,7 @@ Every path below is capped at 8 levels, so a character with 20 total points can 
 | 5 | Vitality transfer unlocked, including against unwilling targets. |
 | 6 | Reduced time required to channel. |
 | 7 | Mitigate or resist the personal toll of heavy channeling. |
-| 8 | **Capstone.** Reshape life energy at range, without physical contact. |
+| 8 |   Reshape life energy at range, without physical contact. |
 
 ### Druid · Nature Spirits (RIT)
 
@@ -130,7 +130,7 @@ Every path below is capped at 8 levels, so a character with 20 total points can 
 | 5 | Temporarily bind a spirit as a companion. |
 | 6 | Post a spirit as a lasting guardian over a place. |
 | 7 | Negotiate with older, more powerful spirits for greater favors, at a higher cost. |
-| 8 | **Capstone.** A spirit will answer your call from anywhere within its domain, regardless of distance. |
+| 8 |   A spirit will answer your call from anywhere within its domain, regardless of distance. |
 
 ---
 
@@ -149,7 +149,7 @@ Every path below is capped at 8 levels, so a character with 20 total points can 
 | 5 | Control several separate flames at once. |
 | 6 | Steer fire in more complex shapes and patterns. |
 | 7 | Control fire against resistance (wind, wet materials, magical suppression). |
-| 8 | **Capstone.** Control fire of any strength or scale. |
+| 8 |   Control fire of any strength or scale. |
 
 ### Elementalist · Water (VC)
 
@@ -162,7 +162,7 @@ Every path below is capped at 8 levels, so a character with 20 total points can 
 | 5 | Shape water into held, complex forms (not just currents — e.g., temporary ice constructs). |
 | 6 | Control water against resistance (opposing magic, structural obstacles). |
 | 7 | Control disconnected/airborne water (mist, rain, free-standing water). |
-| 8 | **Capstone.** Control any mass of water, unconditionally. |
+| 8 |   Control any mass of water, unconditionally. |
 
 ### Elementalist · Earth (VC)
 
@@ -175,7 +175,7 @@ Every path below is capped at 8 levels, so a character with 20 total points can 
 | 5 | Raise defensive structures — walls, cover — from raw earth. |
 | 6 | Control earth against resistance (worked stone, reinforced structures). |
 | 7 | Sense through earth, gaining a tremorsense-like awareness. |
-| 8 | **Capstone.** Control earth of any composition and scale, including worked or reinforced stone. |
+| 8 |   Control earth of any composition and scale, including worked or reinforced stone. |
 
 ### Elementalist · Air (VC)
 
@@ -188,7 +188,7 @@ Every path below is capped at 8 levels, so a character with 20 total points can 
 | 5 | 2 | Direct precise, targeted gusts against small objects or single targets. |
 | 6 | 3 | Control air against resistance (opposing magic, sealed or contained spaces). |
 | 7 | 3 | Finely manipulate breath and pressure directly around a target. |
-| 8 | 3 | **Capstone.** Control air of any strength and scale. |
+| 8 | 3 |   Control air of any strength and scale. |
 
 ---
 
@@ -211,7 +211,7 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 5 | While raging, gain resistance to a damage type of your choice. |
 | 6 | Ignore rage ending, at the cost of one level of exhaustion. |
 | 7 | Entering rage fears nearby enemies. |
-| 8 | **Capstone.** You also gain adrenaline in Rage, but only 1d4 instead of 1d6 |
+| 8 |   You also gain adrenaline in Rage, but only 1d4 instead of 1d6 |
 
 ### Fighter · Duelist (DEX) (POOL)
 
@@ -224,7 +224,7 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 5 | Bonus action to calm down, spending 2d4 adrenaline per tier. |
 | 6 | Riposte: a successful parry lets you counter-attack as a reaction. |
 | 7 | Feint: force a single enemy's next action against you to suffer disadvantage. |
-| 8 | **Capstone.** Fight multiple opponents without losing your rhythm — your parry and dodge bonuses apply against every attacker in a turn, not just one. |
+| 8 |   Fight multiple opponents without losing your rhythm — your parry and dodge bonuses apply against every attacker in a turn, not just one. |
 
 | Tier | Adrenalin | Buff  | Debuff  |
 |---|---|---|---|
@@ -245,7 +245,7 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 5 | Taunt: force an enemy within reach to target you on their next action. |
 | 6 | Extend your protective reaction to cover multiple allies at once. |
 | 7 | Gain temporary HP or resistance while at high adrenaline tiers. |
-| 8 | **Capstone.** Your presence anchors the battlefield — allies within reach gain your tier bonus on their own blocking rolls. |
+| 8 |   Your presence anchors the battlefield — allies within reach gain your tier bonus on their own blocking rolls. |
 
 ---
 
@@ -263,8 +263,8 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 4 | Focus the light more strongly (greater radiant damage or precision). |
 | 5 | Your weapon can strike briefly at short range as a beam of light, still counting as a melee weapon for damage type. |
 | 6 | Once per day, instantly reshape your weapon as your action; this blinds everyone within 1m and deals 1d4 radiant damage to everyone within 3m. |
-| 7 | Store a small reserve of sunlight, allowing your weapon to persist briefly (limited uses) even without direct sun. |
-| 8 | **Capstone.** Your light burns steady and true — your weapon's radiant die increases, and its glow can illuminate a wide area at will. |
+| 7 | You can now create a second weapon or an armor of light. The armor has resistance to necrotic damage |
+| 8 |   Your light burns steady and true — your weapon's radiant die increases, and its glow can illuminate a wide area at will. |
 
 ### Light Mage · Moon-Worker (VC)
 
@@ -278,8 +278,8 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 4 | Learn to make the light flow out of a place (it becomes darker and light-less) |
 | 5 | Once per day, instantly reshape your weapon as your action; the effect varies by phase (see Moon Phase table). |
 | 6 | Gain a phase-specific utility trick (e.g., brief invisibility in darkness at new moon; a brief radiant ward at full moon). |
-| 7 |  |
-| 8 | **Capstone.** Master all phases — once per long rest, choose which phase's effect applies, regardless of the moon's actual state. |
+| 7 | You can now create a second weapon or an armor of light. The armor has special resistance based on Moon Phase |
+| 8 |   Master all phases — once per long rest, choose which phase's effect applies, regardless of the moon's actual state. |
 
 #### Moon Phases
 
@@ -304,7 +304,7 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 5 | Read multiple targets — up to 3 — at once. Choose your learning for each independently |
 | 6 | If your target believes an illusion you can attack it twice.  |
 | 7 | All targets pitfalling to you illusion receive 1d8 psychic damage per round |
-| 8 | **Capstone.** Read a target's intent moments before they act, granting you advantage on your next check against them that turn. |
+| 8 |   Read a target's intent moments before they act, granting you advantage on your next check against them that turn. |
 
 ### Mirage · Fata Morgana (VC)
 
@@ -312,14 +312,14 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 
 | Lvl | Idea |
 |---|---|
-| 1 | Manipulate sunlight to form a fata morgana. Every turn you sustain it, every target (including allies) makes a CHA throw against you. Targets who know the terrain instead make a WIS throw applying their proficiency (doubled if proficient). |
+| 1 | Manipulate lights flow to form a fata morgana. Every turn you sustain it, every target (including allies) makes a CHA throw against you. Targets who know the terrain instead make a WIS throw applying their proficiency (doubled if proficient). |
 | 2 | If you've seen and studied the phenomenon you're mimicking for 1h, add your CHA twice on that check. |
 | 3 | You now mimic the *process*, not just the state — enemies see, say, a crack forming and breaking into the earth. Targets always make a CHA throw. You can concentrate on 2 ffata morganas now, if you fail a concentration throw you loose all exsisting|
 | 4 | If a target fails their check, the illusion becomes real for them. It still breaks if someone who did success the check touches it.|
 | 5 | Shape a fata morgana as a bonus action. Concentrate on up to 3 fata morganas now. |
 | 6 | Add your CHA bonus on concentration throws about your fata morgana. You now make a concentration on each independently |
 | 7 | If failing the check of your illusions deal 2d6 damage per target (per fata morgana) |
-| 8 | **Capstone.**  |
+| 8 |   You now don't need any light source or it does not be with direction of light to create a fata morgana. You can now upkeep up to 5 illusions at a time. |
 
 ---
 
@@ -338,7 +338,7 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 5 | Switch Stances as a bonus action instead of using your full action. |
 | 6 | Gain a fourth Stance. |
 | 7 | Combine two Stances' minor effects at the same time. |
-| 8 | **Capstone.** Gain a fifth, master-tier Stance with a powerful, high-cost effect. |
+| 8 |   Gain a fifth, master-tier Stance with a powerful, high-cost effect. |
 
 ### Monk · Martial Artist (PASSIVE)
 
@@ -346,12 +346,12 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 |---|---|
 | 1 | Gain Martial Arts (unarmed strikes scale; bonus unarmed attack). |
 | 2 | After a critical hit, gain another attack action. |
-| 3 |  |
+| 3 | You can do a Parry move against projectiles to catch them. You use them as bonus action. |
 | 4 | Gain extra reach and mobility with unarmed strikes. |
 | 5 | Your nat19 is now counted as nat20 |
-| 6 |  |
+| 6 | Your attacks count as magic if the foe has an resistance or immunity against your martial art attack |
 | 7 | Advantage on your first attack roll each combat while unarmed. |
-| 8 | **Capstone.** Your unarmed strikes count as magical, dealing 1d4 more damage. |
+| 8 |   Your unarmed strikes count as magical, dealing 1d4 more damage. |
 
 ---
 
@@ -372,7 +372,7 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 5 | Blood left behind empowers future spells cast on that spot. |
 | 6 | Gain minor control over already-spilled blood (cosmetic/utility only, not combat-relevant). |
 | 7 | Prepare a sacrifice in advance to reduce the lasting cost of a blood sacrifice. |
-| 8 | **Capstone.** Bank prepared, preserved blood as a resource pool, usable without bleeding live. |
+| 8 |   Bank prepared, preserved blood as a resource pool, usable without bleeding live. |
 
 ### Necromancer · Death (HC + HW, Mix)
 
@@ -387,7 +387,7 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 5 | Servants gain resistances based on the quality of their corpse. |
 | 6 | Increase your effective control radius. |
 | 7 | Servants retain minor autonomous judgment — they can follow general orders without micromanagement. |
-| 8 | **Capstone.** Raise an elite servant from an exceptional corpse, distinctly more capable than your standard minions. |
+| 8 |   Raise an elite servant from an exceptional corpse, distinctly more capable than your standard minions. |
 
 ---
 
@@ -406,7 +406,7 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 5 | Your channeled power affects a wider area or more targets. |
 | 6 | Gain a stronger domain-specific ability. |
 | 7 | Reduced cost or faster channeling under pressure. |
-| 8 | **Capstone.** Gain a powerful domain capstone ability reflecting your deity's or oath's core theme. |
+| 8 |   Gain a powerful domain capstone ability reflecting your deity's or oath's core theme. |
 
 ---
 
@@ -425,7 +425,7 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 5 | Reduce the range of the worst outcomes (still random, but the floor is raised). |
 | 6 | Recognize a side effect before it resolves, and choose to accept it or attempt to suppress it. |
 | 7 | Cast two spells in sequence sharing a single side-effect roll. |
-| 8 | **Capstone.** Let a deviation run fully wild by choice — highest risk, highest possible reward, full narrative license to the DM. |
+| 8 |   Let a deviation run fully wild by choice — highest risk, highest possible reward, full narrative license to the DM. |
 
 ---
 
@@ -444,7 +444,7 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 5 | Maintain your bound demons with less upkeep effort (reduced attention/ritual maintenance). |
 | 6 | Command multiple bound demons with a single action. |
 | 7 | Your bound demons coordinate tactically among themselves. |
-| 8 | **Capstone.** Bind and control a small horde without the difficulty penalty scaling beyond the base check. |
+| 8 |   Bind and control a small horde without the difficulty penalty scaling beyond the base check. |
 
 ### Summoner · Quality/Strength (RIT + BIND)
 
@@ -457,7 +457,7 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 5 | Your bound demon gains access to more of its innate abilities under your command. |
 | 6 | Negotiate favorable terms, granting your demon lasting boons in exchange for service. |
 | 7 | Bind demons of significant individual power with manageable risk. |
-| 8 | **Capstone.** Bind and fully dominate a demon of formidable, singular strength. |
+| 8 |   Bind and fully dominate a demon of formidable, singular strength. |
 
 ---
 
@@ -476,7 +476,7 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 5 | Gain a second patron-specific trait. |
 | 6 | Gain a stronger patron-specific ability, or bind a second patron. |
 | 7 | gain the power to reshape your pact weapon in an one hour Ritual. |
-| 8 | **Capstone.** Your patron grants you a signature, iconic ability tied directly to its core theme. |
+| 8 |   Your patron grants you a signature, iconic ability tied directly to its core theme. |
 
 ---
 
@@ -491,11 +491,11 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 1 | Curse a target on sight (weakest tier). |
 | 2 | Curse a target by name, without needing sight. If you have both: moderate curse tier. |
 | 3 | Curse a target using something they own. If you have any two things: moderate curse tier or if all three strongest curse tier. |
-| 4 | Curse items directly. |
-| 5 | If the target does not expect to get cursed you win the curse-check |
-| 6 | Reduce the time or ritual needed to apply a curse. |
-| 7 |  |
-| 8 | **Capstone.**  |
+| 4 | You can now resolve your curses at will |
+| 5 | Curse items directly. |
+| 6 | If the target does not expect to get cursed you win the curse-check |
+| 7 | You can now call a trigger for a course |
+| 8 |   You can now cast 3rd level Courses on having only 2 aspects and 2nd level curses by only having 1. |
 
 ### Witch · Brewing (HW)
 
@@ -506,11 +506,11 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 1 | Brew potions (basic recipes: heal, buff, debuff, damage). |
 | 2 | Sense the location of a chosen ingredient up to three times per long rest. |
 | 3 | Merge different potions into one. |
-| 4 |  |
+| 4 | Once per Longrest you can detect any potions effect at a 100% chance |
 | 5 | Brew stronger tiers of recipes you already know. |
-| 6 |  |
-| 7 |  |
-| 8 | **Capstone.**  |
+| 6 | If you see a brewed potion and you learn it's effects you can do a WIS Throw to guess it's ingredients |
+| 7 | You can brew double amount out of same amount of essentials |
+| 8 |    |
 
 ### Witch · Familiar (BIND)
 
@@ -520,12 +520,12 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 |---|---|
 | 1 | Gain a familiar; you both sense each other's strong feelings (pain, great joy). |
 | 2 | Communicate by telepathy. |
-| 3 | Gain 3 spells from your familiar's spell list. |
+| 3 | Gain 3 spells from your familiar's spell list. Your familiar got 4/3 your Passive perception. Enemies got Disadvantage on sneak and stealth against your familiar (all other get first throws values). |
 | 4 | Your familiar can fight competently on its own |
 | 5 | Your familiar gains improved combat capability (better attacks/defenses). |
 | 6 | Your familiar becomes a true extension of yourself — share senses fully, or briefly perceive through it at range. |
-| 7 |  |
-| 8 | **Capstone.**  |
+| 7 | If your familiar is about to die you can sacrefice half your remaining hp to immediatly revive it on 1/4 of it's health. |
+| 8 |    |
 
 ### Witch · Fate & Foresight (RIT)
 
@@ -538,6 +538,6 @@ Every time you land a hit or get hit, roll 1d6 for adrenaline gain. You gain not
 | 3 | Divine once per short rest. |
 | 4 | Choose a specific roll for a chosen entity to increase or decrease by 1d6 when it happens. |
 | 5 | With a divinatory item, divine on up to 3 different targets, including yourself. |
-| 6 | Choosen for each target reduce the chance it is a debuff or buff. |
-| 7 |  |
-| 8 | **Capstone.** Divine a pivotal moment for an entity with full precision — name the exact circumstance, not just a general shift in fortune. Your DM decides how often you can do this. |
+| 6 | For each target: reduce the chance it is a debuff or buff. |
+| 7 | Your calls become more reliable, the roll is now modified by 2d6. |
+| 8 |   Divine a pivotal moment for an entity with full precision — name the exact circumstance, not just a general shift in fortune. Your DM decides how often you can do this. |
