@@ -109,7 +109,7 @@ A[Base Character]
 
 1["Play a rhythm for a purpose: calm listeners (easing concentration throws) or rouse them (dulling pain via adrenaline)."]
 2["Play music that actively hurts everyone who hears it."]
-3["TBD"]
+3["TDB"]
 4["You can merge songs and compose your own for bespoke effects, rather than picking from fixed categories."]
 5["You can target your music precisely — include or exclude specific listeners within its range (e.g., harm enemies without harming allies)."]
 6["You sink so deep into your song it's hard to break your focus — double advantage on concentration throws while playing."]
@@ -322,7 +322,7 @@ A[Base Character]
 2["Move it stronger and further away."]
 3["Perform more complex movements."]
 4["Control large masses of air."]
-5["Direct precise, targeted gusts against small objects or single targets."]
+5["TBD"]
 6["TBD"]
 7["TBD"]
 8["Control air of any strength and scale."]
@@ -509,6 +509,7 @@ A --> |CHA > 13|1
 1 --> |CHA > 14|3
 1 --> 4
 1 --> |CHA > 18| 7 --- 8
+1 --> |CHA 15|5
 ```
 
 ### Mirage · Fata Morgana
@@ -535,6 +536,7 @@ A -->|CHA > 12 AND: WIS OR INT > 11|1
 1 --> 4
 1 --> 6
 1 --> |CHA > 16 AND: WIS OR INT > 16|8
+1 --> |CHA > 16|7
 ```
 
 ---
@@ -579,7 +581,7 @@ A[Base Character]
 2["Empower more corpses simultaneously."]
 3["Awaken and command as a bonus action."]
 4["Higher-quality corpses yield noticeably stronger servants."]
-5["Servants gain resistances based on the quality of their corpse."]
+5["TBD"]
 6["TBD"]
 7["TBD"]
 8["Raise an elite servant from an exceptional corpse, distinctly more capable than your standard minions."]
@@ -591,7 +593,7 @@ A --> |INT > 12|1 --> 4 --> |INT > 17|8
 
 ---
 
-## Part L — Sorcerer
+## Sorcerer
 
 ### Sorcerer · Channeler
 *Magic was never meant to be tame, and you have never quite managed to fully leash it. Every spell you cast is a negotiation with forces that don't much care what you intended — sometimes they cooperate exactly, sometimes they overshoot wildly, and sometimes the difference between the two is the most interesting thing that happens all fight. You do not control wild magic. You survive it, more skillfully each time.*
@@ -613,6 +615,7 @@ A[Base Character]
 A --> |CHA > 11|1
 1 --> |CHA > 13|2 --> 5 --> |CHA > 15|6
 1 --> 3 --> |CHA > 14| 8
+1 --> |CHA > 15|7
 ```
 
 ---
