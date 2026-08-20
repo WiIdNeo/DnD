@@ -21,9 +21,6 @@ Your Character gains 1 Traitpoint per Level, so you start at 1 Point. You can sp
 ### State
 *Matter never stand still. The constant moving makes it only seam still and solid. But change the speed a little it all breaks apart: Stone becomes liquid and air hard as a rock. As alchemist, you can control that movement to mave impact on world around you.*
 
-flowchart TD
-A[Base Character]
-
 ```mermaid
 flowchart TD
 
@@ -55,14 +52,14 @@ flowchart TD
 
 A[Base Character]
 
-1[Perform a ritual to build golems from a shapeable material (clay, mainly). Shaping takes (max(1, Size-Tier − INT-Mod))×(6−1d6) turns. Each golem needs a reusable animating spell (in it's body), which you know and can inscribe on any material.]
-2[Sacrifice golem HP to reduce build time to max(1, Size-Tier − INT-Mod).]
-3[Build more complex golems (better base stats and features).]
-4[Golems understand chains of instructions.]
-5[Choose a combat specialization for your golems (guardian, brawler, or carrier) granting relevant combat traits.]
-6[Increase the maximum number of golems you can control simultaneously.]
-7[Golems learn to coordinate and execute tasks together as a unit.]
-8[Advantage on all building throws.]
+1["Perform a ritual to build golems from a shapeable material (clay, mainly). Shaping takes (max(1, Size-Tier − INT-Mod))×(6−1d6) turns. Each golem needs a reusable animating spell (in it's body), which you know and can inscribe on any material."]
+2["Sacrifice golem HP to reduce build time to max(1, Size-Tier − INT-Mod)."]
+3["Build more complex golems (better base stats and features)."]
+4["Golems understand chains of instructions."]
+5["Choose a combat specialization for your golems (guardian, brawler, or carrier) granting relevant combat traits."]
+6["Increase the maximum number of golems you can control simultaneously."]
+7["Golems learn to coordinate and execute tasks together as a unit."]
+8["Advantage on all building throws."]
 
 A -->|INT > 11|1
 1 --> 2 --> 8
@@ -84,14 +81,14 @@ flowchart TD
 
 A[Base Character]
 
-1[As part of telling a story, make a CHA throw against your opponents. On success, the story comes to life: e.g., narrate an army attacking the enemy, and an army (capped at 2 entities) spawns and acts as told. If the story is fabricated, your CHA bonus doesn't apply. Spawns act as long as you keep telling the story, then fade.]
-2[Advantage on story-connected CHA throws.]
-3[Summon up to medium-size creatures, or a single giant-size creature.]
-4[Choose one: learn to tell convincing fabricated stories (CHA now applies to fake stories too); or your true stories grow more powerful and opponents suffer disadvantage against your story-related effects.]
-5[Your stories persist for 1d4 turns after you stop telling them. Roll on letting them go.]
-6[If you personally knew (or believe you knew) the subject of your story, you automatically win the check unless your opponent rolls a nat 20 or reaches 25+.]
-7[You can tell a story while fighting, but lose your advantage on concentration throws if hit the turn after you attack. Telling becomes a bonus action.]
-8[The cap on simultaneously awakened entities is lifted — a story you can narrate with full precision and truthfulness can awaken as many participants as it truthfully contains.]
+1["As part of telling a story, make a CHA throw against your opponents. On success, the story comes to life: e.g., narrate an army attacking the enemy, and an army (capped at 2 entities) spawns and acts as told. If the story is fabricated, your CHA bonus doesn't apply. Spawns act as long as you keep telling the story, then fade."]
+2["Advantage on story-connected CHA throws."]
+3["Summon up to medium-size creatures, or a single giant-size creature."]
+4["Choose one: learn to tell convincing fabricated stories (CHA now applies to fake stories too); or your true stories grow more powerful and opponents suffer disadvantage against your story-related effects."]
+5["Your stories persist for 1d4 turns after you stop telling them. Roll on letting them go."]
+6["If you personally knew (or believe you knew) the subject of your story, you automatically win the check unless your opponent rolls a nat 20 or reaches 25+."]
+7["You can tell a story while fighting, but lose your advantage on concentration throws if hit the turn after you attack. Telling becomes a bonus action."]
+8["The cap on simultaneously awakened entities is lifted — a story you can narrate with full precision and truthfulness can awaken as many participants as it truthfully contains."]
 
 A --> |CHA > 12|1
 1 --> 2 --> |CHA > 15|4
@@ -105,21 +102,19 @@ A --> |CHA > 12|1
 ### Bard · Battle Music
 *Sound moves the body before the mind agrees to be moved. A lullaby slows a racing heart; a war-drum quickens a fearful one. You have learned to play not for the ear, but for the blood — songs that steady an ally's nerve or curdle an enemy's courage, rhythms that numb pain or summon it. Where others carry weapons, you carry a melody, and on the right battlefield, that is worse.*
 
-
-
 ```mermaid
 flowchart TD
 
 A[Base Character]
 
-1[Play a rhythm for a purpose: calm listeners (easing concentration throws) or rouse them (dulling pain via adrenaline).]
-2[Play music that actively hurts everyone who hears it.]
-3[ ]
-4[You can merge songs and compose your own for bespoke effects, rather than picking from fixed categories.]
-5[You can target your music precisely — include or exclude specific listeners within its range (e.g., harm enemies without harming allies).]
-6[You sink so deep into your song it's hard to break your focus — double advantage on concentration throws while playing.]
-7[Weave two effects into one song at once (e.g., a buff for allies and a debuff for enemies, simultaneously).]
-8[Your music lingers: it continues to affect those who already heard it for a short time after you stop playing, and you can recall it to those who know it good, by simple using a bonus action and only playing really beginning of the song.]
+1["Play a rhythm for a purpose: calm listeners (easing concentration throws) or rouse them (dulling pain via adrenaline)."]
+2["Play music that actively hurts everyone who hears it."]
+3["TBD"]
+4["You can merge songs and compose your own for bespoke effects, rather than picking from fixed categories."]
+5["You can target your music precisely — include or exclude specific listeners within its range (e.g., harm enemies without harming allies)."]
+6["You sink so deep into your song it's hard to break your focus — double advantage on concentration throws while playing."]
+7["Weave two effects into one song at once (e.g., a buff for allies and a debuff for enemies, simultaneously)."]
+8["Your music lingers: it continues to affect those who already heard it for a short time after you stop playing, and you can recall it to those who know it good, by simple using a bonus action and only playing really beginning of the song."]
 
 A --> |INT > 9| 1  --- 4 
 A --> |INT > 11| 2 --- 4
@@ -147,14 +142,14 @@ flowchart TD
 
 A[Base Character]
 
-1[Learn to understand and speak a beasts' languages after listening for at least 1h using the Speak to Animals ritual. Longer exposure grants deeper fluency; 1h gives only a basic grasp of common words.]
-2[Advantage on Animal Handling when you speak their language; they no longer flee once you address them in it.]
-3[You can persuade animals (a beast never knowingly does something that would harm it, unless the check is a nat 20).]
-4[With a teacher, learn up to 5 humanoid languages, all beast tongues, and 3 special languages you don't yet know.]
-5[Advantage on all beast-related persuasion checks.]
-6[Animals you've persuaded can be given tactical instructions and will loosely coordinate in combat.]
-7[Reduced difficulty when asking an animal to accept genuinely risky actions.]
-8[A single check can persuade even a wholly unfamiliar wild beast, without prior contact, at standard difficulty.]
+1["Learn to understand and speak a beasts' languages after listening for at least 1h using the Speak to Animals ritual. Longer exposure grants deeper fluency; 1h gives only a basic grasp of common words."]
+2["Advantage on Animal Handling when you speak their language; they no longer flee once you address them in it."]
+3["You can persuade animals (a beast never knowingly does something that would harm it, unless the check is a nat 20)."]
+4["With a teacher, learn up to 5 humanoid languages, all beast tongues, and 3 special languages you don't yet know."]
+5["Advantage on all beast-related persuasion checks."]
+6["Animals you've persuaded can be given tactical instructions and will loosely coordinate in combat."]
+7["Reduced difficulty when asking an animal to accept genuinely risky actions."]
+8["A single check can persuade even a wholly unfamiliar wild beast, without prior contact, at standard difficulty."]
 
 A -->|WIS > 13|1
 1 --> 2 
@@ -170,14 +165,14 @@ flowchart TD
 
 A[Base Character]
 
-1[Understand plants by touch.]
-2[Lend a plant energy to carry out a demand, as long as it doesn't harm the plant itself.]
-3[Reach plants connected to the one you're touching (e.g., through root networks).]
-4[Sense which plants you're connected to and locate them.]
-5[Lend a multiplied amount of energy to speed up the plant's reaction and movement.]
-6[ ]
-7[Your bond with a plant lingers briefly even without contact.]
-8[ ]
+1["Understand plants by touch."]
+2["Lend a plant energy to carry out a demand, as long as it doesn't harm the plant itself."]
+3["Reach plants connected to the one you're touching (e.g., through root networks)."]
+4["Sense which plants you're connected to and locate them."]
+5["Lend a multiplied amount of energy to speed up the plant's reaction and movement."]
+6["TBD"]
+7["Your bond with a plant lingers briefly even without contact."]
+8["TBD"]
 
 A --> |WIS > 11|1
 
@@ -195,14 +190,14 @@ flowchart TD
 
 A[Base Character]
 
-1[Feel life energy and its flow.]
-2[Draw life energy from earth]
-3[Draw life energy from another creature; doing so unwillingly carries escalating risk (at DM discretion).]
-4[Channel life energy to alter creatures (visible, external changes).]
-5[ ]
-6[Reduced time required to channel.]
-7[ ]
-8[Reshape life energy at indirect range.]
+1["Feel life energy and its flow."]
+2["Draw life energy from earth"]
+3["Draw life energy from another creature; doing so unwillingly carries escalating risk (at DM discretion)."]
+4["Channel life energy to alter creatures (visible, external changes)."]
+5["TBD"]
+6["Reduced time required to channel."]
+7["TBD"]
+8["Reshape life energy at indirect range."]
 
 A -->|WIS > 14|1 --> 2 --> 3
 1 --> 4 
@@ -219,14 +214,14 @@ flowchart TD
 
 A[Base Character]
 
-1[You start to sense the spirits of nature]
-2[Learn to speak with spirits (not a true language, so others can't simply learn it too — though another nature-spirit Druid could converse with you in it).]
-3[Gain credit with spirits, letting them help you without immediately fulfilling any request they may have.]
-4[ ]
-5[Temporarily gain a spirits power (if that spirit alows)]
-6[ ]
-7[ ]
-8[A spirit will answer your call from anywhere within its domain, regardless of distance.]
+1["You start to sense the spirits of nature"]
+2["Learn to speak with spirits (not a true language, so others can't simply learn it too — though another nature-spirit Druid could converse with you in it)."]
+3["Gain credit with spirits, letting them help you without immediately fulfilling any request they may have."]
+4["TBD"]
+5["Temporarily gain a spirits power (if that spirit alows)"]
+6["TBD"]
+7["TBD"]
+8["A spirit will answer your call from anywhere within its domain, regardless of distance."]
 
 A -->|WIS > 11|1 --> 2 --> 8
 1 --> 3
@@ -249,14 +244,14 @@ flowchart TD
 
 A[Base Character]
 
-1[Control sparks and tiny flames (candle-size).]
-2[Ignite things on demand.]
-3[Control fire up to campfire size.]
-4[Immunity to your own fire, as long as it remains yours (a forest you ignited still burns you).]
-5[Control several separate flames at once.]
-6[Steer fire in more complex shapes and patterns.]
-7[Control fire against resistance (wind, wet materials, magical suppression).]
-8[Control fire of any strength or scale.]
+1["Control sparks and tiny flames (candle-size)."]
+2["Ignite things on demand."]
+3["Control fire up to campfire size."]
+4["Immunity to your own fire, as long as it remains yours (a forest you ignited still burns you)."]
+5["Control several separate flames at once."]
+6["Steer fire in more complex shapes and patterns."]
+7["Control fire against resistance (wind, wet materials, magical suppression)."]
+8["Control fire of any strength or scale."]
 
 A --> |INT > 12|1 
 1 --> 2 
@@ -274,14 +269,14 @@ flowchart TD
 
 A[Base Character]
 
-1[Create currents in water; you cannot work against gravity.]
-2[Move a greater mass of water at once.]
-3[Move water against gravity, as long as it's partially connected to something material.]
-4[Control several separate currents at once.]
-5[Shape water into held, complex forms (not just currents — e.g., temporary ice constructs).]
-6[Control water against resistance (opposing magic, structural obstacles).]
-7[Control disconnected/airborne water (mist, rain, free-standing water).]
-8[Control any mass of water, unconditionally.]
+1["Create currents in water; you cannot work against gravity."]
+2["Move a greater mass of water at once."]
+3["Move water against gravity, as long as it's partially connected to something material."]
+4["Control several separate currents at once."]
+5["Shape water into held, complex forms (not just currents — e.g., temporary ice constructs)."]
+6["Control water against resistance (opposing magic, structural obstacles)."]
+7["Control disconnected/airborne water (mist, rain, free-standing water)."]
+8["Control any mass of water, unconditionally."]
 
 A --> |INT > 12|1 
 1 --> 2 --> |INT > 16|8
@@ -298,21 +293,21 @@ flowchart TD
 
 A[Base Character]
 
-1[Create movement in the ground; you cannot break it.]
-2[Make earth rumble and shake.]
-3[Move solid earth without needing strength.]
-4[Change and sculpt the form of ground.]
-5[ ]
-6[Control earth against resistance (worked stone, reinforced structures).]
-7[Sense through earth, gaining a tremorsense-like awareness.]
-8[Control earth of any composition and scale, including worked or reinforced stone.]
+1["Create movement in the ground; you cannot break it."]
+2["Make earth rumble and shake."]
+3["Move solid earth without needing strength."]
+4["Change and sculpt the form of ground."]
+5["TBD"]
+6["Control earth against resistance (worked stone, reinforced structures)."]
+7["Sense through earth, gaining a tremorsense-like awareness."]
+8["Control earth of any composition and scale, including worked or reinforced stone."]
 
 A --> |INT > 12|1
 1 --> 2 --> |INT > 16|4
 1 --> 3
 1 --> 6
 1 --> 7
-1 --> |INT: 19|8
+1 --> |INT > 19|8
 ```
 
 ### Elementalist · Air
@@ -323,14 +318,14 @@ flowchart TD
 
 A[Base Character]
 
-1[Move air at a basic level.]
-2[Move it stronger and further away.]
-3[Perform more complex movements.]
-4[Control large masses of air.]
-5[Direct precise, targeted gusts against small objects or single targets.]
-6[ ]
-7[ ]
-8[Control air of any strength and scale.]
+1["Move air at a basic level."]
+2["Move it stronger and further away."]
+3["Perform more complex movements."]
+4["Control large masses of air."]
+5["Direct precise, targeted gusts against small objects or single targets."]
+6["TBD"]
+7["TBD"]
+8["Control air of any strength and scale."]
 
 A --> |INT > 12|1 
 1 --> 2 -->|INT > 15| 4 -->|INT > 18| 8
@@ -351,14 +346,14 @@ flowchart TD
 
 A[Base Character]
 
-1[Gain an adrenaline pool. At a threshold, enter Berserker Rage as a bonus action: roll 1d6 for rounds of rage (no adrenaline gain while raging); at the end, roll 2d8 adrenaline reduction. If you're still above the threshold, you may roll another d6 for further rounds of rage.]
-2[While raging, gain two attacks instead of one.]
-3[Your force turns lethal: deal an additional 1d4 damage on top of your weapon's base.]
-4[Gain 2d6 adrenaline whenever you hit an enemy.]
-5[While raging, gain resistance to a damage type of your choice.]
-6[Ignore rage ending, at the cost of one level of exhaustion.]
-7[Entering rage fears nearby enemies.]
-8[You also gain adrenaline in Rage, but only 1d4 instead of 1d6.]
+1["Gain an adrenaline pool. At a threshold, enter Berserker Rage as a bonus action: roll 1d6 for rounds of rage (no adrenaline gain while raging); at the end, roll 2d8 adrenaline reduction. If you're still above the threshold, you may roll another d6 for further rounds of rage."]
+2["While raging, gain two attacks instead of one."]
+3["Your force turns lethal: deal an additional 1d4 damage on top of your weapon's base."]
+4["Gain 2d6 adrenaline whenever you hit an enemy."]
+5["While raging, gain resistance to a damage type of your choice."]
+6["Ignore rage ending, at the cost of one level of exhaustion."]
+7["Entering rage fears nearby enemies."]
+8["You also gain adrenaline in Rage, but only 1d4 instead of 1d6."]
 
 A --> |STR > 12|1
 1 -->|STR > 14| 2
@@ -378,14 +373,14 @@ flowchart TD
 
 A[Base Character]
 
-1[Each adrenaline tier grants a buff and a debuff.]
-2[A successful parry or dodge grants 1d4 adrenaline.]
-3[Reaching a multiple of 10 adrenaline immediately grants an extra attack.]
-4[Advantage on parries while below adrenaline tier 3.]
-5[Bonus action to calm down, spending 2d4 adrenaline per tier.]
-6[ ]
-7[ ]
-8[ ]
+1["Each adrenaline tier grants a buff and a debuff."]
+2["A successful parry or dodge grants 1d4 adrenaline."]
+3["Reaching a multiple of 10 adrenaline immediately grants an extra attack."]
+4["Advantage on parries while below adrenaline tier 3."]
+5["Bonus action to calm down, spending 2d4 adrenaline per tier."]
+6["TBD"]
+7["TBD"]
+8["TBD"]
 
 A --> |DEX > 12|1
 1 --> 2
@@ -409,14 +404,14 @@ flowchart TD
 
 A[Base Character]
 
-1[Each adrenaline tier grants +1 on blocking rolls.]
-2[Gain 1d4 adrenaline while fighting alongside allies.]
-3[Use your reaction to block a hit meant for an ally; adrenaline drains 1d4 per meter you need to move to do so.]
-4[Gain 1d6 adrenaline on a successful block.]
-5[Taunt: force an enemy within reach to target you on their next action as bonus action if you are at least at 10 Aderenalin.]
-6[Extend your protective reaction to cover multiple allies at once (Those get on next Block advantage).]
-7[Gain temporary HP while at high adrenaline tiers.]
-8[Your presence anchors the battlefield — allies within reach gain your tier bonus on their own blocking rolls.]
+1["Each adrenaline tier grants +1 on blocking rolls."]
+2["Gain 1d4 adrenaline while fighting alongside allies."]
+3["Use your reaction to block a hit meant for an ally; adrenaline drains 1d4 per meter you need to move to do so."]
+4["Gain 1d6 adrenaline on a successful block."]
+5["Taunt: force an enemy within reach to target you on their next action as bonus action if you are at least at 10 Aderenalin."]
+6["Extend your protective reaction to cover multiple allies at once (Those get on next Block advantage)."]
+7["Gain temporary HP while at high adrenaline tiers."]
+8["Your presence anchors the battlefield — allies within reach gain your tier bonus on their own blocking rolls."]
 
 A --> |STR > 12|1
 1 --> 2
@@ -441,14 +436,18 @@ flowchart TD
 
 A[Base Character]
 
-1[Learn to shape Light and make it flow in intended direction.]
-2[Gain your weapon (choose its visual). It deals damage as the mundane weapon it mimics, plus 1d6 radiant damage on hit.]
-3[Perform a 1h ritual, in direct sunlight the whole time, to reshape your weapon or spawn a new one (the old one breaks).]
-4[Focus the light more strongly (greater radiant damage or precision).]
-5[Your weapon can strike briefly at short range as a beam of light, still counting as a melee weapon for damage type.]
-6[Once per day, instantly reshape your weapon as your action; this blinds everyone within 1m and deals 1d4 radiant damage to everyone within 3m.]
-7[You can now create a second weapon or an armor of light. The armor has resistance to necrotic damage.]
-8[Your light burns steady and true — your weapon's radiant die increases, and its glow can illuminate a wide area at will.]
+1["Learn to shape Light and make it flow in intended direction."]
+2["Gain your weapon (choose its visual). It deals damage as the mundane weapon it mimics, plus 1d6 radiant damage on hit."]
+3["Perform a 1h ritual, in direct sunlight the whole time, to reshape your weapon or spawn a new one (the old one breaks)."]
+4["Focus the light more strongly (greater radiant damage or precision)."]
+5["TBD"]
+6["Once per day, instantly reshape your weapon as your action; this blinds everyone within 1m and deals 1d4 radiant damage to everyone within 3m."]
+7["You can now create a second weapon or an armor of light. The armor has resistance to necrotic damage."]
+8["TBD"]
+
+A-->|INT > 13|1
+1 --> 2 --> |INT > 15|3 --> 6 --> |INT > 18|7
+1 --> 4
 
 ```
 
@@ -460,15 +459,18 @@ flowchart TD
 
 A[Base Character]
 
-1[Learn to shape Light and make it flow in intended direction.]
-2[Gain your weapon (choose its visual). It deals damage as the mundane weapon it mimics, plus 1d6 damage on hit; the damage type varies with the moon's phase.]
-3[Perform a 1h ritual, under direct moonlight the whole time, to reshape your weapon or spawn a new one (the old one breaks).]
-4[Learn to make the light flow out of a place (it becomes darker and light-less).]
-5[Once per day, instantly reshape your weapon as your action; the effect varies by phase.]
-6[Gain a phase-specific utility trick (e.g., brief invisibility in darkness at new moon; a brief radiant ward at full moon).]
-7[You can now create a second weapon or an armor of light. The armor has special resistance based on Moon Phase.]
-8[Master all phases — once per long rest, choose which phase's effect applies, regardless of the moon's actual state.]
+1["Learn to shape Light and make it flow in intended direction."]
+2["Gain your weapon (choose its visual). It deals damage as the mundane weapon it mimics, plus 1d6 damage on hit; the damage type varies with the moon's phase."]
+3["Perform a 1h ritual, under direct moonlight the whole time, to reshape your weapon or spawn a new one (the old one breaks)."]
+4["Learn to make the light flow out of a place (it becomes darker and light-less)."]
+5["Once per day, instantly reshape your weapon as your action; the effect varies by phase."]
+6["TBD"]
+7["You can now create a second weapon or an armor of light. The armor has special resistance based on Moon Phase."]
+8["Master all phases — once per long rest, choose which phase's effect applies, regardless of the moon's actual state."]
 
+A-->|INT > 13|1
+1 --> 2 --> |INT > 15|3 --> 5 --> |INT > 18|7 --> 8
+1 --> 4 -->|INT > 16| 8
 ```
 
 #### Moon Phases
@@ -493,15 +495,20 @@ flowchart TD
 
 A[Base Character]
 
-1[As a bonus action, make a CHA throw against your target. On success, learn a random, strong fear or want of theirs. As an action you can make your target see an illusion, lasting for 1d6 Rounds.]
-2[If your target currently believes your illusion, you may attack as a bonus action.]
-3[Add your CHA bonus twice on illusion-related CHA throws.]
-4[Choose whether you learn a fear or a want. Your illusion now lasts 2d4 Rounds.]
-5[Read multiple targets — up to 3 — at once. Choose your learning for each independently.]
-6[If your target believes an illusion you can attack it twice.]
-7[All targets falling for your illusion receive 1d8 psychic damage per round.]
-8[Read a target's intent moments before they act, granting you advantage on your next check against them that turn.]
+1["As a bonus action, make a CHA throw against your target. On success, learn a random, strong fear or want of theirs. As an action you can make your target see an illusion, lasting for 1d6 Rounds."]
+2["If your target currently believes your illusion, you may attack as a bonus action."]
+3["Add your CHA bonus twice on illusion-related CHA throws."]
+4["Choose whether you learn a fear or a want. Your illusion now lasts 2d4 Rounds."]
+5["Read multiple targets — up to 3 — at once. Choose your learning for each independently."]
+6["If your target believes an illusion you can attack it twice."]
+7["As Reaction to a target beliving the illusion deal 2d10 damage to it."]
+8["Make your Illusion hurt your opponend if it is a fear for 1d12 as bonus action or if it's a want make it get disadvantage on all it's throws that turn as Action (nat20 ignore this)"]
 
+A --> |CHA > 13|1
+1 --> 2 -->|CHA > 16| 6
+1 --> |CHA > 14|3
+1 --> 4
+1 --> |CHA > 18| 7 --- 8
 ```
 
 ### Mirage · Fata Morgana
@@ -512,59 +519,22 @@ flowchart TD
 
 A[Base Character]
 
-1[Manipulate light's flow to form a fata morgana. Every turn you sustain it, every target (including allies) makes a CHA throw against you. Targets who know the terrain instead make a WIS throw applying their proficiency (doubled if proficient).]
-2[If you've seen and studied the phenomenon you're mimicking for 1h, add your CHA twice on that check.]
-3[You now mimic the process, not just the state — enemies see, say, a crack forming and breaking into the earth. Targets always make a CHA throw. You can concentrate on 2 fata morganas now; if you fail a concentration throw you lose all existing.]
-4[If a target fails their check, the illusion becomes real for them. It still breaks if someone who succeeded the check touches it.]
-5[Shape a fata morgana as a bonus action. Concentrate on up to 3 fata morganas now.]
-6[Add your CHA bonus on concentration throws about your fata morgana. You now make a concentration check on each independently.]
-7[If failing the check of your illusions, deal 2d6 damage per target (per fata morgana).]
-8[You now don't need any light source or a direction of light to create a fata morgana. You can now upkeep up to 5 illusions at a time.]
+1["Manipulate light's flow to form a fata morgana. Every turn you sustain it, every target (including allies) makes a CHA throw against you. Targets who know the terrain instead make a WIS throw applying their proficiency (doubled if proficient)."]
+2["If you've seen and studied the phenomenon you're mimicking for 1h, add your CHA twice on that check."]
+3["You now mimic the process, not just the state — enemies see, say, a crack forming and breaking into the earth. Targets always make a CHA throw. You can concentrate on 2 fata morganas now; if you fail a concentration throw you lose all existing."]
+4["If a target fails their check, the illusion becomes real for them. It still breaks if someone who succeeded the check touches it."]
+5["Shape a fata morgana as a bonus action. Concentrate on up to 3 fata morganas now."]
+6["Add your CHA bonus on concentration throws about your fata morgana. You now make a concentration check on each independently."]
+7["If failing the check of your illusions, deal 4d4 damage per target (per fata morgana)."]
+8["You now don't need any light source or a direction of light to create a fata morgana. You can now upkeep up to 5 illusions at a time."]
 
-```
-
----
-
-## Monk
-
-*Discipline is its own kind of power, refined through repetition until the body stops needing to think and simply acts. Two paths, one root: the Ki Adept who bends inner energy into stances and technique, and the Martial Artist who needs nothing but flesh, bone, and years of relentless practice.*
-
-### Monk · Ki Adept
-*Somewhere beneath breath and muscle lies a current most people never learn to touch. You have touched it, shaped it, and folded it into stances — postures that are not merely positions but promises of what your body is about to become. Ki spent is ki earned back, cycle after cycle, as long as your strikes land true.*
-
-```mermaid
-flowchart TD
-
-A[Base Character]
-
-1[Gain a Ki pool and your first Stance (a Ki-costing combat posture with its own bonuses).]
-2[Gain a second Stance.]
-3[As a bonus action, regain 1 Ki after landing a Stance-boosted hit.]
-4[Gain a third Stance.]
-5[Switch Stances as a bonus action instead of using your full action.]
-6[Gain a fourth Stance.]
-7[Combine two Stances' minor effects at the same time.]
-8[Gain a fifth, master-tier Stance with a powerful, high-cost effect.]
-
-```
-
-### Monk · Martial Artist
-*You needed no current, no pool, no spark of hidden energy — only time, repetition, and the refusal to stop training past the point where others quit. Your body is the weapon, honed by nothing but discipline, and it shows: every strike a little faster, every reflex a little sharper, until "unarmed" stops meaning "unarmed" to anyone who has felt your hands land.*
-
-```mermaid
-flowchart TD
-
-A[Base Character]
-
-1[Gain Martial Arts (unarmed strikes scale; bonus unarmed attack).]
-2[After a critical hit, gain another attack action.]
-3[You can do a Parry move against projectiles to catch them. You use them as a bonus action.]
-4[Gain extra reach and mobility with unarmed strikes.]
-5[Your nat19 is now counted as nat20.]
-6[Your attacks count as magic if the foe has a resistance or immunity against your martial art attack.]
-7[Advantage on your first attack roll each combat while unarmed.]
-8[Your unarmed strikes count as magical, dealing 1d4 more damage.]
-
+A -->|CHA > 12 AND: WIS OR INT > 11|1
+1 --> 2
+1 --> |WIS OR INT > 14|3
+1 --> |CHA > 15|5
+1 --> 4
+1 --> 6
+1 --> |CHA > 16 AND: WIS OR INT > 16|8
 ```
 
 ---
@@ -581,14 +551,19 @@ flowchart TD
 
 A[Base Character]
 
-1[Blood toll: spend your own HP to boost a spell.]
-2[The toll becomes more efficient (less HP cost per benefit).]
-3[Blood sacrifice: a one-time larger HP cost for a much larger boost.]
-4[Use blood from other creatures instead of your own.]
-5[Blood left behind empowers future spells cast on that spot.]
-6[Gain minor control over already-spilled blood (cosmetic/utility only, not combat-relevant).]
-7[Prepare a sacrifice in advance to reduce the lasting cost of a blood sacrifice.]
-8[Bank prepared, preserved blood as a resource pool, usable without bleeding live.]
+1["Blood toll: spend your own HP to boost a spell."]
+2["The toll becomes more efficient (less HP cost per benefit)."]
+3["TBD"]
+4["Use blood from other creatures instead of your own."]
+5["TBD"]
+6["TBD"]
+7["TBD"]
+8["Bank prepared, preserved blood as a resource pool, usable without bleeding live."]
+
+A --> |INT > 12|1
+1 --> |CON > 13|2
+1 --> 4
+1 --> |INT > 15|8
 
 ```
 
@@ -600,38 +575,18 @@ flowchart TD
 
 A[Base Character]
 
-1[Empower corpses and command them.]
-2[Empower more corpses simultaneously.]
-3[Awaken and command as a bonus action.]
-4[Higher-quality corpses yield noticeably stronger servants.]
-5[Servants gain resistances based on the quality of their corpse.]
-6[Increase your effective control radius.]
-7[Servants retain minor autonomous judgment — they can follow general orders without micromanagement.]
-8[Raise an elite servant from an exceptional corpse, distinctly more capable than your standard minions.]
+1["Empower corpses and command them."]
+2["Empower more corpses simultaneously."]
+3["Awaken and command as a bonus action."]
+4["Higher-quality corpses yield noticeably stronger servants."]
+5["Servants gain resistances based on the quality of their corpse."]
+6["TBD"]
+7["TBD"]
+8["Raise an elite servant from an exceptional corpse, distinctly more capable than your standard minions."]
 
-```
-
----
-
-## Cleric / Paladin
-
-### Cleric / Paladin · Fateful
-*Your power is not entirely your own — it is lent, channeled from a deity or an oath sworn deeply enough to answer back. Every time you call on it, you are reminded that faith is not passive; it is a working relationship, renewed each time you ask for its strength and each time that strength is granted.*
-
-```mermaid
-flowchart TD
-
-A[Base Character]
-
-1[Channel your deity's/oath's power (a basic Channel Divinity-style ability).]
-2[Channel a second time between rests.]
-3[Gain a minor passive blessing tied to your domain or oath.]
-4[Channel a third time between rests.]
-5[Your channeled power affects a wider area or more targets.]
-6[Gain a stronger domain-specific ability.]
-7[Reduced cost or faster channeling under pressure.]
-8[Gain a powerful domain capstone ability reflecting your deity's or oath's core theme.]
-
+A --> |INT > 12|1 --> 4 --> |INT > 17|8
+1 --> 2
+1 --> |INT > 15|3
 ```
 
 ---
@@ -646,15 +601,18 @@ flowchart TD
 
 A[Base Character]
 
-1[Cast spells, but there may be side effects (the DM improvises a scene from the deviation).]
-2[Reroll a side-effect roll.]
-3[Roll a second side-effect roll if you wish.]
-4[Deliberately lean into a stronger deviation for a chance at a greater effect.]
-5[Reduce the range of the worst outcomes (still random, but the floor is raised).]
-6[Recognize a side effect before it resolves, and choose to accept it or attempt to suppress it.]
-7[Cast two spells in sequence sharing a single side-effect roll.]
-8[Let a deviation run fully wild by choice — highest risk, highest possible reward, full narrative license to the DM.]
+1["Cast spells, but there may be side effects (the DM improvises, or uses the table below)."]
+2["Reroll a side-effect roll."]
+3["Roll a second side-effect roll if you wish."]
+4["TBD"]
+5["Reduce the range of the worst outcomes (still random, but the floor is raised)."]
+6["Recognize a side effect before it resolves, and choose to accept it or attempt to suppress it. (d20 + CHA-Mod > 15)"]
+7["Cast two spells in sequence sharing a single side-effect roll."]
+8["Let a deviation run fully wild by choice — highest risk, highest possible reward, full narrative license to the DM."]
 
+A --> |CHA > 11|1
+1 --> |CHA > 13|2 --> 5 --> |CHA > 15|6
+1 --> 3 --> |CHA > 14| 8
 ```
 
 ---
@@ -663,42 +621,24 @@ A[Base Character]
 
 *A demon's true name is a key, and finding it is only the first danger. Binding one is a negotiation held at the edge of a blade; keeping it bound is a discipline that never fully ends. Two paths: command many weak servants, or dominate one terrible one.*
 
-### Summoner · Quantity
-*One demon bound is a risk. A dozen is a small war, held together by your will alone. You have chosen breadth over depth — command over dominance — building a horde one desperate ritual at a time, each new binding making the whole a little harder to hold and a little more dangerous to face.*
 
 ```mermaid
 flowchart TD
 
 A[Base Character]
 
-1[Learn the ritual and true-name research needed to bind demons.]
-2[Your bind check improves: 2d10 instead of 1d20.]
-3[No hard cap on the number of bound demons, but each additional demon adds 1d4 difficulty to the check.]
-4[Add your INT-Mod twice to the bind check.]
-5[Maintain your bound demons with less upkeep effort (reduced attention/ritual maintenance).]
-6[Command multiple bound demons with a single action.]
-7[Your bound demons coordinate tactically among themselves.]
-8[Bind and control a small horde without the difficulty penalty scaling beyond the base check.]
+1["Learn 3 rituals for 3 base demons."]
+2["Your bind check improves: 2d10 instead of 1d20."]
+3["No hard cap on the number of bound demons, but each additional demon adds 1d4 difficulty to the check."]
+4["Add your INT-Mod twice to the bind/controll check."]
+5["If you controll no other demons your controll and bindchecks become 3d8"]
+6["Demeons under Tier 3 suffer disadvantage on your binding checks"]
+7["TBD"]
+8["If your bind check was 10 higher than your demons escape check they do not vanish after they did their task."]
 
-```
-
-### Summoner · Quality/Strength
-*You do not want an army of weak things. You want one thing strong enough that an army wouldn't matter. Every ritual you perform digs deeper into names better left unspoken, seeking out power worth the risk of binding it — and once bound, you do not merely command it. You break its will, piece by piece, until it serves you not from fear alone, but from something closer to submission.*
-
-```mermaid
-flowchart TD
-
-A[Base Character]
-
-1[Learn to identify and target more powerful demons for binding, requiring deeper name/ritual research.]
-2[Your bind check improves specifically against stronger demons.]
-3[Once bound, a strong demon can be empowered further through ongoing pacts or tribute.]
-4[Subdue a demon's will more thoroughly, reducing its chance to resist your orders.]
-5[Your bound demon gains access to more of its innate abilities under your command.]
-6[Negotiate favorable terms, granting your demon lasting boons in exchange for service.]
-7[Bind demons of significant individual power with manageable risk.]
-8[Bind and fully dominate a demon of formidable, singular strength.]
-
+A -->|INT > 11|1
+1 --> |INT > 14|2 --> 4 --> 5 --> |INT > 17|6 --> 8
+1 --> 3
 ```
 
 ---
@@ -711,15 +651,20 @@ flowchart TD
 
 A[Base Character]
 
-1[Gain your pact (choose a patron).]
-2[Pray to your patron for a minor power buff until your next long rest.]
-3[Gain a patron-specific minor trait, reflecting your patron's theme.]
-4[Gain a pact weapon.]
-5[Gain a second patron-specific trait.]
-6[Gain a stronger patron-specific ability, or bind a second patron.]
-7[Gain the power to reshape your pact weapon in a one hour ritual.]
-8[Your patron grants you a signature, iconic ability tied directly to its core theme.]
+1["Gain your pact (choose a patron)."]
+2["Pray to your patron for a minor power buff until your next long rest."]
+3["Gain a patron-specific minor trait, reflecting your patron's theme."]
+4["Gain a pact weapon."]
+5["TBD"]
+6["Gain a stronger patron-specific ability, or bind a second patron."]
+7["Gain the power to reshape your pact weapon in a one hour ritual."]
+8["Your patron grants you a signature, iconic ability tied directly to its core theme."]
 
+A --> |WIS > 11|1
+1 --> 2
+1 --> |WIS > 13|3 --> 6
+1 --> |WIS > 14|4 --> 7
+1 --> |WIS > 17|8
 ```
 
 ---
@@ -736,15 +681,33 @@ flowchart TD
 
 A[Base Character]
 
-1[Curse a target on sight (weakest tier).]
-2[Curse a target by name, without needing sight. If you have both: moderate curse tier.]
-3[Curse a target using something they own. If you have any two things: moderate curse tier, or if all three, strongest curse tier.]
-4[You can now resolve your curses at will.]
-5[Curse items directly.]
-6[If the target does not expect to get cursed, you win the curse-check.]
-7[You can now call a trigger for a curse.]
-8[You can now cast 3rd level curses on having only 2 aspects, and 2nd level curses by only having 1.]
+1["Curse a target on sight (weakest tier)."]
+2["Curse a target by name, without needing sight. If you have both: moderate curse tier."]
+3["Curse a target using something they own. If you have any two things: moderate curse tier, or if all three, strongest curse tier."]
+4["You can now resolve your curses at will."]
+5["Curse items directly."]
+6["If the target does not expect to get cursed, you win the curse-check."]
+7["You can now call a trigger for a curse."]
+8["You can now cast 3rd level curses on having only 2 aspects, and 2nd level curses by only having 1."]
 
+A --> |INT > 12|1
+A --> |INT > 12|2
+A --> |INT > 12|3
+1 --- 4
+2 --- 4
+3 --- 4
+1 --- |INT > 13|5
+2 --- |INT > 13|5
+3 --- |INT > 13|5
+1 --- |INT > 15|6
+2 --- |INT > 15|6
+3 --- |INT > 15|6
+1 --- 7
+2 --- 7
+3 --- 7
+1 --> |INT > 15|8
+2 --> |INT > 15|8
+3 --> |INT > 15|8
 ```
 
 ### Witch · Brewing
@@ -755,15 +718,20 @@ flowchart TD
 
 A[Base Character]
 
-1[Brew potions (basic recipes: heal, buff, debuff, damage).]
-2[Sense the location of a chosen ingredient up to three times per long rest.]
-3[Merge different potions into one.]
-4[Once per long rest you can detect any potion's effect at a 100% chance.]
-5[Brew stronger tiers of recipes you already know.]
-6[If you see a brewed potion and you learn its effects, you can do a WIS throw to guess its ingredients.]
-7[You can brew double the amount out of the same amount of essentials.]
-8[ ]
+1["Brew potions (basic recipes: heal, buff, debuff, damage)."]
+2["Sense the location of a chosen ingredient up to three times per long rest."]
+3["Merge different potions into one."]
+4["Once per long rest you can detect any potion's effect at a 100% chance."]
+5["Brew stronger tiers of recipes you already know."]
+6["If you see a brewed potion and you learn its effects, you can do a WIS throw to guess its ingredients."]
+7["You can brew double the amount out of the same amount of essentials."]
+8["TBD"]
 
+A --> |INT > 12|1
+1 --> 2
+1 --> |INT > 14|3
+1 --> |INT > 15|4 --> 6
+1 --> |INT > 14|5 --> 7
 ```
 
 ### Witch · Familiar
@@ -774,15 +742,22 @@ flowchart TD
 
 A[Base Character]
 
-1[Gain a familiar; you both sense each other's strong feelings (pain, great joy).]
-2[Communicate by telepathy.]
-3[Gain 3 spells from your familiar's spell list. Your familiar has 4/3 your Passive perception. Enemies get Disadvantage on sneak and stealth against your familiar (everyone else gets first throw values).]
-4[Your familiar can fight competently on its own.]
-5[Your familiar gains improved combat capability (better attacks/defenses).]
-6[Your familiar becomes a true extension of yourself — share senses fully, or briefly perceive through it at range.]
-7[If your familiar is about to die, you can sacrifice half your remaining HP to immediately revive it at 1/4 of its health.]
-8[ ]
+1["Gain a familiar; you both sense each other's strong feelings (pain, great joy)."]
+2["Communicate by telepathy."]
+3["Gain 3 spells from your familiar's spell list. Your familiar has 4/3 your Passive perception. Enemies get Disadvantage on sneak and stealth against your familiar (everyone else gets first throw values)."]
+4["Your familiar can fight competently on its own."]
+5["Your familiar gains improved combat capability (better attacks/defenses)."]
+6["Your familiar becomes a true extension of yourself — share senses fully, or briefly perceive through it at range."]
+7["If your familiar is about to die, you can sacrifice half your remaining HP to immediately revive it at 1/4 of its health."]
+8["TBD"]
 
+A --> |CHA > 11|1
+1 --> 2
+1 --> 3
+1 --> 4
+1 --> 5
+1 -->|CHA > 13| 6
+1 --> |CHA > 14|7
 ```
 
 ### Witch · Fate & Foresight
@@ -793,13 +768,18 @@ flowchart TD
 
 A[Base Character]
 
-1[Once per long rest, make a diviner's throw to glimpse the future.]
-2[Choose who or what your divination concerns.]
-3[Divine once per short rest.]
-4[Choose a specific roll for a chosen entity to increase or decrease by 1d6 when it happens.]
-5[With a divinatory item, divine on up to 3 different targets, including yourself.]
-6[For each target: reduce the chance it is a debuff or buff.]
-7[Your calls become more reliable, the roll is now modified by 2d6.]
-8[Divine a pivotal moment for an entity with full precision — name the exact circumstance, not just a general shift in fortune. Your DM decides how often you can do this.]
+1["Once per long rest, make a diviner's throw to glimpse the future."]
+2["Choose who or what your divination concerns."]
+3["Divine once per short rest."]
+4["Choose a specific roll for a chosen entity to increase or decrease by 1d6 when it happens."]
+5["With a divinatory item, divine on up to 3 different targets, including yourself."]
+6["For each target: reduce the chance it is a debuff or buff."]
+7["Your calls become more reliable, the roll is now modified by 2d6."]
+8["Divine a pivotal moment for an entity with full precision — name the exact circumstance, not just a general shift in fortune. Your DM decides how often you can do this."]
 
+A --> |CHA or WIS > 12|1
+1 --> 2 --> |CHA or WIS > 14|4 --> 6 --> |CHA or WIS > 16|7
+1 --> 3 --> 5
+5 --> 8
+7 --> 8
 ```

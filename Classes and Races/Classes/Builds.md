@@ -19,3 +19,11 @@ If you want to use poison as well go for the potion trait of the witch.
 If you want to sneak and stealth use some moon magic
 
 > Of course for this system the actual cost are important. This will be worked out another day.
+
+# Monk
+
+A monk is a DEX-Fighter using the unarmed Attack Feat and the Druid Life Traits. For flavor you may reduce the weight of Adrenalin or buff the calamity bonus action.
+
+# Clerics and Paladins
+
+Those are basically Fighters which connect with a god or a principle as warlock. Therefor it is just a passive Warlock.
