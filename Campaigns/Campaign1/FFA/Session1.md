@@ -30,4 +30,14 @@
 # Calling Horns
 
 - Der Ort Calling Horns entstand um das gleichnamige Roadhouse, welches durch Tamalin Zoar aufgekauft wurde. Als gütige Adelige mit einfluss und kontakten zog sie viele Händler und kaufleute an und so entstand die kleine Stadt.
-- An der kleinen Stadtmauer fragt Carcuma die Stadtwache: "Habt ihr einen Frosch gesehen?", doch der Wächter antwortet nur, dass 
+- An der kleinen Stadtmauer fragt Carcuma die Stadtwache: "Habt ihr einen Frosch gesehen?", doch der Wächter antwortet nur, dass man dazu in den Sumpf gehen sollte.
+- Sie gingen da sich die Zeit dem Mitteg neigte, ging die Gruppe zunächst ins Calling Horns und als der Wirt ihnen ihre Bestellung bringt, fragt Carcuma wieder: "Habt Ihr einen Frosch gesehen?". Und diesmal bekommt er einen Hinweis. So erzählt der Wirt, dass regelmäßig Frösche ins Calling Horns kommen und Nachrichten an Miss Zoar bringen. Darum sei es auch verboten in der ganzen Stadt frösche zu fangen oder gar zu töten.
+- Doch der Wirt weiß nicht, was aus dem letzten Frosch geworden ist, da er sie nicht weiter verfolgt nachdem sie das Wirtshaus wieder verlassen. Er empfiehlt aber einen der Deputies aufzusuchen, die die Stadt patrollieren, um für Recht und Ordnung zu sorgen.
+- Da es erst kurz nach Mittag ist, mieteten Pierre und Carcuma die anderen in einem Zimmer ein und machten sich allein auf die Suche nach den Deputies.
+- Und am späten Abend fanden sie tatsächlich einen. Dieser erzählte ihnen von einer Bande von Banditen, die die Regeln von Lady Zoar immer weiter beugten, sie aber nie brachen, so dass sie nichts gegen sie tun konnten. Sie opperieren im Osten der Stadt nahe eines Tors, dass die Frösche oft nutzen.
+- Mit diesen Hinweisen machten sich die beiden Auf den Rückweg und kamen am Anschlagbrett vorbei. Dort fanden sie unter Anderem auch eine Offizielle Aufgabe über das Lösen von Überfällen im Osten der Stadt und eine Anfrage eines Lokalen Stoffhändlers, sich um den Rattenbefall in seinem Keller zu kümmern.
+- Dieser Aufgabe wollten die beiden noch am Abend erledigen, bevor sie sich am nächsten Morgen auf die Suche nach den Banditen und dem Frosch zu machen.
+
+## Die Banditenbande
+
+
