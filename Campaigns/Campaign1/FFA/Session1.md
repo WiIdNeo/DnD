@@ -10,6 +10,9 @@
 - Dank des Geheimgangs kann die Gruppe ungesehen und ohne zwischenfälle entkommen und versteckt sich nahe eines Baches im Wald östlich der Stadt.
 - Da es tiefe Nacht ist, beschließen sie noch etwas zu rasten und sich erst am nächsten tag weiter zu entfernen.
 - Am nächsten morgen beobachten sie, wie reiter aus der Ivy Mansion nach süden und norden der Handelsroute folgen, damit sind diese Richtungen für sie gesperrt.
+
+# Grethel und der Sumpf
+
 - So machen sie sich weiter auf gen Osten und kommen nach einigen Tagen an den rand eines Sumpfes. Sie versuchen zunächst Richtung norden zu gehen, doch hören sie bald ein Kriegshorn blasen. Als sie dann eine Horde Orks auf sie zureiten sehen, flüchten sie in dem Sumpf.
 - Doch die Orks geben nicht auf und so flieht die Gruppe ohne orientierung immer tiefer in den Sumpf. Der Nebel wird immer Dichter, doch die Orks holen immer weiter auf - und bleiben plötzlich stehen.
 - Da bläst eine Böhe den Nebel davon und die Gruppe findet sich unmittelbar vor einem Haus wieder. Es steht etwas schief, aber es steht. Doch am auffälligsten sind die Pfähle die kreuz und quer um das Haus aufgebaut sind. So finden sich Schädel der verschiedensten Rassen, aufgepfählt um das Haus herum verteilt.
