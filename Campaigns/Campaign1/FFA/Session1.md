@@ -25,4 +25,9 @@
 - Daraufhin führte Gretel sie um ihre Hütte herum zu einem Verschlag, in dem sie Botenfrösche hält und erzählt, dass einer von seiner letzten Mission nicht zurückgekehrt ist. Sie bietet an, dass sie ihnen bei der Flucht behilflich ist, wenn die Gruppe ihren verschwundenen Frosch beim Calling Horns sucht und zurückbringt. Als Belohnung, wenn sie den Frosch lebendig zurückbringen, bietet sie außerdem eine Karte vomm Sumpf an.
 - Als die Gruppe zustimmt sagt Grethel nur: So geht. Und als sie sich umdrehten, blickten sie in eine Weiße Nebelwand.
 - Um sich nicht zu verlieren, hielten sie sich alle an der Magischen Angel von Carcuma fest und liefen nach Süden, Richtung Calling Horns.
-- 
+- Doch Pierre ist in seiner Rüstung reichlich laut und so wird trotz des Nebelns und seiner natürlichen Dämpfung ein Ork angelockt, welcher jedoch keine Größere Bedrohung darstellt.
+
+# Calling Horns
+
+- Der Ort Calling Horns entstand um das gleichnamige Roadhouse, welches durch Tamalin Zoar aufgekauft wurde. Als gütige Adelige mit einfluss und kontakten zog sie viele Händler und kaufleute an und so entstand die kleine Stadt.
+- An der kleinen Stadtmauer fragt Carcuma die Stadtwache: "Habt ihr einen Frosch gesehen?", doch der Wächter antwortet nur, dass 
