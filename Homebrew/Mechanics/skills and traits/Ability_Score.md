@@ -84,8 +84,7 @@ From level 10:
 |            19 |                 45 |
 |            20 |                 52 |
 
-
-You start on 100 Pfunds.
+161 Pfunds is Standard Array, but may start lower to make the actual growing structure kicking. Possible is like 130 (guessed).
 
 > You can save Pfunds for later, but you can't respend them on regular, as this would mean to train your body and mind, so it's a dm decision if and in what time you can respec here.
 
