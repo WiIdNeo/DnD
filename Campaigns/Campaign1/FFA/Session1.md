@@ -40,4 +40,16 @@
 
 ## Die Banditenbande
 
+- Am nächsten Morgen finden sie sich bald an einem Reichen kaufhaus ein, weilches ein gutes Ziel abgeben würde und tatsächlich, seht ihr alsbald eine Gruppe von 3 Banditen, die um das Gebäude herumschleichen. Und währen Carcuma in seiner Dunklen und Schmutzigen Robe nicht weiter auffällt, zieht Pierre in seiner Diamantenbesetzten Rüstung alle Blicke an und so werden die beiden bemerkt.
+- Nach einem kurzen Kampf, können sie einen der Banditen gefangennehmen und zu einem Deputie bringen. Zusammen horchen sie ihn aus und können ihm nicht nur die Position des Verstecks der Bande, sondern auch die Bestätigung entlocken, dass sie den Frosch gefangen halten, da sie dachten er transportiere eine Politisch relevante Information.
+- Da die Banditen, zumindest in der Version von Pierre und Carcuma, zuerst angegriffen und einen Frosch entführt haben, kann die offizielle Gerechtigkeit nun eingreifen und die Banditen unschädlich machen. Dazu bekommen Pierre und Carcuma 3 Stadtwachen gestellt und machen sich auf den Weg zum Banditen-Versteck.
+- Dort Positionieren sie sich um alle Ausgänge und wie es Pierres art ist, rennt er rein und nimmt sich sogleich den Hauptmann vor - zu seinem Pech, denn dieser schlägt ihn ziemlich anti-klimatisch bewusstlos.
+- Als die Wache vor dem Fenster das sieht, bläßt sie in ihr Horn um Verstärkung herbeizurufen und der Kampf entbrennt. Welcher zunächst ziemlich schlecht, doch als die Verstärkung eintrifft doch ziemlich gut aussieht.
+- Auch hat ein Wächter zufällig einen Heiltrank für Pierre dabei, um ihn wieder aufzuwecken, nachdem er stabiliesiert war.
+- Nach dem Kampf finden sie den Frosch eingesperrt in einem Käfig und nehmen ihn mit, zunächst zum Gefängniss, um ihr Kopfgeld von 100GP abzuholen und dann ins Wirtshaus, um ihre Freunde zu holen.
+- Außerdem hat Carcuma eine Bitte an Tamalin Zoar: So möchte er ein Empfehlungsschreiben für einen Händler Magischer Objekte haben. Und tatsächlich kennt die Adelige jemanden mit einer Großen Sammlung in Neverwinter und da Carcuma einen wesentlichen Beitrag daran hatte, die größte innere Bedrohung auszuschalten, schreibt sie ihm gern eine.
 
+- Die Gruppe Übernachtet dann noch einmal im Calling Horns und macht sich danach auf den Weg zu Grethel, um ihr ihren Frosch wiederzubringen.
+- Nach nun mehreren Tagen, sind auch die orks längst abgezogen und dank der Karte, haben sie kein Problem, den Weg zur Hütte zu finden.
+
+  
