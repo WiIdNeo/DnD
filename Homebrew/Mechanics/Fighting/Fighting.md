@@ -77,6 +77,8 @@ attacks: the defender gets a normal Dodge/Block/Parry check against them.
 
 ### 5.1 Pool
 
+**Here may create a CON-Based Table to manipulate the reduction**
+
 Every combatant gets a fresh pool at the **start of combat**, sized per
 round rather than per fight:
 
@@ -120,7 +122,7 @@ total wins the exchange.
 
 $$\text{Attack Roll} = 1d20 + \text{Attacker-Prof} + \text{Attribute-Mod(weapon)} + \text{Speed Bonus}_{\text{Atk}} + \text{Attacker-Tokens}$$
 
-$$\text{Defense Roll} = 1d20 + \text{Defender-Prof} + \text{Stance-Mod} + \text{Attribute-Mod(stance)} + \text{Speed Bonus}_{\text{Def}} + \text{Defender-Tokens}$$
+$$\text{Defense Roll} = 1d20 + \text{Defender-Prof} + \text{Stance-Mod} + \text{Attribute-Mod(stance)} + \text{Defender-Tokens}$$
 
 - **Stance-Mod** is whichever Dodge/Block/Parry modifier applies — see
   Section 7, note that the signs there are written for *this* roll-based
@@ -135,9 +137,7 @@ $$\text{Defense Roll} = 1d20 + \text{Defender-Prof} + \text{Stance-Mod} + \text{
 
 ### Speed Bonus (replaces the old DC-tier approach)
 
-Speed only ever *helps* — it never penalizes the slower side. Whoever has
-the higher initiative that round adds a flat bonus to their own roll (based
-on the gap); the slower side adds nothing.
+Only increases, can't decrease.
 
 | Initiative Difference | Speed Bonus (faster side only) |
 |---|---|
@@ -240,12 +240,10 @@ $$\text{Damage} = \max\left(1,\ 1d6 + \text{Prof-Mod} + \text{Stat-Mod}\right)$$
 - **Stat-Mod** (weapon's governing stat) full weight.
 - Minimum 1 damage on any hit, regardless of negative modifiers.
 
-*A level-1 wizard and a level-1 barbarian with the same weapon deal
-different damage — not because of level, but because of build.*
 
 ### Rounding Rule
-Standard 0.5 → round up, but reduce the base value by 0.1 first (so x.5
-averages effectively round down, e.g. 1d6 average 3.5 → 3.4 → 3).
+Standard 0.5 → round up, but reduce the base value by 0.0.7 first (so x.5
+averages effectively round down, e.g. 1d6 average 3.5 → 3.43 → 3).
 
 ---
 

@@ -120,51 +120,6 @@ If your weapon is really heavy it is likely to slow you down. To simulate that y
 | Schwere Armbrust    | Bolzen    |      2° |      – | fast                |
 | Langbogen           | Pfeil     |      2° |      – | fast                |
 
-
-| Weapon                | Damage Risky | Damage Save| Reason                                                   |
-| --------------------- | -----: | -----:|--------------------------------------------------- |
-| Club                  |    1d8 | 2d4 |Low penetration, but blunt trauma can still incapacitate |
-| Dagger                |    1d8 | 2d4|Very lethal, but highly dependent on exact hit location  |
-| Handaxe               |    1d8 | 2d4|Strong cutting force, enough mass                        |
-| Javelin               |    1d10 | 1d6+1d4|Deep penetration, momentum from thrust/throw             |
-| Light Hammer          |    1d8 | 2d4|Small mass, localized impact                             |
-| Mace                  |    1d10 | 1d6+1d4|Heavy impact, strong against bone and armor              |
-| Sickle                |    1d8 | 2d4|Cutting weapon, but limited penetration                  |
-| Dart                  |    1d6 | - |Small projectile, limited wound channel                  |
-| Sling                 |    1d8 | 2d4|Small projectile but high velocity                       |
-| Flail                 |    1d10 | 1d6+1d4|Heavy impact, unpredictable strikes                      |
-| Morningstar           |    1d10 | 1d6+1d4|Similar to mace, spikes increase trauma                  |
-| Rapier                |    1d8 | 2d4|Extremely dangerous thrust, but narrow wound             |
-| Scimitar              |    1d10 | 1d6+1d4|Strong cutting weapon                                    |
-| Shortsword            |    1d10 | 1d6+1d4|Balanced cutting/stabbing weapon                         |
-| War Pick              |   1d12 | 2d6|Concentrated force, armor penetration                    |
-| Whip                  |    1d6 | -|Painful but limited deep trauma                          |
-| Blowgun               |    1d6 | -|Minimal physical damage                                  |
-| Hand Crossbow         |    1d10 | 1d6+1d4|Strong penetration                                       |
-| Net                   |      0 | -|No damage                                                |
-| Quarterstaff (single) |    1d8 | 2d4|Blunt weapon, moderate mass                              |
-| Quarterstaff (double) |    1d10 | 1d6+1d4|More leverage                                            |
-| Spear (single)        |    1d10 | 1d6+1d4|Excellent penetration                                    |
-| Spear (double)        |    1d10 | 1d6+1d4|More control, not much more wound damage                 |
-| Battleaxe (single)    |   1d12 |2d6 |Heavy cutting edge                                       |
-| Battleaxe (double)    |   1d12 | 2d6|More leverage, same injury potential                     |
-| Longsword (single)    |    1d10 | 1d6+1d4|Baseline                                                 |
-| Longsword (double)    |   1d12 | 2d6 |Two-handed leverage increases impact                     |
-| Trident               |    1d10 |1d6+1d4 |Similar to spear                                         |
-| Warhammer             |   1d12 |2d6 |Heavy concentrated impact                                |
-| Greatclub             |   1d12 | 2d6|Massive blunt trauma                                     |
-| Light Crossbow        |    1d10 |1d6+1d4 |High penetration                                         |
-| Glaive                |   1d12 |2d6 |Heavy blade + leverage                                   |
-| Great Axe             |   2d8 |2d6+1d4 |Maximum cutting trauma                                   |
-| Greatsword            |   1d12 |2d6 |Less concentrated than axe but huge cuts                 |
-| Halberd               |   1d12 | 2d6|Similar to poleaxe                                       |
-| Maul                  |   2d8 | 2d4|Maximum blunt trauma                                     |
-| Pike                  |    1d10 |1d6+1d4 |Deep penetration, but less mass                          |
-| Heavy Crossbow        |   1d12 |2d6 |Very high penetration                                    |
-| Longbow               |    1d10 |1d6+1d4 |Strong penetration, lower mass than crossbow             |
-
-**If your Prof Bonus is 5 or higher, and you got profession with your weapon, you can choose to go for Save or Risky Damage, before you always go risky!**
-
 ## Special Weapons
 ### Shield
 
@@ -173,8 +128,8 @@ A shield does not deal any damage on Attack! Therefore your Target needs to do a
 | Schild           | Typ     | Init | Parry DC | Parry | Block | Stance Damage |
 | ---------------- | ------- | ---: | -------: | ----: | ----: | ------------: |
 | Buckler          | Special |   +1 |       +1 |    +1 |     0 |             0 |
-| Leichter Schild  | Special |    0 |       +2 |    +2 |    +1 |            +1 |
-| Mittlerer Schild | Special |   -1 |       +2 |    +2 |    +2 |            +2 |
+| Schild  | Special |    0 |       +2 |    +2 |    +1 |            +1 |
+| Großschild | Special |   -1 |       +2 |    +2 |    +2 |            +2 |
 | Turmschild       | Special |   -3 |       +3 |    +1 |    +3 |            +2 |
 
 
