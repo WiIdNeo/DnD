@@ -20,7 +20,7 @@ If your weapon is really heavy it is likely to slow you down. To simulate that y
 
 ## Overview
 
-| Waffe               | Wield  | Init | Parry DC | Parry | Block | Stance Dmg |
+| Weapon               | Wield  | Init | Parry DC | Parry | Block | Stance Dmg |
 | ------------------- | ------ | ---: | -------: | ----: | ----: | ---------: | 
 | Keule               | single |   -1 |       -1 |    -1 |     0 |         +1 | 
 | Dolch               | single |   +3 |       +1 |    -2 |    -2 |         -2 | 
@@ -64,7 +64,7 @@ If your weapon is really heavy it is likely to slow you down. To simulate that y
 | Schwere Armbrust    | double |   -3 |       -3 |    -3 |    -3 |         -3 |
 | Langbogen           | double |    0 |       -3 |    -3 |    -3 |         -3 |
 
-| Waffe               | Angriff   | Radiant |  Länge | Speed               |
+| Waffe               | Angriff   | Radiant |  Length | Speed               |
 | ------------------- | --------- | ------: | -----: | ------------------- |
 | Keule               | Hieb      |    100° |  80 cm | normal              |
 | Dolch               | Stich     |     10° |  20 cm | fast                |

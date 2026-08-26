@@ -16,8 +16,7 @@ To get you a basic idea of what happens in this home-brew:
 
 - I will reduce abstrtaction massivly.
   - Fights:
-    - Remove AC and other abstract stats
-    - Implement an Energy-Action-System
+    - Remove or rework AC and other abstract stats
     - Implement a more detailed called shot system
     - Remove Spells in advantage of more complex and adaptive Spell using.
       - You still will find a very low amount of spells to show how it could work, but they are no boundaries.

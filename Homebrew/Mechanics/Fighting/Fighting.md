@@ -1,12 +1,4 @@
-# Combat System for DnD Homebrew — Token (Marken) Variant
-
-> **Legacy note:** This is an independent variant of the original stamina-based
-> combat draft. All difficulty math (distance DC, Success-DC formula, Defensive
-> Action Mods, damage formula, AC formula, attack zones, opportunity attacks,
-> disarming) is carried over unchanged. The only thing replaced is the resource
-> layer: **Stamina → Tokens (Marken)**. Keep both documents side by side; this
-> one is meant to be dropped in as `Fighting_TokenVariant.md` next to the
-> original `Fighting.md`.
+# Combat System for DnD Homebrew
 
 Many aspects of DnD's standard rules feel too light, too generic, or
 tactically flat. The goal of this system is to make combat more realistic and
@@ -59,8 +51,7 @@ Faster movement → higher initiative, better parries. Arrow shots are easier
 to dodge. Governing stat for finesse weapons and ranged combat.
 
 ### CON
-HP matters less, but CON stays relevant: increases resistance to
-impacts/falls. 
+Increases HP, and decreases stamina drain in longer fights. 
 
 **Governing stat per weapon:** STR for most melee weapons, DEX for finesse
 weapons (dagger, rapier) and ranged combat.

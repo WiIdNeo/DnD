@@ -496,4 +496,3 @@ Temperature is an indirect debuff applied.
 |>30°C | exhausting in Normal clothes
 |>40°C | exhausting no matter what clothes
 
-For mechanical Effects check on character care script as soon as I wrote it
