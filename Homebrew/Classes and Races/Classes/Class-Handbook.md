@@ -19,6 +19,9 @@ Your Character gains 1 Traitpoint per Level, so you start at 1 Point. You can sp
 ##  Alchemist
 
 ### State
+
+> Is this colidading with Elemtalists?
+
 *Matter never stand still. The constant moving makes it only seam still and solid. But change the speed a little it all breaks apart: Stone becomes liquid and air hard as a rock. As alchemist, you can control that movement to mave impact on world around you.*
 
 ```mermaid
@@ -73,7 +76,6 @@ A -->|INT > 11|1
 
 ## Bard
 
-### Bard · Awakening Stories
 *Words were the first magic, long before anyone called it that. A story told with total conviction — every detail true, every stake real — does not merely describe the world; for a moment, it becomes it. You are a teller of tales that refuse to stay tales, weaving belief itself into a blade.*
 
 ```mermaid
@@ -97,35 +99,6 @@ A --> |CHA > 12|1
 2 --> 6
 2 --> 7
 3 --> 8
-```
-
-### Bard · Battle Music
-*Sound moves the body before the mind agrees to be moved. A lullaby slows a racing heart; a war-drum quickens a fearful one. You have learned to play not for the ear, but for the blood — songs that steady an ally's nerve or curdle an enemy's courage, rhythms that numb pain or summon it. Where others carry weapons, you carry a melody, and on the right battlefield, that is worse.*
-
-```mermaid
-flowchart TD
-
-A[Base Character]
-
-1["Play a rhythm for a purpose: calm listeners (easing concentration throws) or rouse them (dulling pain via adrenaline)."]
-2["Play music that actively hurts everyone who hears it."]
-3["TDB"]
-4["You can merge songs and compose your own for bespoke effects, rather than picking from fixed categories."]
-5["You can target your music precisely — include or exclude specific listeners within its range (e.g., harm enemies without harming allies)."]
-6["You sink so deep into your song it's hard to break your focus — double advantage on concentration throws while playing."]
-7["Weave two effects into one song at once (e.g., a buff for allies and a debuff for enemies, simultaneously)."]
-8["Your music lingers: it continues to affect those who already heard it for a short time after you stop playing, and you can recall it to those who know it good, by simple using a bonus action and only playing really beginning of the song."]
-
-A --> |INT > 9| 1  --- 4 
-A --> |INT > 11| 2 --- 4
-1 --- 5
-2 --- 5
-1 --- 6
-2 --- 6
-1 --- 7
-2 --- 7
-1 --- 8
-2 --- 8
 ```
 
 ---
@@ -513,6 +486,9 @@ A --> |CHA > 13|1
 ```
 
 ### Mirage · Fata Morgana
+
+> May cleanse from INT or WIS requirements
+
 *The world lies to itself all the time — a mirage on the horizon, a trick of heat and light that fools even careful eyes. You have learned to author those lies on purpose, bending light until the ground cracks that was never cracked, until a wall stands that was never built. You cannot make a bird fly or a beast attack; you can only make the world around them look different than it is — which, against the right mind, is more than enough.*
 
 ```mermaid
