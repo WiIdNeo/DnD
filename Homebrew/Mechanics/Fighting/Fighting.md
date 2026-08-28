@@ -16,7 +16,7 @@ theoretical concept, not yet playtested. Raise an issue if you spot a problem!
 
 ---
 
-## 1. Core Mechanic: Ranged vs. Melee
+## 1. Core Mechanic: Range
 
 | Distance | DC |
 | ---------: | --------------: |
@@ -242,7 +242,7 @@ $$\text{Damage} = \max\left(1,\ 1d6 + \text{Prof-Mod} + \text{Stat-Mod}\right)$$
 
 
 ### Rounding Rule
-Standard 0.5 → round up, but reduce the base value by 0.0.7 first (so x.5
+Standard 0.5 → round up, but reduce the base value by 0.07 first (so x.5
 averages effectively round down, e.g. 1d6 average 3.5 → 3.43 → 3).
 
 ---
@@ -275,31 +275,7 @@ shots so fights don't become an "eye-shot simulator."
 
 ---
 
-## 11. Worked Example: Opposed Roll with Token Bidding
-
-**Setup:** A (Prof +4, STR-Mod +2, sword) attacks B (Prof +3, DEX-Mod +1).
-B chooses to Parry. Weapon Mod for B's parrying weapon: +1. Same
-initiative this round → Speed Bonus is +0 for both. Round 3, both have max
-8 tokens available.
-
-- Both secretly bid tokens: A bids 3, B bids 5. Reveal.
-- **Attack Roll** = 1d20 + 4 (Prof) + 2 (STR-Mod) + 0 (Speed) + 3 (Tokens)
-  → rolls a 11 → total **20**
-- **Defense Roll** = 1d20 + 3 (Prof) + (1 − 2) (Parry Stance-Mod) + 1
-  (DEX-Mod) + 0 (Speed) + 5 (Tokens) → rolls a 14 → total **22**
-- All 3 and 5 tokens are spent regardless of outcome.
-- B's 22 beats A's 20 → **B wins the Parry**: 0 damage, plus a guaranteed
-  free counterattack against A (damage reduced by A's Prof-Mod).
-
-If B had bid fewer tokens or rolled lower, losing the opposed roll means B
-takes full damage *and* A gets an additional guaranteed counter-hit
-(Section 7.3) — no proportional bleed-through math needed; the outcome is
-always a clean win/lose per stance (Sections 7.1–7.3).
-
----
-
-
-## 12. Buffs
+## 11. Buffs
 
 Most buffs are covered in the separate `Buffs.md`.
 
@@ -314,7 +290,7 @@ die, or disadvantage on a saving throw.
 
 ---
 
-## 13. Dying
+## 12. Dying
 
 Reducing a creature's HP to 0 doesn't kill it immediately — it goes
 unconscious. Wound severity then determines whether it starts dying and
@@ -323,7 +299,7 @@ attacking an unconscious target allows an undefended finishing blow.
 
 ---
 
-## 14. Opportunity Attacks
+## 13. Opportunity Attacks
 
 Handled as usual, but reactable unless the DM rules otherwise.
 
@@ -342,7 +318,7 @@ Leaving melee range grants a leaving attack:
 
 ---
 
-## 15. Disarming
+## 14. Disarming
 
 **How to disarm:** either the foe critically fails (nat1) their
 parry/block and drops the weapon, or you declare a disarm attempt — on a

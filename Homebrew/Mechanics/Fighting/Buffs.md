@@ -2,7 +2,7 @@
 
 | Condition |Effect |
 | ------ | -- |
-| **Blinded** | The creature cannot see. It automatically fails checks that require sight. Its attacks and defensive actions (except Blocking) have disadvantage.   |
+| **Blinded** | The creature cannot see. It automatically fails checks that require sight. Its attacks and defensive actions have disadvantage.   |
 | **Charmed**       | The creature cannot attack the source of the charm, and the source has advantage on social interactions with it. This condition ends if the source or their allies cause harm to the target.     |
 | **Stunned**       | The creature is incapacitated, cannot move, and can only speak haltingly. It automatically fails Strength and Dexterity saving throws. No defensive actions can be used in combat. **DM: Lying on the ground?**    |
 | **Incapacitated** | The creature cannot take actions or reactions.     **Exhaustion**    | See the Base Mechanics Sheet. 

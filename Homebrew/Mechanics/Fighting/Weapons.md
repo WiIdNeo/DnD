@@ -130,8 +130,9 @@ A shield does not deal any damage on Attack! Therefore your Target needs to do a
 | Buckler          | Special |   +1 |       +1 |    +1 |     0 |             0 |
 | Schild  | Special |    0 |       +2 |    +2 |    +1 |            +1 |
 | Großschild | Special |   -1 |       +2 |    +2 |    +2 |            +2 |
-| Turmschild       | Special |   -3 |       +3 |    +1 |    +3 |            +2 |
+| Turmschild¹       | Special |   -3 |       +3 |    +1 |    +3 |            +2 |
 
+¹: If blinded your blocking has no disadvantage.
 
 ### Natural Weapons
 

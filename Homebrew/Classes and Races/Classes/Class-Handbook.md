@@ -105,7 +105,7 @@ A --> |CHA > 12|1
 
 ## Druid
 
-*Every Druid path below is, at its heart, a conversation — with beast, root, blood, or spirit. None of it is domination; all of it is persuasion. Nothing in nature knowingly harms itself, and a Druid who forgets that distinction stops being a Druid at all.*
+*Every Druid path below is, at its heart, a conversation — with beast, root, life-energy, or spirit. None of it is domination; all of it is persuasion. Nothing in nature knowingly harms itself, and a Druid who forgets that distinction stops being a Druid at all.*
 
 ### Druid · Animals
 *You did not tame the wild — you learned its language, and it decided to trust you. Every growl, chirp, and silence carries meaning to those patient enough to listen, and you have listened long enough to answer back. A beast that follows your word is not obeying a master; it is honoring an understanding, one creature to another, that happens to run deeper than most humans ever bother to build.*
