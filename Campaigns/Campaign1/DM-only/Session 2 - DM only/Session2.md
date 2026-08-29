@@ -1,6 +1,14 @@
 # 5 Ziegen
 
-- Wofür ist das Evermoor bekannt, was könnte dort passieren?
+|Ziege|Event|
+|-|-|
+1| Von allein zurückgekommen
+2| Im Moor versunken
+3| Eine ist in einem Riesigen Spinnennetz hängengeblieben
+4| Wird von einem Irrlicht weggelockt
+5| Ist Tod und ist angefressen von einem riesigen, tödlichen Wesen.
+
+*(Bezieht sich auf eine noch offene Quest der letzten Session, spielt vor der Abreise aus Calling Horns.)*
 
 # Session 2: Die Straße nach Triboar
 
@@ -24,7 +32,8 @@ Waren (und ein paar zahlende Reisende) nach Triboar bringen will.
 - Bezahlung: pauschal + Anteil am Verkaufserlös in Triboar, wahlweise
   freie Kost/Unterkunft während der Reise.
 - Persönlichkeitshaken: Er zählt penibel — Waren, Personen, alles. Das
-  wird am Ende der Session wichtig (siehe Abschnitt 5).
+  wird am Ende der Session wichtig (siehe Abschnitt 5), und noch einmal
+  auf dem Weg nach Neverwinter (siehe unten).
 
 ---
 
@@ -53,9 +62,26 @@ Vorschlag: **Überfall durch eine kleine Banditengruppe** (3–4 Banditen,
 evtl. mit einem Späher/Anführer etwas stärker), die es auf Dorans
 Fracht abgesehen haben.
 
-### Tag 3 — ???
+### Tag 3 — Die Wandermusikanten
 Landschaft verändert sich leicht Richtung Triboar (mehr Reisende,
-befestigtere Straße). 
+befestigtere Straße). Am Nachmittag kreuzt die Karawane eine kleine
+Gruppe reisender Musikanten, die ebenfalls nach Triboar unterwegs sind
+— unter ihnen **Merren Tallow** (noch namenlos, nur als "der mit der
+Laute" wahrgenommen). Sie bitten um eine gemeinsame Rast und spielen am
+Feuer ein paar Lieder für Kost und ein paar Münzen.
+
+Eines der Lieder ist dieselbe melancholische Melodie, die Alderic tags
+zuvor unbewusst gesummt hat — niemand bemerkt die Übereinstimmung, es
+sei denn, die Spielercharaktere achten explizit darauf (Wahrnehmung
+oder Musikwissen, SG 15). Die Musikanten wirken harmlos, freundlich,
+etwas müde von der Straße — keine Bedrohung, nur ein leiser roter
+Faden. Sie gehören, ohne dass die Gruppe das wissen kann, zu Lysandra
+Mondschleiers Gefolge: reine Begleitmusiker, deren Aufgabe es ist, die
+Melodie unauffällig unter den Leuten zu verbreiten.
+
+Optional: Einer der Musikanten trägt eine kleine, dunkle Onyxperle als
+Schmuckstück — ein erstes, unauffälliges visuelles Echo auf Lysandra,
+falls du früh Hinweise streuen willst.
 
 ---
 
@@ -76,45 +102,6 @@ Verschiebung in der Stimmung.
 
 ---
 
-## 5. Der Session-Schluss: Der zusätzliche Wächter
-
-Beim Abladen und Abrechnen zählt Doran akribisch durch — Waren, Fracht,
-**und Personen**, aus Gewohnheit.
-
-Die Zahl stimmt nicht.
-
-Ein Mann steht bei der Karawane, in passender Ausrüstung, mit
-Reisespuren, scheinbar seit Tagen dabei. Er kennt seinen eigenen Namen,
-seine Herkunft, seine Aufgabe. Niemand in der Karawane 
-erinnert sich an ihn speziell, nur, dass er am Anfang dabei war und es jetzt noch ist.
-
-Wichtig für die Inszenierung: Er ist nicht unsichtbar oder ein Geist —
-er ist einfach sozial bedeutungslos geworden. Menschen übersehen ihn
-eher, als dass sie ihn fürchten. Das macht es gruseliger als ein
-klassisches Monster.
-
-**Enden hier.** Kein Kampf, keine Auflösung — nur die verstörende
-Erkenntnis, mit der die nächste Session beginnt. Doran ist sichtlich
-beunruhigt ("Das passt mir gar nicht"), aber zu geschäftstüchtig, um
-lange dabei zu verweilen — er bittet die Gruppe eventuell direkt, sich
-darum zu kümmern, weil es ihm unheimlich ist und seinem Ruf schaden
-könnte.
-
----
-
-## Zusammenfassung der Fäden, die diese Session sät
-
-- Die Melodie (Alderic, dann Merren Tallow am Tor)
-- Allgemeine Resignation/Traurigkeit in Triboar
-- Der vergessene Wächter als konkreter erster Haken für Session 3
-- Yevas stiller Blick auf den Werwolf (kann später wieder aufgegriffen
-  werden, muss aber nicht)
-- Grethels Abschiedssatz ("war früher lauter") — zahlt später auf das
-  "Stille"-Motiv des Kults ein
-
-Nichts davon muss erklärt werden. Die Spieler sollen am Ende der
-Session ein leises Störgefühl haben, aber keine Ahnung, dass es
-zusammenhängt.
 
 # Triboar — Quests, Encounter, Gründe zu bleiben
 
@@ -123,30 +110,28 @@ zusammenhängt.
 Statt "die Story verlangt es" lieber mehrere handfeste Gründe parallel
 anbieten, damit sich das Bleiben organisch anfühlt:
 
-1. **Der vergessene Wächter** ist ein offener Fall, den Doran Pike (oder
-   die Stadtwache) der Gruppe direkt überträgt — bezahlt, offiziell,
-   nachvollziehbar.
-2. **Geld.** Triboar hat ein Schwarzes Brett mit lokalen Aufträgen
+1. **Geld.** Triboar hat ein Schwarzes Brett mit lokalen Aufträgen
    (siehe unten) — solide, unspektakuläre Einnahmequelle nach der
    Flucht.
-3. **Ausrüstung/Versorgung.** Nach Flucht und Reise braucht die Gruppe
+2. **Ausrüstung/Versorgung.** Nach Flucht und Reise braucht die Gruppe
    vermutlich Heiltränke, Reparaturen, vielleicht ein besseres
    Quartier — ein guter Waffenschmied/Alchemist ist ohnehin ein Grund,
    zu bleiben, bis die Bestellung fertig ist.
-4. **Persönlicher Haken für die Verfluchten.** Ein Gerücht über einen
+3. **Persönlicher Haken für die Verfluchten.** Ein Gerücht über einen
    reisenden Gelehrten oder Kräuterkundigen in Triboar, der sich mit
    "ungewöhnlichen Verwandlungen" auskennt — führt zu nichts
-   Endgültigem, aber genug Hoffnung, um zu bleiben und nachzufragen
-   (kann später sogar zu Elira Fen oder der Kultstruktur führen, ohne
-   dass die Gruppe das ahnt).
-5. **Ein Quartier/eine Basis.** Wenn die Gruppe sich in einer
+   Endgültigem, aber genug Hoffnung, um zu bleiben und nachzufragen.
+4. **Ein Quartier/eine Basis.** Wenn die Gruppe sich in einer
    bestimmten Taverne einnistet (Vorschlag: **"Zur Singenden Amsel"**,
    wo auch Merren Tallow auftritt), bekommt sie über die Wirtin
    automatisch neue Gerüchte und Aufträge zugetragen — ein natürlicher
    Nachschub an Haken, ohne dass du improvisieren musst.
-6. **Wetter/Reise.** Optional: Ein Unwetter oder eine gesperrte
-   Straße Richtung Norden zwingt zu ein paar zusätzlichen Tagen — nur
-   einsetzen, falls du das Tempo bewusst bremsen willst.
+
+**Lysandra Mondschleier** ist storytechnisch die Hauptfigur des
+Triboar-Bogens (siehe Tänzerin.md). Merren Tallow und die übrigen
+Musikanten gehören zu ihrem Gefolge — sie sind persönlich unwichtig und
+dienen nur dazu, die Melodie als Ohrwurm unter den Leuten zu
+verbreiten.
 
 ---
 
@@ -155,9 +140,6 @@ anbieten, damit sich das Bleiben organisch anfühlt:
 Für Tempo zwischen den Haupthaken. Jede davon braucht keine
 Vorbereitung des Kult-Plots, kann an einem Abend erledigt werden.
 
-- **Rattenplage im Kornspeicher** — eigentlich simpel, aber die Ratten
-  sind ungewöhnlich zahlreich und aggressiv (Riesenratten,
-  Krankheitsgefahr). Auftraggeber: Kornhändler.
 - **Wolfsangriffe auf Vieh** — ein Bauer außerhalb der Stadt verliert
   Schafe. Tatsächliche Ursache: ein hungriges, verletztes
   Wolfsrudel, kein Kult-Bezug. Guter Moment für den Werwolf-Charakter,
@@ -176,10 +158,176 @@ Vorbereitung des Kult-Plots, kann an einem Abend erledigt werden.
 - **Ein Handwerker braucht Materialien** aus einer nahen, leicht
   gefährlichen Ruine/Höhle — Dungeon-Crawl im Kleinformat, 1–2 Räume,
   ein Monster (z. B. Riesenspinnen oder ein Ghul).
+- **Der Brunnen schmeckt komisch** — Anwohner eines Stadtviertels klagen über bitteres Wasser. Ursache: ein toter Waschbär im Brunnenschacht. Banale Lösung, aber gute Gelegenheit für Stadtkenntnis-Rollenspiel und Klatsch von den Nachbarn, die sich beim Wasserholen treffen.
+- **Ein Preisschießen/Turnier** zum örtlichen Erntefest — kein Kampf gegen Feinde, sondern Wettbewerb (Bogenschießen, Armdrücken, Trinkwettbewerb). Reine Charakterbühne, evtl. NPC-Rivalen, kleine Belohnung (Ruf in der Stadt statt Gold).
+- **Verlorene Erbschaft** — ein Anwalt sucht Zeugen/Erben für einen kürzlich verstorbenen Einwohner ohne bekannte Familie. Die Gruppe wird gebeten, in dessen Haus nach Hinweisen auf Verwandte zu suchen. Leichtes Erkundungs-Encounter, evtl. ein kurioses Detail im Haus (ein verstecktes Tagebuch, ein seltsames Amulett), das später als Haken dienen kann, ohne dass es sofort etwas bedeuten muss.
+- **Streit zweier Handwerker-Gilden** um ein Grundstück — die Gruppe wird als neutrale Vermittler gebeten, beide Seiten anzuhören. Reines Verhandlungs-/Diplomatie-Encounter, gut für Charaktere mit hohem Charisma, die sonst wenig zu tun bekommen.
+- **Ein streunender Bär/Wildschwein** ist in die Außenbezirke gewandert und hat einen Stall demoliert. Bauer will es nicht töten lassen (heiliges Tier der Gegend, Aberglaube), nur vertreiben — Encounter mit moralischer Nuance statt reinem Kill.
 
 ---
 
 ## Die Haupt-Fadenkette
+
+
+### 1. Merren Tallows Lied
+
+**Ziel:** Herausfinden, wer die Frau aus dem Lied ist.
+
+- Gespräch mit Merren in der "Singenden Amsel" — er ist offen,
+  verwirrt über sein eigenes Lied, hat Angst, dass er "verrückt wird".
+- Hinweis auf einen Namen oder Ort in einer Liedzeile — führt zu einer
+  echten Person, die als vermisst gemeldet wurde (Familie/Nachbarn
+  erinnern sich kaum noch an sie).
+- Encounter-Option: Ein Besuch am (fast leeren) Grab oder der
+  Wohnung der Frau — leichte, unheimliche Erkundungsszene, evtl. ein
+  Shadow-Wesen als kleiner Zwischenfall (siehe "Schattenriss" unten),
+  falls du Kampf willst.
+
+### 2. Die Schwarze Prozession
+
+**Ziel:** Beobachten oder stören eines nächtlichen Rituals.
+
+- Ausgelöst z. B. durch einen anderen Nacht-Auftrag (Bounty-Job bei
+  Nacht) oder gezielte Nachtwache/Beschattung, wenn die Gruppe
+  Verdacht geschöpft hat.
+- Mehrere Bürger verlassen einzeln die Stadt, treffen sich außerhalb.
+  Stealth-Encounter: Entdeckung möglich, aber die Teilnehmer sind
+  unbewaffnete Zivilisten — Konfrontation sollte moralisch unangenehm
+  sein, kein reiner Kampf.
+- Wenn die Gruppe eingreift: Die Teilnehmer sind verwirrt, teils
+  verängstigt, wissen selbst kaum, warum sie das tun. Kein
+  Oberschurke anwesend.
+
+### 3. Das Haus der stillen Familie
+
+**Ziel:** Ein Besuchsauftrag (von besorgten Nachbarn) bei einer
+auffällig emotionslosen Familie.
+
+- Reines Rollenspiel-Encounter, kein Kampf. Die Familie ist
+  freundlich, kooperativ, aber unheimlich flach in ihren Reaktionen.
+- Gute Gelegenheit für die Gruppe, eine erste explizite Wahl zu
+  treffen: eingreifen, weiterziehen, oder die Familie in Ruhe lassen,
+  weil sie selbst sagt, es gehe ihr "besser so".
+- *(Offener Gedanke: Drahtzieherin könnte Lysandra selbst sein, oder
+  eine zweite, ähnliche Figur — weniger betörend/bezaubernd als
+  Lysandra, dafür eher "verzaubernd" im Sinne echter Kompulsion statt
+  sozialer Manipulation. Noch nicht ausgearbeitet.)*
+
+---
+
+## Eigenständige Zwischen-Encounter
+
+Gut, um Tempo zu halten, wenn eine Session mehr Kampf braucht:
+
+- **Taschendieb-Verfolgungsjagd** durch die Gassen — Bewegungs-/
+  Geschicklichkeits-Encounter, kein Kampf nötig.
+
+---
+
+
+
+# Weg nach Neverwinter (9 Tage, Triboar bis Vorfeld Neverwinter)
+
+Route: Triboar → Sword Mountains → Phandalin → Cragmaw-Verlies
+(optional) → Neverwinter Wood → Neverwinter. Ankunft in Neverwinter und
+alles, was dort passiert, folgt separat und liegt in deiner Hand.
+
+Die Karawane von Doran Pike reist weiter — dieselben NPCs (Bryn, Yeva,
+Alderic) sind also grundsätzlich noch dabei, sofern du das willst.
+
+### Tag 1 — Aufbruch, Ausläufer der Sword Mountains
+Ruhiger Reisetag, erste Hügel und Geröllfelder. Gute Gelegenheit für
+eine generische Begegnung (siehe NPC-Tabelle am Ende des Dokuments) —
+z. B. ein einzelner Händler oder eine Pilgerin, die von einem Schrein
+weiter westlich erzählt.
+
+### Tag 2 — Der Passweg
+Der Weg führt durch einen schmaleren Gebirgspass. Vorschlag:
+Geröllabgang (Geschicklichkeitsrettungswurf oder Unternehmung, um
+Fracht/Tiere zu schützen) oder eine kleine Gruppe Orks/Wegelagerer, die
+die Passhöhe kontrollieren und Wegzoll verlangen — verhandelbar oder
+zu erkämpfen.
+
+### Tag 3 — Abstieg Richtung Phandalin
+Landschaft wird grüner, erste Wälder am Horizont. Ein zerlumpter
+Trapper am Wegesrand warnt vor "Unruhe in den Minen bei Phandalin" —
+reines Gerücht, kein Encounter nötig, nur Stimmung und Vorausdeutung.
+
+### Tag 4 — Letzte Etappe nach Phandalin
+Kurzer, unspektakulärer Tag. Gute Gelegenheit, offene Fäden aus
+Triboar nachklingen zu lassen (Gespräche, Rückblicke). Gegen Abend
+Sichtung von Rauch/Dächern von Phandalin.
+
+### Tag 5 — Ankunft Phandalin
+Kurzer Zwischenstopp: Nachschub, evtl. Verkauf von Waren durch Doran.
+Details überlässt du dir selbst — reicht als Ruhetag mit
+Einkaufsmöglichkeit und ein, zwei Gerüchten vom Marktplatz.
+
+### Tag 6 — Abreise aus Phandalin
+Die Karawane bricht wieder auf, hinein Richtung Neverwinter Wood. Am
+Abend, beim Aufschlagen des Lagers, zählt Doran wie gewohnt akribisch
+durch — und die Zahl stimmt nicht. **Hier beginnt "Der vergessene
+Reisende"** (Details siehe Abschnitt weiter unten): Ein Mann steht bei
+der Karawane, den niemand kennt, der aber überzeugt ist, seit Tagen
+dabei zu sein.
+
+### Nacht von Tag 6 auf Tag 7 — Cragmaw-Verlies (optionaler Mini-Dungeon)
+Der Weg führt nah an einer Höhle vorbei, verborgen hinter einem kleinen
+Wasserfall — bekannt als Unterschlupf einer Goblin-Bande. Eigenständig
+vom Hauptplot, reiner Kampf-/Encounter-Puffer:
+
+- **Eingang.** Höhle hinter dem Wasserfall, 2 Goblin-Wachen, leicht zu
+  entdecken (Wahrnehmung SG 12).
+- **Raum 2 — Lager/Vorratsraum.** 2–3 weitere Goblins, Kisten mit
+  gestohlenen Waren (evtl. Hinweise auf frühere Überfälle auf
+  Karawanen).
+- **Raum 3 — Verlies.** Ein Käfig mit einem Gefangenen (z. B. ein
+  vermisster Bote oder Reisender) — gutes moralisches Encounter
+  (befreien, verhören, zurücklassen).
+- **Raum 4 — Anführerhöhle.** Ein verstärkter Goblin oder Hobgoblin als
+  Boss, mit abgerichtetem Wolf/Worg, etwas Beute (Münzen, optional eine
+  kleine magische Kleinigkeit).
+
+### Tag 7 — Weiter Richtung Neverwinter Wood
+Falls Cragmaw genutzt wurde: Erholung, Nachwirkungen (Verletzte
+versorgen, der befreite Gefangene reagiert). Falls nicht: normaler
+Reisetag. Der vergessene Reisende wird zunehmend unruhig, je mehr die
+Gruppe nachfragt.
+
+### Tag 8 — Neverwinter Wood
+Der Wald wird dichter, das Licht gedämpfter. **Hier passt "Der erste
+Schattenriss"** sehr gut hinein (Details siehe unten) — ein
+Waldstück wirkt falsch, ein Tier mit falschem Schatten als erste
+eindeutig übernatürliche Begegnung.
+
+### Tag 9 — Letzte Etappe vor Neverwinter
+Der Wald lichtet sich, erste Anzeichen der Stadt (Rauch von Mount
+Hotenow, mehr Reiseverkehr). Guter Moment für einen ruhigen
+Abschluss-Beat vor der Ankunft, die du selbst gestaltest.
+
+---
+
+## Der Karren mit dem gebrochenen Rad
+
+- **Der Karren mit dem gebrochenen Rad** — einem Händler kurz vor Triboar ist ein Rad gebrochen.
+
+## Der zusätzliche Begleiter
+
+Beim Abladen und Abrechnen zählt der Führer akribisch durch — Waren, Fracht,
+**und Personen**, aus Gewohnheit.
+
+Die Zahl stimmt nicht.
+
+Ein Mann steht bei der Karawane, in passender Ausrüstung, mit
+Reisespuren, scheinbar seit Tagen dabei. Er kennt seinen eigenen Namen,
+seine Herkunft, seine Aufgabe. Niemand in der Karawane 
+erinnert sich an ihn.
+
+Wichtig für die Inszenierung: Er ist nicht unsichtbar oder ein Geist —
+er ist einfach sozial bedeutungslos geworden. Menschen übersehen ihn
+eher, als dass sie ihn fürchten. Das macht es gruseliger als ein
+klassisches Monster.
+
 ### 1. Der vergessene Reisende
 
 **Ziel:** Herausfinden, wer der Mann ist und warum sich niemand an ihn
@@ -195,51 +343,11 @@ Ablauf-Vorschlag:
   aber emotional intensiv.
 - **Auflösung (für dich als SL):** Er war real, ein einfacher Wächter,
   der zufällig an einem der stillen Rituale (Punkt "Schwarze
-  Prozession", siehe unten) vorbeikam und unabsichtlich einen Teil des
-  sozialen "Vergessens" abbekam, das eigentlich für jemand anderen
-  bestimmt war. Muss den Spielern nicht sofort erklärt werden.
+  Prozession") vorbeikam und unabsichtlich einen Teil des sozialen
+  "Vergessens" abbekam, das eigentlich für jemand anderen bestimmt war.
+  Muss den Spielern nicht sofort erklärt werden.
 
-### 2. Merren Tallows Lied
-
-**Ziel:** Herausfinden, wer die Frau aus dem Lied ist.
-
-- Gespräch mit Merren in der "Singenden Amsel" — er ist offen,
-  verwirrt über sein eigenes Lied, hat Angst, dass er "verrückt wird".
-- Hinweis auf einen Namen oder Ort in einer Liedzeile — führt zu einer
-  echten Person, die als vermisst gemeldet wurde (Familie/Nachbarn
-  erinnern sich kaum noch an sie).
-- Encounter-Option: Ein Besuch am (fast leeren) Grab oder der
-  Wohnung der Frau — leichte, unheimliche Erkundungsszene, evtl. ein
-  Shadow-Wesen als kleiner Zwischenfall (siehe "Schattenriss" unten),
-  falls du Kampf willst.
-
-### 3. Die Schwarze Prozession
-
-**Ziel:** Beobachten oder stören eines nächtlichen Rituals.
-
-- Ausgelöst z. B. durch einen anderen Nacht-Auftrag (Bounty-Job bei
-  Nacht) oder gezielte Nachtwache/Beschattung, wenn die Gruppe
-  Verdacht geschöpft hat.
-- Mehrere Bürger verlassen einzeln die Stadt, treffen sich außerhalb.
-  Stealth-Encounter: Entdeckung möglich, aber die Teilnehmer sind
-  unbewaffnete Zivilisten — Konfrontation sollte moralisch unangenehm
-  sein, kein reiner Kampf.
-- Wenn die Gruppe eingreift: Die Teilnehmer sind verwirrt, teils
-  verängstigt, wissen selbst kaum, warum sie das tun. Kein
-  Oberschurke anwesend.
-
-### 4. Das Haus der stillen Familie
-
-**Ziel:** Ein Besuchsauftrag (von besorgten Nachbarn) bei einer
-auffällig emotionslosen Familie.
-
-- Reines Rollenspiel-Encounter, kein Kampf. Die Familie ist
-  freundlich, kooperativ, aber unheimlich flach in ihren Reaktionen.
-- Gute Gelegenheit für die Gruppe, eine erste explizite Wahl zu
-  treffen: eingreifen, weiterziehen, oder die Familie in Ruhe lassen,
-  weil sie selbst sagt, es gehe ihr "besser so".
-
-### 5. Der erste Schattenriss
+### 4. Der erste Schattenriss
 
 **Ziel:** Erste unmissverständlich übernatürliche Begegnung.
 
@@ -254,29 +362,25 @@ auffällig emotionslosen Familie.
 
 ---
 
-## Eigenständige Zwischen-Encounter (jederzeit einsetzbar)
+# Generische NPCs (Zufallstabelle)
 
-Gut, um Tempo zu halten, wenn eine Session mehr Kampf braucht:
+Zum dynamischen Einsatz als Questgeber oder für zufällige Begegnungen
+unterwegs.
 
-- **Taschendieb-Verfolgungsjagd** durch die Gassen — Bewegungs-/
-  Geschicklichkeits-Encounter, kein Kampf nötig.
-- **Ein Ritual-"Nachwirkung"**: Eine Person, der emotionale Bindung
-  entfernt wurde, reagiert unerwartet aggressiv oder hilflos in der
-  Öffentlichkeit — kurzer, tragischer Zwischenfall, der die Gruppe
-  zwingt, sich zu entscheiden, wie sie reagiert (Gewalt, Deeskalation,
-  Heilzauber).
-- **Räuber-Überfall auf dem Marktplatz** bei Tageslicht — simpler
-  Kampf zur Auflockerung.
-- **Nächtliche Verfolgung durch den Schweigenden Mann** — er taucht
-  auf, beobachtet die Gruppe, verschwindet wieder, wenn sie ihn
-  ansprechen. Kein Kampf, reiner Grusel-Moment.
-
----
-
-## Kurzfazit für den Tisch
-
-Wenn dir eine Session ausgeht, bevor der Haupt-Faden weitergeht: eine
-Brett-Quest einstreuen. Wenn die Gruppe zu schnell durch die
-Haupt-Fäden rast: die Schwarze Prozession und den Schattenriss erst
-später zeigen — es gibt genug Filler, um die Eskalation künstlich zu
-strecken, ohne dass es sich gestreckt anfühlt.
+| # | Name | Beruf | Gemüt |
+|---|---|---|---|
+| 1 | Joran Fassbinder | Böttcher | Mürrisch, aber ehrlich |
+| 2 | Íde Thistlewood | Kräuterfrau | Warmherzig, geschwätzig |
+| 3 | Callum Braun | Straßenwache | Pflichtbewusst, humorlos |
+| 4 | Senna Flint | Wahrsagerin | Geheimnisvoll, spöttisch |
+| 5 | Bram Halstead | Schmied | Stur, loyal |
+| 6 | Wren Aldergate | Fährmann | Ängstlich, abergläubisch |
+| 7 | Petra Voss | Wirtin | Resolut, gastfreundlich |
+| 8 | Old Tobin | Bettler | Weise, exzentrisch |
+| 9 | Marla Quinn | Jägerin | Wortkarg, misstrauisch |
+| 10 | Denner Cobb | Fahrender Händler | Gierig, aber charmant |
+| 11 | Ysolde Vane | Heilerin | Geduldig, fromm |
+| 12 | Grask Dunmore | Söldner | Zynisch, im Kern tapfer |
+| 13 | Tamsin Reed | Bäuerin | Freundlich, erschöpft |
+| 14 | Aldous Pemberton | Gelehrter | Zerstreut, neugierig |
+| 15 | Corwin Aldric | Stallmeister | Grob, aber tierlieb |
