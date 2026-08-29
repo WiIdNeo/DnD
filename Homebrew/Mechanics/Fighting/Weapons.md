@@ -20,105 +20,38 @@ If your weapon is really heavy it is likely to slow you down. To simulate that y
 
 ## Overview
 
-| Weapon               | Wield  | Init | Parry DC | Parry | Block | Stance Dmg |
-| ------------------- | ------ | ---: | -------: | ----: | ----: | ---------: | 
-| Keule               | single |   -1 |       -1 |    -1 |     0 |         +1 | 
-| Dolch               | single |   +3 |       +1 |    -2 |    -2 |         -2 | 
-| Handaxt             | single |   +1 |       -1 |    -1 |     0 |         +1 | 
-| Wurfspeer           | single |   +1 |       +2 |     0 |    -1 |          0 | 
-| Leichter Hammer     | single |    0 |       -2 |    -1 |    +1 |         +1 |
-| Streitkolben        | single |   -1 |       -2 |    -2 |    +2 |         +2 |
-| Sichel              | single |   +2 |       -2 |    -2 |    -2 |         -1 |
-| Wurfpfeil           | single |   +3 |       -3 |    -3 |    -3 |         -3 |
-| Schleuder           | single |   +3 |       -3 |    -3 |    -3 |         -3 |
-| Dreschflegel        | single |   -1 |       -3 |    -3 |    -2 |         +2 |
-| Morgenstern         | single |   -2 |       -3 |    -2 |     0 |         +3 |
-| Rapier              | single |   +2 |       +3 |    +3 |    -2 |         -2 |
-| Krummsäbel          | single |   +2 |       +1 |    +1 |     0 |          0 |
-| Kurzschwert         | single |   +2 |       +2 |    +1 |     0 |          0 |
-| Kriegshacke         | single |    0 |       -2 |    -1 |     0 |         +2 |
-| Peitsche            | single |   +3 |       -3 |    -3 |    -3 |         -3 |
-| Blasrohr            | single |   +3 |       -3 |    -3 |    -3 |         -3 |
-| Handarmbrust        | single |    0 |       -3 |    -3 |    -3 |         -3 |
-| Netz                | single |    0 |       -3 |    -3 |    -3 |         -3 |
-| Kampfstab           | single |    0 |       +2 |    +2 |    +2 |          0 |
-| Kampfstab           | double |   -1 |       +3 |    +3 |    +3 |         +1 |
-| Speer               | single |   +1 |       +2 |    +1 |     0 |          0 |
-| Speer               | double |    0 |       +3 |    +2 |    +1 |         +1 |
-| Streitaxt           | single |   -1 |       -1 |     0 |    +1 |         +2 |
-| Streitaxt           | double |   -2 |        0 |    +1 |    +2 |         +3 |
-| Langschwert         | single |    0 |        0 |     0 |     0 |          0 |
-| Langschwert         | double |   -1 |       +1 |    +2 |    +2 |         +1 |
-| Dreizack            | single |    0 |       +1 |     0 |     0 |          0 |
-| Dreizack            | double |   -1 |       +2 |    +1 |    +1 |         +1 |
-| Kriegshammer        | single |   -2 |       -1 |     0 |    +2 |         +3 |
-| Kriegshammer        | double |   -3 |        0 |    +1 |    +3 |         +3 |
-| Großer Knüppel      | double |   -2 |       -1 |     0 |    +2 |         +2 |
-| Leichte Armbrust    | double |   -2 |       -3 |    -3 |    -3 |         -3 |
-| Glefe               | double |   -2 |       +2 |    +2 |    +2 |         +2 |
-| Großaxt             | double |   -3 |       -2 |    -1 |    +2 |         +3 |
-| Großschwert         | double |   -2 |       +2 |    +3 |    +3 |         +2 |
-| Hellebarde          | double |   -3 |       +1 |    +2 |    +2 |         +3 |
-| Streithammer (Maul) | double |   -3 |       -2 |     0 |    +3 |         +3 |
-| Pike                | double |   -3 |       +3 |    +2 |    +1 |         +1 |
-| Schwere Armbrust    | double |   -3 |       -3 |    -3 |    -3 |         -3 |
-| Langbogen           | double |    0 |       -3 |    -3 |    -3 |         -3 |
-
-| Waffe               | Angriff   | Radiant |  Length | Speed               |
-| ------------------- | --------- | ------: | -----: | ------------------- |
-| Keule               | Hieb      |    100° |  80 cm | normal              |
-| Dolch               | Stich     |     10° |  20 cm | fast                |
-| Dolch               | Hieb      |     80° |  20 cm | fast                |
-| Handaxt             | Hieb      |    100° |  40 cm | normal              |
-| Wurfspeer           | Wurf      |      5° | 180 cm | normal              |
-| Leichter Hammer     | Hieb      |    100° |  40 cm | normal              |
-| Streitkolben        | Hieb      |    100° |  70 cm | normal              |
-| Sichel              | Hieb      |    110° |  45 cm | fast                |
-| Wurfpfeil           | Wurf      |      3° |  15 cm | fast                |
-| Schleuder           | Projektil |      2° |      – | fast                |
-| Dreschflegel        | Hieb      |    130° |  90 cm | normal              |
-| Morgenstern         | Hieb      |    120° |  80 cm | normal              |
-| Rapier              | Stich     |      8° | 110 cm | fast                |
-| Rapier              | Hieb      |     60° | 110 cm | fast                |
-| Krummsäbel          | Hieb      |    120° |  95 cm | fast                |
-| Kurzschwert         | Stich     |     10° |  70 cm | fast                |
-| Kurzschwert         | Hieb      |    100° |  70 cm | normal              |
-| Kriegshacke         | Hieb      |     95° |  75 cm | normal              |
-| Peitsche            | Schnalzen |     40° | 250 cm | normal                |
-| Blasrohr            | Projektil |      2° | 150 cm | fast                |
-| Handarmbrust        | Bolzen    |      2° |      – | fast                |
-| Netz                | Wurf      |     - | - | langsames Projektil |
-| Kampfstab (1H)      | Stoß      |     10° | 170 cm | normal              |
-| Kampfstab (1H)      | Hieb      |    120° | 170 cm | normal              |
-| Kampfstab (2H)      | Stoß      |     10° | 180 cm | normal              |
-| Kampfstab (2H)      | Hieb      |    140° | 180 cm | normal              |
-| Speer (1H)          | Stoß      |      8° | 230 cm | normal                |
-| Speer (1H)          | Hieb      |     90° | 230 cm | normal              |
-| Speer (2H)          | Stoß      |      8° | 260 cm | normal                |
-| Speer (2H)          | Hieb      |    100° | 260 cm | normal              |
-| Streitaxt (1H)      | Hieb      |    110° |  80 cm | normal              |
-| Streitaxt (2H)      | Hieb      |    120° | 120 cm | normal              |
-| Langschwert (1H)    | Stich     |      8° | 110 cm | normal                |
-| Langschwert (1H)    | Hieb      |    110° | 110 cm | normal              |
-| Langschwert (2H)    | Stich     |      8° | 120 cm | normal                |
-| Langschwert (2H)    | Hieb      |    120° | 120 cm | normal              |
-| Dreizack (1H)       | Stich     |     12° | 220 cm | normal                |
-| Dreizack (2H)       | Stich     |     12° | 240 cm | normal                |
-| Kriegshammer (1H)   | Hieb      |     90° |  75 cm | normal              |
-| Kriegshammer (2H)   | Hieb      |    100° | 120 cm | normal              |
-| Großer Knüppel      | Hieb      |    110° | 150 cm | normal              |
-| Leichte Armbrust    | Bolzen    |      2° |      – | fast                |
-| Glefe               | Hieb      |    130° | 220 cm | normal              |
-| Glefe               | Stich     |     10° | 220 cm | fast                |
-| Großaxt             | Hieb      |    130° | 160 cm | normal              |
-| Großschwert         | Stich     |      8° | 170 cm | normal                |
-| Großschwert         | Hieb      |    130° | 170 cm | normal              |
-| Hellebarde          | Stich     |     10° | 240 cm | normal                |
-| Hellebarde          | Hieb      |    130° | 240 cm | normal              |
-| Streithammer (Maul) | Hieb      |    100° | 170 cm | normal              |
-| Pike                | Stich     |      5° | 450 cm | normal                |
-| Schwere Armbrust    | Bolzen    |      2° |      – | fast                |
-| Langbogen           | Pfeil     |      2° |      – | fast                |
+| Weapon               | Wield  | Init |Dodge-Difficulty | Parry (Defense) | Parry (attack) | Block (Defense) | Block (attack) | Damage |
+| ------------------- | ------ | ---: | --:|-------: | ----: | ----: | ---------: | ------: |
+| Keule               | single |   -1 |  0 |    -1 |    -1 |     0 |         +1 | 1d6
+| Dolch               | single |   +3 |  -2 |    +1 |    -2 |    -2 |         -2 | 1d6
+| Handaxt             | single |   +1 |  -1 |    -1 |    -1 |     0 |         +1 | 1d6
+| Wurfspeer           | single |   +1 |   |    +2 |     0 |    -1 |          0 | 1d6
+| Leichter Hammer     | single |    0 |  -1 |    -2 |    -1 |    +1 |         +1 | 1d6
+| Streitkolben        | single |   -1 |  0 |    -2 |    -2 |    +2 |         +2 | 1d8
+| Sichel              | single |   +2 | -2  |    -2 |    -2 |    -2 |         -1 | 1d6
+| Wurfpfeil           | single |   +3 |   |    -3 |    -3 |    -3 |         -3 | 1d6
+| Schleuder           | single |   +3 |   |    -3 |    -3 |    -3 |         -3 | 1d6
+| Morgenstern         | single |   -2 |  +1 |    -3 |    -2 |     0 |         +3 | 1d8
+| Rapier              | single |   +2 |  0 |    +3 |    +3 |    -2 |         -2 | 1d6
+| Krummsäbel          | single |   +2 |   0|    +1 |    +1 |     0 |          0 | 1d6
+| Kurzschwert         | single |   +2 |   0|    +2 |    +1 |     0 |          0 | 1d6
+| Blasrohr            | single |   +3 |   |    -3 |    -3 |    -3 |         -3 | 1d6
+| Kampfstab           | single |    0 |   +1|    +2 |    +2 |    +2 |          0 | 1d6
+| Kampfstab           | double |   -1 |   +2|    +3 |    +3 |    +3 |         +1 | 2d4
+| Speer               | single |   +1 |+1   |    +2 |    +1 |     0 |          0 | 1d8
+| Speer               | double |    0 | +2  |    +3 |    +2 |    +1 |         +1 | 1d4+1d6
+| Streitaxt           | single |   -1 |  +1 |    -1 |     0 |    +1 |         +2 | 1d8
+| Streitaxt           | double |   -2 |  +2 |     0 |    +1 |    +2 |         +3 | 1d4+1d6
+| Langschwert         | single |    0 |   +1|     0 |     0 |     0 |          0 | 1d6
+| Langschwert         | double |   -1 |  +2 |    +1 |    +2 |    +2 |         +1 | 2d4
+| Kriegshammer        | single |   -2 | +1  |    -1 |     0 |    +2 |         +3 | 1d8
+| Kriegshammer        | double |   -3 |  +2 |     0 |    +1 |    +3 |         +3 | 1d6+1d4
+| Großer Knüppel      | double |   -2 |   +1|    -1 |     0 |    +2 |         +2 | 1d8
+| Leichte Armbrust    | double |   -2 |   |    -3 |    -3 |    -3 |         -3 | 1d6
+| Hellebarde/Pike          | double |   -3 |+3   |    +1 |    +2 |    +2 |         +3 | 1d6
+| Schwere Armbrust    | double |   -3 |   |    -3 |    -3 |    -3 |         -3 | 1d8
+| Kurzbogen           | double | +1   |   |    -3 |    -3 |    -3 |         -3 | 1d6
+| Langbogen           | double |    0 |   |    -3 |    -3 |    -3 |         -3 | 1d8
 
 ## Special Weapons
 ### Shield

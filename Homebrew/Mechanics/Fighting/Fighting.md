@@ -18,10 +18,11 @@ theoretical concept, not yet playtested. Raise an issue if you spot a problem!
 
 ## 1. Core Mechanic: Range
 
-| Distance | DC |
+| Distance | Mod |
 | ---------: | --------------: |
-|      0.5 m |               2 |
-|        5 m |               3 |
+|      0.5 m |               0 |
+| 3 m| 1 |
+|        5 m |               2 |
 |       10 m |               4 |
 |       20 m |               6 |
 |       30 m |               8 |
@@ -30,6 +31,8 @@ theoretical concept, not yet playtested. Raise an issue if you spot a problem!
 |       75 m |              15 |
 |      100 m |              18 |
 |      125 m |              20 |
+
+If in melee this is is always 0.
 
 > **Exception — Called Shots:** Precise hits on small target zones (eye,
 > throat) remain uncertain even at close range. The attacker rolls an
@@ -120,39 +123,19 @@ as one opposed roll (see Section 6).
 Attacker and defender both roll 1d20 and add their own modifiers. Higher
 total wins the exchange.
 
-$$\text{Attack Roll} = 1d20 + \text{Attacker-Prof} + \text{Attribute-Mod(weapon)} + \text{Speed Bonus}_{\text{Atk}} + \text{Attacker-Tokens}$$
+$$\text{Attack Roll} = 1d20 + \text{Attacker-Prof} + \text{Weapon-Mod} + \text{Attacker-Tokens}$$
 
-$$\text{Defense Roll} = 1d20 + \text{Defender-Prof} + \text{Stance-Mod} + \text{Attribute-Mod(stance)} + \text{Defender-Tokens}$$
+$$\text{Defense Roll} = 1d20 + \text{Defender-Prof} + \text{Weapon-Mod} + \text{Stance-Mod} + \text{Defender-Tokens}$$
 
 - **Stance-Mod** is whichever Dodge/Block/Parry modifier applies — see
   Section 7, note that the signs there are written for *this* roll-based
   format (higher Stance-Mod always helps the defender).
-- **Attribute-Mod(weapon)** for the attacker is the weapon's governing stat
-  (STR for most melee, DEX for finesse/ranged, see Section 2).
-- **Attribute-Mod(stance)** for the defender: DEX for Dodge/Parry, STR for
+- **Weapon-Mod** Check Mods of weapons in `weapons.md`.
+- **Attribute-Mod** for the defender: DEX for Dodge/Parry, CON for
   Block.
 - A natural 20 always wins the roll it's part of; a natural 1 always loses
   it, regardless of totals.
-- **Tie:** defender wins (benefit of the doubt goes to defense).
-
-### Speed Bonus (replaces the old DC-tier approach)
-
-Only increases, can't decrease.
-
-| Initiative Difference | Speed Bonus (faster side only) |
-|---|---|
-| 0–2 | +0 |
-| 3–5 | +1 |
-| 6–8 | +2 |
-| 9–11 | +3 |
-| 12–14 | +4 |
-| 15–17 | +5 |
-| 18–20 | +6 |
-| ... | ... |
-
-A nat1/nat20 only affects position in the action queue beyond its roll
-effect above; the initiative difference itself still updates according to
-Buffs.
+- **Tie:** attacker wins.
 
 ---
 
@@ -164,10 +147,10 @@ DEX is already represented via the Attribute-Mod and Speed Bonus (Section
 6). The Stance-Mod is a **malus** — the more ground you need to cover, the
 harder it is to actually pull off:
 
-$$\text{Stance-Mod (Dodge)} = -\big(\text{DC(Distance out of the AoE)} \times \text{Reaction Time Mod}\big)$$
+$$\text{Stance-Mod (Dodge)} = -\big(\text{DC(Distance out of the AoE)} + \text{DEX-Mod}\big)$$
 
 | Way out of the AoE | DC |
-|-|-|
+|--|--|
 | 0.5 m | 1 |
 | 1 m | 2 |
 | 2 m | 4 |
@@ -178,67 +161,26 @@ $$\text{Stance-Mod (Dodge)} = -\big(\text{DC(Distance out of the AoE)} \times \t
 
 (Below 2 m: y = 2x. At 2 m or higher: y = x².)
 
-| Tell | Reaction Time Mod |
-|---|---|
-| None (instant) | ×(5/3) |
-| Short | ×(4/3) |
-| Normal | ×1.0 |
-| Slow | ×(2/3) |
-
-Dodges backwards are always harder: −1. See the Weapon Table for typical
-attack angle/reach, which determines how small the escape AoE can be.
-
-- **Win:** 0 damage.
-- **Lose:** full damage.
-
 ### 7.2 Block
 
-Stance-Mod: $+(2 + \text{Weapon Mod})$ — added to your Defense Roll.
-
-Block is all-or-nothing on the outcome, but **which** way it fails depends
-on the attacking weapon:
-
-- **Win the opposed roll:** full absorb, 0 damage.
-- **Lose the opposed roll:** your stance breaks, per the matrix below.
-
-**Stance-Break Matrix** (Attacker weapon **weight** × your **block tool
-size**, determines base difficulty; attacker weapon **type** determines the
-failure consequence):
-
-| Attacker weight ↓ / Block tool → | Large (Shield) | Medium (Sword/Axe) | Small (Dagger) |
-|---|---|---|---|
-| Light / Arrow | Easy to block | Neutral | Hard (small surface, easy to miss) |
-| Medium (sword, axe) | Neutral | Neutral | Malus (size mismatch) |
-| Heavy (hammer, greatsword) | Malus, but blockable | Clear malus | Barely blockable |
-
-| Attacker weapon type | Consequence on failed Block |
-|---|---|
-| **Blunt** | Stagger/knockdown — you're prone or open next action |
-| **Sharp** | Damage leaks through, reduced but real |
+Stance-Mod: $+\text{CON-Mod}$
 
 ### 7.3 Parry
 
-Stance-Mod: $(\text{Weapon Mod} - 2)$ — added to your Defense Roll. Can be a
-malus if your Weapon Mod is below 2, reflecting that a good parrying weapon
-is what makes this option viable at all.
+Stance-Mod: $(-2 + \text{DEX-Mod})$ 
 
 - **Win the opposed roll:** 0 damage + a guaranteed free counterattack
-  (cannot be evaded, no reaction from the opponent). Counter damage is
-  reduced by the opponent's Prof-Mod.
-- **Lose the opposed roll:** you take the full hit **and** you're left
-  open — the attacker gets one additional guaranteed counter-hit (same
-  "cannot be evaded" logic, mirrored). High risk, high reward on both
-  sides.
+  (cannot be evaded, no reaction from the opponent).
+- **Lose the opposed roll:** you take the full hit.
 
 ---
 
 ## 8. Damage
 
-$$\text{Damage} = \max\left(1,\ 1d6 + \text{Prof-Mod} + \text{Stat-Mod}\right)$$
+$$\text{Damage} = \max\left(1,\ \text{Weapon-Roll} + \text{Prof-Mod} + \text{Stat-Mod}\right)$$
 
 - **Prof-Mod** unchanged (+2 to +6) — carries the level curve.
 - **Stat-Mod** (weapon's governing stat) full weight.
-- Minimum 1 damage on any hit, regardless of negative modifiers.
 
 
 ### Rounding Rule
@@ -250,9 +192,7 @@ averages effectively round down, e.g. 1d6 average 3.5 → 3.43 → 3).
 ## 9. AC & Initiative
 
 ### Initiative
-Still determines turn order. The difference between two combatants'
-initiative values also grants the faster side a Speed Bonus on the opposed
-roll (Section 6) — no separate reaction gate roll.
+Still determines turn order.
 
 ### AC
 Not binary hit/miss, but a damage modifier:
@@ -268,10 +208,7 @@ Full avoidance remains reserved for active reactions (Block/Parry/Dodge).
 
 Base idea: specific body parts are more penetrating than others. A hit to
 the arm or foot hampers movement but deals normal-to-low damage; a hit to
-the head is dangerous, and a hit to ear/eye can be immediate death. Since
-base damage here is low (~3.5 + mods), a vital-zone hit may grant a bonus
-1d4–1d8 depending on zone, at DM discretion. High DC is intended for called
-shots so fights don't become an "eye-shot simulator."
+the head is dangerous, and a hit to ear/eye can be immediate death. 
 
 ---
 
@@ -322,11 +259,6 @@ Leaving melee range grants a leaving attack:
 
 **How to disarm:** either the foe critically fails (nat1) their
 parry/block and drops the weapon, or you declare a disarm attempt — on a
-hit, the foe makes an unbuffed d20 save against your damage (no HP damage
-dealt). Losing the save drops the called-out weapon. Two-handed weapons
+hit, the foe makes the normal defensive throw against you. Losing the save drops the called-out weapon. Two-handed weapons
 grant advantage on this save.
 
-**What happens to the weapon:** it drops to the ground. For more detail,
-the DM may estimate throw distance from the difference between the d20 and
-the disarm damage, ×15 cm. After a disarm, anyone can pick up the weapon,
-burning 5 ft of movement (DM discretion on feasibility by weight/size).
