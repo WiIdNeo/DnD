@@ -1,8 +1,8 @@
-# Lysandra Mondschleier – Die Schleiertänzerin
+# Lysandra
 
 ## 1. Konzept
 
-Lysandra ist eine reisende Tänzerin und "Priesterin", die in jeder Stadt, die sie besucht, als innige Verehrerin Selûnes auftritt – der Mondmutter, der Herrin des Silbers, der Beschützerin der Reisenden und Werwandler. Ihre Tänze gelten als gesegnet, ihre Gesänge als Trost für Trauernde und Nachtwache. Niemand hinterfragt sie.
+Lysandra ist eine reisende Tänzerin und Priesterin, die in jeder Stadt, die sie besucht, als innige Verehrerin Selûnes auftritt – der Mondmutter, der Herrin des Silbers, der Beschützerin der Reisenden und Werwandler. Ihre Tänze gelten als gesegnet, ihre Gesänge als Trost für Trauernde und Nachtwache. Niemand hinterfragt sie.
 
 Tatsächlich dient sie Shar, der Herrin des Verlusts. Sie verehrt Shar nicht offen – das wäre Selbstmord in den meisten zivilisierten Landen. Stattdessen bedient sie sich einer Sprache, die für beide Göttinnen fast identisch klingt: Nacht, Dunkel, Stille, Schleier, Sterne, Ruhe, Vergessen. Wer nicht genau hinhört, hört eine Mondpriesterin. Wer weiß, worauf zu achten ist, hört Shars Lob.
 
@@ -14,9 +14,9 @@ Lysandra ist storytechnisch die **Hauptfigur des Triboar-Bogens** (siehe Session
 
 ## 2. Aussehen
 
-Lysandra ist Mitte bis ende zwanzig, wirkt aber zeitlos – schmal, hochgewachsen, mit der Kontrolle einer Tänzerin. Ihre Haut ist blass wie Mondlicht, was man ihrer "Hingabe an die Herrin" zuschreibt; tatsächlich meidet sie jedes Licht, besonders Mondlicht - aus Angst vor Rache von Selune - so oft es geht. Ihr Haar ist tief schwarz und Hüftlang. Es ragt unter einem Silbernen Schleier heraus, ein Zeichen für die Dunkelheit unter/hinter dem Mond.
+Lysandra ist Mitte bis ende zwanzig, wirkt aber zeitlos – schmal, hochgewachsen, sehr schön. Ihre Haut ist blass wie Mondlicht, was man ihrer "Hingabe an die Herrin" zuschreibt; tatsächlich meidet sie jedes Licht, besonders Mondlicht - aus Angst vor Rache von Selune - so oft es geht. Ihr Haar ist tief schwarz und Hüftlang. Es ragt unter einem Silbernen Schleier heraus, ein Zeichen für die Dunkelheit unter/hinter dem Mond.
 
-Ihr Gewand ist nachtblau, violett und schwarz. Sie trägt dunkle Perlen, die sie "Mondtränen" nennt; Kenner erkennen schwarzen Onyx statt Mondstein.
+Ihr Gewand ist nachtblau, violett und vor allem schwarz. Sie trägt dunkle Perlen: schwarzer Onyx.
 
 Sie tanzt barfuß, mit langen Ärmelschleiern. Ihre Choreografien enden nie in einer offenen Pose, sondern im Verschwinden – sie lässt sich in Dunkelheit oder Schatten "auflösen", was das Publikum als anmutigen Abgang liest, nicht als Symbolik.
 
@@ -27,7 +27,8 @@ Sie tanzt barfuß, mit langen Ärmelschleiern. Ihre Choreografien enden nie in e
 - Sie wirkt nie bedrohlich – im Gegenteil, oft als sanfteste, verständnisvollste Person im Raum.
 - Sie denkt in Jahren, nicht in Wochen. Ein einzelner Rückschlag erschüttert sie nicht.
 - Sie lügt fast nie direkt – sie lässt Menschen die falschen Schlüsse selbst ziehen und korrigiert sie nie.
-- Anziehend, aber unnahbar: Verehrer, Verliebte, sogar Adlige umwerben sie; sie lässt genug Nähe zu, um Informationen und Einfluss zu sammeln, aber nie genug, um durchschaut zu werden.
+- Anziehend, aber unnahbar: Verehrer, Verliebte, Adlige umwerben sie; sie lässt genug Nähe zu, um Informationen und Einfluss zu sammeln, aber nie genug, um durchschaut zu werden. Besonders ihre schönheit und die Freizügigkeit ihrer Kleidung (entsprechend des Mittelalters trotzdem eher gering) hilft ihr hierbei.
+- Sie spielt nicht für Geld, aber sie lässt sich gern von ihren Verehrern finanzieren.
 - Von anderen Shar-Anhängerin wird sie schnell als Anführein oder hochrangiges Mitglied des Kults anerkannt.
 
 ---
@@ -95,7 +96,7 @@ Lysandra eignet sich als **subtiler Antagonist** oder als **moralisch zwiespält
  - 4. Grad: *Schatten der Vergessenheit* (reflavored), *Wahrsagung*
 
 **Aktionen**
-- *Tanzdolch (Nahkampf).* +6 zu treffen, Reichweite 5 Fuß, ein Ziel. Treffer: 6 (1w4+3) Stichschaden plus 4 (1w8) psychischer Schaden.
+- *Tanzdolch (Nahkampf).* +6 zu treffen, Reichweite 5 Fuß, ein Ziel. Treffer: 7 (1w4+3) Stichschaden plus 5 (1w8) psychischer Schaden.
 - *Verzweiflungssegen (Zauber, 2/Tag).* Ein Kreaturtyp ihrer Wahl innerhalb 30 Fuß muss einen WEI-Rettungswurf (SG 14) bestehen oder erleidet 9 (2w8) psychischen Schaden und hat Nachteil auf den nächsten Angriffswurf, während sie glaubt, "gesegnet" worden zu sein.
 
 ### 5.4 Verwendungshinweise für den DM

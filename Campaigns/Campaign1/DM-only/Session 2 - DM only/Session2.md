@@ -63,10 +63,6 @@ Die Stadt wirkt zunächst normal — belebt, laut, geschäftig. Aber:
 
 - Am Stadttor spielt ein **Barde** ein melancholisches Lied für ein paar Münzen. Es passt
   nicht ganz zur fröhlichen Torwache und dem Marktlärm um ihn herum.
-  Kein Dialog nötig — nur eine Beobachtung im Vorbeigehen.
-- Gespräche in der Stadt sind auffällig oft von Resignation geprägt
-  ("Ach, wird schon nicht mehr gehen dieses Jahr...") ohne dass das
-  jemandem seltsam vorkommt.
 
 Kein Shar-Symbol, kein offensichtlicher Hinweis. Nur eine leise
 Verschiebung in der Stimmung.
@@ -94,7 +90,14 @@ Feurige Tänze der Priester von Lathander.
 
 ### Tag
 
-Events
+- Trinkspiel
+- Armdrücken
+- Holz hacken
+- Wahrsagen
+- Becherspiel
+- Wettschießen
+- Schmalzbalken
+- 
 
 ### Abend
 
@@ -174,6 +177,8 @@ Abreise
 
 Überfall durch Cragmaw-Goblins, Nahrung ist weg
 
+![Cragmaw-Hideout](Hideout.png)
+
 ### Tag 7 
 
 Gruppe muss Karawane mit Nahrung versorgen
@@ -185,65 +190,3 @@ Gruppe muss Karawane mit Nahrung versorgen
 ### Tag 9 
 
 - Ankunft in Nerverwinter
-
----
-
-
-## Der zusätzliche Begleiter
-
-Beim Abladen und Abrechnen zählt der Führer akribisch durch — Waren, Fracht,
-**und Personen**, aus Gewohnheit.
-
-Die Zahl stimmt nicht.
-
-Ein Mann steht bei der Karawane, in passender Ausrüstung, mit
-Reisespuren, scheinbar seit Tagen dabei. Er kennt seinen eigenen Namen,
-seine Herkunft, seine Aufgabe. Niemand in der Karawane 
-erinnert sich an ihn.
-
-Wichtig für die Inszenierung: Er ist nicht unsichtbar oder ein Geist —
-er ist einfach sozial bedeutungslos geworden. Menschen übersehen ihn
-eher, als dass sie ihn fürchten. Das macht es gruseliger als ein
-klassisches Monster.
-
-### 1. Der vergessene Reisende
-
-**Ziel:** Herausfinden, wer der Mann ist und warum sich niemand an ihn
-erinnert.
-
-Ablauf-Vorschlag:
-- Befragung der Karawane und der Stadtwache — niemand erinnert sich
-  konsistent, Aussagen widersprechen sich leicht.
-- Blick in Meldeunterlagen/Zunftlisten: Sein Name taucht auf, aber
-  jedes Mal mit anderer Handschrift, als hätte man ihn "nachgetragen".
-- Der Mann selbst wird zunehmend unruhig/verängstigt, je mehr man ihn
-  befragt — er beginnt selbst an sich zu zweifeln. Kein Kampf nötig,
-  aber emotional intensiv.
-- **Auflösung (für dich als SL):** Er war real, ein einfacher Mitreisender,
-  der zufällig an einem der stillen Rituale (Punkt "Schwarze
-  Prozession") vorbeikam und unabsichtlich einen Teil des sozialen
-  "Vergessens" abbekam, das eigentlich für jemand anderen bestimmt war.
-  Muss den Spielern nicht sofort erklärt werden
-
-# Generische NPCs
-
-Zum dynamischen Einsatz als Questgeber oder für zufällige Begegnungen
-unterwegs.
-
-| # | Name | Beruf | Gemüt |
-|---|---|---|---|
-| 1 | Joran Fassbinder | Böttcher | Mürrisch, aber ehrlich |
-| 2 | Íde Thistlewood | Kräuterfrau | Warmherzig, geschwätzig |
-| 3 | Callum Braun | Straßenwache | Pflichtbewusst, humorlos |
-| 4 | Senna Flint | Wahrsagerin | Geheimnisvoll, spöttisch |
-| 5 | Bram Halstead | Schmied | Stur, loyal |
-| 6 | Wren Aldergate | Fährmann | Ängstlich, abergläubisch |
-| 7 | Petra Voss | Wirtin | Resolut, gastfreundlich |
-| 8 | Old Tobin | Bettler | Weise, exzentrisch |
-| 9 | Marla Quinn | Jägerin | Wortkarg, misstrauisch |
-| 10 | Denner Cobb | Fahrender Händler | Gierig, aber charmant |
-| 11 | Ysolde Vane | Heilerin | Geduldig, fromm |
-| 12 | Grask Dunmore | Söldner | Zynisch, im Kern tapfer |
-| 13 | Tamsin Reed | Bäuerin | Freundlich, erschöpft |
-| 14 | Aldous Pemberton | Gelehrter | Zerstreut, neugierig |
-| 15 | Corwin Aldric | Stallmeister | Grob, aber tierlieb |
