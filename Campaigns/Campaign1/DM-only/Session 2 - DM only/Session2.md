@@ -1,3 +1,4 @@
+
 # 5 Ziegen
 
 |Ziege|Event|
@@ -84,64 +85,61 @@ Verschiebung in der Stimmung.
 
 ## Sommersonnenwende
 
-### Morgen
+### Morgen: Feurige Tänze der Priester von Lathander
 
-Feurige Tänze der Priester von Lathander.
+- Bei Sonnenaufgang versammelt sich die halbe Stadt auf dem Marktplatz. Priester in orange-goldenen Roben tanzen mit brennenden Fackeln und Bändern zu Trommeln, während der **Hohepriester Aurelian Duskbane** eine Rede über "das Licht, das immer wiederkehrt" hält.
+- Kinder dürfen kleine Papierlaternen mit Wünschen entzünden und in die Luft steigen lassen (schöner, ruhiger Rollenspielmoment).
+- **Kleiner Haken:** Die Rede des Hohepriesters wirkt dieses Jahr merkwürdig lustlos, fast auswendig gelernt – niemand außer vielleicht einer aufmerksamen Figur bemerkt es bewusst.
 
-### Tag
+### Tag: Events
 
-- Trinkspiel
-- Armdrücken
-- Holz hacken
-- Wahrsagen
-- Becherspiel
+
 - Wettschießen
-- Schmalzbalken
-- 
+- Wetttrinken
+- Ringkampf/Kraftprobe
+- Wettessen
+- Glücksspielstände
+- Wahrsager
 
-### Abend
 
-- magischer Feuerspucker entzündet Feuer in einer Großen Show
-- Sommersonnenarie
+### Abend: Feuershow und Sommersonnenarie
 
 ### Nacht
 
-Feuer, die die Nacht durchbrennen sollten werden gelöscht. 
+Feuer, die die Nacht durchbrennen sollten.
 
 ### Nächster Morgen
 
-Verängstigte Ältere, Saure/Pessimistische Sonnenpriester, Aber die breite Bevölkerung sieht es nicht so eng.
+Verängstigte Ältere, saure/pessimistische Sonnenpriester, aber die breite Bevölkerung sieht es nicht so eng.
+
+- Die alten Sonnenpriester wirken sauer, fast ängstlich.
 
 ---
 
 ## Das Schwarze Brett
 
-Für Tempo zwischen den Haupthaken. Jede davon braucht keine
-Vorbereitung des Kult-Plots, kann an einem Abend erledigt werden.
-
-- **Wolfsangriffe auf Vieh** — ein Bauer außerhalb der Stadt verliert
-  Schafe. Tatsächliche Ursache: ein hungriges, verletztes
-  Wolfsrudel, kein Kult-Bezug. Guter Moment für den Werwolf-Charakter,
-  echte Wölfe zu treffen, die einfach nur überleben wollen — moralisch
-  interessanter als reiner Kampf.
 - **Bande von Wegelagerern** auf der Handelsstraße nach Westen —
   klassischer Bounty-Job, 4–5 Banditen, Belohnung von der
   Karawanengilde.
 - **Verschwundener Hund/Kind im Stadtwald** — harmlose Rettungsaktion,
   gute Gelegenheit für Rollenspiel statt Kampf, evtl. leicht gruselige
-  Fehlspur (Fährte führt an den Rand einer der später wichtigen
-  "Schattenriss"-Zonen, ohne dass es dort schon etwas zu finden gibt).
-- **Betrunkener Randale in der Taverne** — Bar-Brawl, nichtlethal,
-  gute Gelegenheit, NPCs wie Bryn oder Yeva (falls sie noch in der
-  Stadt sind) wieder auftauchen zu lassen.
+  Fehlspur.
 - **Ein Handwerker braucht Materialien** aus einer nahen, leicht
-  gefährlichen Ruine/Höhle — Dungeon-Crawl im Kleinformat, 1–2 Räume,
+  gefährlichen Ruine/Höhle — Dungeon-Crawl im Kleinforma,
   ein Monster (z. B. Riesenspinnen oder ein Ghul).
 - **Der Brunnen schmeckt komisch** — Anwohner eines Stadtviertels klagen über bitteres Wasser. Ursache: ein toter Waschbär im Brunnenschacht. Banale Lösung, aber gute Gelegenheit für Stadtkenntnis-Rollenspiel und Klatsch von den Nachbarn, die sich beim Wasserholen treffen.
-- **Ein Preisschießen/Turnier** zum örtlichen Erntefest — kein Kampf gegen Feinde, sondern Wettbewerb (Bogenschießen, Armdrücken, Trinkwettbewerb). Reine Charakterbühne, evtl. NPC-Rivalen, kleine Belohnung (Ruf in der Stadt statt Gold).
-- **Verlorene Erbschaft** — ein Anwalt sucht Zeugen/Erben für einen kürzlich verstorbenen Einwohner ohne bekannte Familie. Die Gruppe wird gebeten, in dessen Haus nach Hinweisen auf Verwandte zu suchen. Leichtes Erkundungs-Encounter, evtl. ein kurioses Detail im Haus (ein verstecktes Tagebuch, ein seltsames Amulett), das später als Haken dienen kann, ohne dass es sofort etwas bedeuten muss.
-- **Streit zweier Handwerker-Gilden** um ein Grundstück — die Gruppe wird als neutrale Vermittler gebeten, beide Seiten anzuhören. Reines Verhandlungs-/Diplomatie-Encounter, gut für Charaktere mit hohem Charisma, die sonst wenig zu tun bekommen.
-- **Ein streunender Bär/Wildschwein** ist in die Außenbezirke gewandert und hat einen Stall demoliert. Bauer will es nicht töten lassen (heiliges Tier der Gegend, Aberglaube), nur vertreiben — Encounter mit moralischer Nuance statt reinem Kill.
+- **Verlorenes Familienerbstück** — Eine alte Frau, **Mutter Yannis**, hat beim Fest ihre Brosche verloren; Belohnung ist kein Geld, sondern ein selbstgebackener Kuchen jede Woche für einen Monat (Rollenspiel-Belohnung statt Loot).
+
+## Zufallsencounter
+
+- **Betrunkener Randale in der Taverne** — Bar-Brawl, nichtlethal,
+  gute Gelegenheit, NPCs wie Bryn oder Yeva wieder auftauchen zu lassen.
+- **Streit zweier Marktschreier** — Zwei Händler beschuldigen sich gegenseitig, dieselbe "exklusive" Ware zu verkaufen. Eskaliert schnell zu Publikumsspektakel.
+- **Verlorenes Kind am Festplatz** — Ein weinendes Kind hat seine Eltern im Gedränge verloren; harmlos, aber emotional, gute Gelegenheit für fürsorgliche Charaktere.
+- **Betrunkener Priester** — Einer der jüngeren Lathander-Priester hat es mit dem Festbier übertrieben und lallt Andeutungen über "das Licht, das zu zögern scheint" – am nächsten Tag erinnert er sich an nichts.
+- **Taschendieb im Gedränge** — Klassischer Diebstahlsversuch während der Menschenmenge bei der Feuershow.
+- **Streunender Hund adoptiert die Gruppe** — Ein Straßenhund folgt der Gruppe hartnäckig; könnte als wiederkehrendes Maskottchen etabliert werden.
+- **Wahrsagerin am Stadtrand** — Eine zwielichtige Wahrsagerin bietet Lesungen an; ihre Prophezeiung für die Gruppe ist vage, aber eine Zeile trifft unheimlich genau zu (Foreshadowing-Werkzeug).
 
 ---
 
@@ -160,9 +158,7 @@ Route: Triboar → Phandalin → Cragmaw-Hideout → Neverwinter
 ### Tag 3 
 
 
-
-### Tag 4 
-
+### Tag 4
 
 
 ### Tag 5 — Ankunft Phandalin
@@ -185,8 +181,9 @@ Gruppe muss Karawane mit Nahrung versorgen
 
 ### Tag 8 
 
-
+- Nachwirkungen des Goblin-Überfalls: Die Karawane ist angespannt, Rationen knapp trotz der Nahrungslieferung von Tag 7. Erste Anzeichen von Reizbarkeit unter den NPCs.
+- Späte Zufallsbegegnung: eine Gruppe Handelsreisender aus Neverwinter kommt entgegen und bringt aktuelle Gerüchte aus der Stadt mit (guter Ort, um Hooks für die Neverwinter-Ankunft zu platzieren).
 
 ### Tag 9 
 
-- Ankunft in Nerverwinter
+- Ankunft in Triboar
