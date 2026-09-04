@@ -374,10 +374,6 @@ Verängstigte Ältere, saure/pessimistische Sonnenpriester, aber die breite Bev�
 - Ankunft Phaladin, Handelszwischenstopp
 - **Der Brunnen schmeckt komisch** — Anwohner eines Stadtviertels klagen über bitteres Wasser. Ursache: ein toter Waschbär im Brunnenschacht. Banale Lösung, aber gute Gelegenheit für Stadtkenntnis-Rollenspiel und Klatsch von den Nachbarn, die sich beim Wasserholen treffen.
 
-### Tag 6 
-
-Abreise
-
 ### Nacht von Tag 6 auf Tag 7 
 
 Überfall durch Cragmaw-Goblins, Nahrung ist weg
@@ -396,3 +392,4 @@ Gruppe muss Karawane mit Nahrung versorgen
 ### Tag 9 
 
 - Ankunft in Triboar
+

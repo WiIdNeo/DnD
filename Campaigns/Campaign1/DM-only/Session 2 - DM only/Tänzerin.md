@@ -66,7 +66,7 @@ Lysandra eignet sich als **subtiler Antagonist** oder als **moralisch zwiespält
 2. Einen einflussreichen Adligen oder Priester so weit manipulieren, dass er unwissentlich Shar-Doktrin in offizielle Liturgie einfließen lässt.
 3. Langfristig: eine ganze Stadt oder Region so an "Stille, Verlust, Ruhe" gewöhnen, dass eine offene Shar-Tempelweihe keinen Aufschrei mehr auslöst.
 
-### 5.3 Vereinfachter Statblock (5e, angepasste "Priesterin"-Vorlage)
+### 5.3 Vereinfachter Statblock
 
 **Lysandra Mondschleier**
 *Mittelgroßer Humanoid (Mensch), rechtschaffen böse*
@@ -99,39 +99,98 @@ Lysandra eignet sich als **subtiler Antagonist** oder als **moralisch zwiespält
 - *Tanzdolch (Nahkampf).* +6 zu treffen, Reichweite 5 Fuß, ein Ziel. Treffer: 7 (1w4+3) Stichschaden plus 5 (1w8) psychischer Schaden.
 - *Verzweiflungssegen (Zauber, 2/Tag).* Ein Kreaturtyp ihrer Wahl innerhalb 30 Fuß muss einen WEI-Rettungswurf (SG 14) bestehen oder erleidet 9 (2w8) psychischen Schaden und hat Nachteil auf den nächsten Angriffswurf, während sie glaubt, "gesegnet" worden zu sein.
 
-### 5.4 Verwendungshinweise für den DM
-- Lass Lysandra **nie** eine eindeutig falsche Aussage über Selûne treffen – ihre Macht liegt in der Wahrheit, die sie verdreht, nicht in Lügen.
-- Gib den Spielern früh **stimmige, aber mehrdeutige Hinweise** (die achtstrahlige Stickerei, die "acht Schritte", die auffällig dunklen Perlen) statt offensichtlicher Bösewicht-Signale.
-- Nutze die Sommersonnenwende-Arie als **Höhepunkt eines Handlungsbogens** – ein Fest, bei dem die Gruppe zum ersten Mal begreift, was sie die ganze Zeit gehört hat, ohne es zu verstehen.
-- Überlege, ob Lysandra am Ende **fliehen und weiterziehen** kann (passend zu ihrer Geduld über Jahrzehnte), statt in einem finalen Kampf zu sterben – das unterstreicht ihre Rolle als wiederkehrende, sich stets neu tarnende Bedrohung.
-- Lysandra ist aktuell für den **Triboar-Bogen** verortet. Wann genau und in welcher Szene sie dort auftritt, sowie Ausgestaltung des Sommersonnenwende-Festes selbst (Ort, NPC-Reaktionen, ob es eskaliert), bleibt bewusst offen und liegt bei dir.
+### 5.5 Sommersonnenwende 
 
-### 5.5 Sommersonnenwende – Event-Bausteine & 5e-Regelvorschläge
+#### Das Licht, das man löscht
 
-Lose Bausteine, nicht verpflichtend, absichtlich nicht vollständig
-ausgeplottet:
+```
+Das K'ind lag w'ach im D'unkeln R'aum
+und f'ürchtete die N'acht.
+entz'ündet schn'ell ein h'eller Tr'aum: 
+ein L'icht in s'anfter Pr'acht.
 
-**Mögliche Events**
-- Tagsüber: Marktfest mit harmlosen Wettbewerben (Bogenschießen,
-  Blumenkränze binden) — reine Charakterbühne.
-- Abends: Fackelumzug zum Stadtplatz, wo Lysandra die lange Arie
-  vorträgt.
-- Höhepunkt: Am Ende der Arie werden reihenweise Kerzen ausgeblasen
-  statt entzündet ("damit die Herrin sieht, dass wir ihr vertrauen") —
-  auffällig für jeden, der genau hinschaut, aber niemand im Publikum
-  hinterfragt es.
-- Optional: Ein Selûne-Priester oder Gelehrter im Publikum reagiert
-  sichtbar unwohl, ohne sagen zu können, warum — ein Ansatzpunkt für
-  aufmerksame Spieler.
+Nun s'ah es Sch'rank, nuun s'ah es Sch'atten,
+das F'enster: kl'ar und n'ah —
+Nun s'ah es Sch'rank, nuun s'ah es Sch'atten,
+doch k'ein Schlaf, d'a so v'iel gesch'ah.
+
+Da l'öschte st'ill die M'utter
+die gr'oße L'ampe '​aus.
+„W'arum t'ust das, M'utter?"
+— „D'ie Nacht r'uht vorm H'aus."
+
+Drum bl'eibt nur die K'erze,
+Sehr kl'ein und tr'eibt kaum die Schw'ärze.
+das K'ind h'ört W'ind und H'olz,
+ die W'elt bleibt, '​ungesch'aut.
+
+„Und w'enn ich n'ichts mehr s'ehe?"
+so fr'agt das K'ind sie l'eis.
+— „Dann m'usst du '​auch nichts s'uchen" —
+so spr'icht die M'utter l'eis.
+
+Die Fl'amme wird kl'einer und
+so kl'einer j'ede St'und,
+
+Das K'ind schl'oss die '​Augen zu 
+und f'and im D'unkel s'eine R'uh.
+Denn die Mutter, Herrin der Nacht,
+sitzt im Dunkeln und hält Wacht.
+```
+
+#### Die Laterne des Heimkehrers
+
+  Ein Soldat lief Nachts nach Haus,
+  vom Schlachtfeld wollt er gerade Heim.
+  Die Lampe leuchtete voraus.
+
+  Leuchten fiel auf Feld, auf Stein, 
+  und Schatten tantzten wild umher.
+  Um den Soldaten immer mehr.
+
+  Sie spielten wild, sie spielten Krieg,
+  Der Soldat traute seinen Augen nicht,
+  gespielt den Weg zu seinem Sieg.
+
+  Flammendes Haus, die Mauer bricht,
+  Der Soldat erschrickt, 
+  Rückt die Laterne höher ein Stück.
+
+  Das Licht bricht den Nebel,
+  Er spielt wild, er spielt Krieg,
+  Er zeigt das rasseln des Säbel,
+
+  Der Pfeil fliegt,
+  ein Toter Feind: ein Kind noch warm,
+  Doch sein ist der Sieg.
+
+  Blickt auf seinen Arm.
+  Der Soldat bricht zusammen,
+  Er fühlt das Licht ihn verdammen,
+
+  so dreht er es aus,
+  die Dunkelheit vetreibt die Bilder,
+  bietet dem Soldaten die Paus'.
+
+  Nun Geräusche der Nacht immer wilder,
+  doch genommen die Angst in der Schwärze,
+  durch die Herrin, weit im Herze.
+
+  Der Soldat geführt von ihr,
+  Reist  durch die Schwärze ohne Zweifel,
+  Schützt ihn vor jedem Harm durch jedes Tier.
+
+  Geführt nach Haus, nicht als Teufel,
+  denn als Held, 
+  Niemals wieder besucht das Gedankenfeld.
+
+  Gelebt in Frieden, Gelebt in Ruh,
+  Der Frieden der Mutter deckt in zu.
+
 
 **5e-Regelvorschläge**
 - **Religion (SG 17):** um die Doppeldeutigkeit der Liedzeilen bewusst
-  zu erkennen (siehe Sprach-Tabelle in Abschnitt 4).
-- **Verzweiflungssegen als Massenmoment:** Für mehr Bedrohlichkeit kann
-  Lysandra ihren *Verzweiflungssegen* (siehe Statblock) hier als
-  vermeintliche Massensegnung wirken — mechanisch aber nur gezielt
-  gegen die SC oder einen einzelnen NPC anwenden, um es spielbar zu
-  halten.
+  zu erkennen.
 - **Bauchgefühl-Rettungswurf:** Charaktere mit Bezug zu Selûne
   (Kleriker, Paladine ihres Ordens) könnten einen WEI-Rettungswurf
   (SG 14) bekommen, um kurz ein Gefühl der "Falschheit" zu spüren, ohne
